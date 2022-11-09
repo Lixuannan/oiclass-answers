@@ -1,3 +1,4 @@
+//Created in Wed Nov  9 16:21:47 2022
 #include<iostream>
 using namespace std;
 int cnt, ind, strLen, striInd, striLen;

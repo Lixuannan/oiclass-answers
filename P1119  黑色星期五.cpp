@@ -1,3 +1,4 @@
+//Created in Wed Nov  9 16:21:48 2022
 #include<iostream>
 using namespace std;
 int n, ans[8], days[13] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}, day = 0;

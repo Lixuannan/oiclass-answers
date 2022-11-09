@@ -1,3 +1,4 @@
+//Created in Wed Nov  9 16:22:11 2022
 #include<iostream>
 using namespace std;
 int n, x, ans[10];

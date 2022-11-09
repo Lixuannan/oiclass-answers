@@ -1,3 +1,4 @@
+//Created in Wed Nov  9 16:21:33 2022
 #include<iostream>
 using namespace std;
 int m,t,u,f,d,in,time_,lengh;

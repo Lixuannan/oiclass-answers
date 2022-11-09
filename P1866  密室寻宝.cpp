@@ -1,3 +1,4 @@
+//Created in Wed Nov  9 16:21:11 2022
 #include<iostream>
 using namespace std;
 unsigned short p, q, n, cnt;
