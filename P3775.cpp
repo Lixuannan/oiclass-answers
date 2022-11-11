@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 15:25:17 2022
+//Created in Fri Nov 11 16:04:43 2022
  //System: Darwin 22.1.0
 n = int(input())
 if n % 3 == 0:

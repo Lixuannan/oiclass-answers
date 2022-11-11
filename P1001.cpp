@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 15:24:17 2022
+//Created in Fri Nov 11 16:04:01 2022
  //System: Darwin 22.1.0
 n = int(input())
 a = 8
