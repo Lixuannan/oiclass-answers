@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 13:59:46 2022
+//Created in Fri Nov 11 14:19:00 2022
 #include "iostream"
 using namespace std;
 bool p,t;

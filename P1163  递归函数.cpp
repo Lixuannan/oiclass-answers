@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 13:59:31 2022
+//Created in Fri Nov 11 14:18:48 2022
 #include<iostream>
 using namespace std;
 bool p[101][101][101];
