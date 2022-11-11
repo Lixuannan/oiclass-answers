@@ -1,4 +1,4 @@
-//Created in Wed Nov  9 16:21:33 2022
+//Created in Fri Nov 11 10:52:32 2022
 #include<iostream>
 using namespace std;
 int m,t,u,f,d,in,time_,lengh;
@@ -29,7 +29,7 @@ int main(){
 				break;
 			}
 		}
-		// cout<<time_<<"\t"<<lengh<<endl;
+		// cout<<time_<<"	"<<lengh<<endl;
 	}
 	cout<<lengh<<endl;
 }

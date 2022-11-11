@@ -1,4 +1,4 @@
-//Created in Wed Nov  9 16:20:50 2022
+//Created in Fri Nov 11 10:52:03 2022
 #include<iostream>
 using namespace std;
 char str[257];

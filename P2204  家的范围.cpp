@@ -1,4 +1,4 @@
-//Created in Wed Nov  9 16:21:16 2022
+//Created in Fri Nov 11 10:52:20 2022
 #include<iostream>
 using namespace std;
 int n, a[9999][9999], s[9999][9999], cnt[252];
@@ -22,10 +22,10 @@ int main(){
 				s[ii][jj] - s[i - 1][jj]
 				- s[ii][j - 1] + s[i - 1][j - 1]){
 					cnt[k] += 1;
-//					cout << "  YES\n";
+//					cout << "  YES" << endl;
 //					continue;
 				}
-//				cout << "  NO\n";
+//				cout << "  NO" << endl;
 			}
 		}
 	}
