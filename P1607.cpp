@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 16:12:08 2022
+//Created in Fri Nov 11 16:40:01 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7,7 +7,7 @@ int main(){
     cin>>n;
     tb = 27 + n / 3.0 + 23;
     tw = n / 1.2;
-    if (tb == tw) cout<<"All"<<"\n"<<tw;
-    else if (tb < tw) cout<<"Bike"<<"\n"<<tb;
-    else if (tw < tb) cout<<"Walk"<<"\n"<<tw;
+    if (tb == tw) cout<<"All"<<endl<<tw;
+    else if (tb < tw) cout<<"Bike"<<endl<<tb;
+    else if (tw < tb) cout<<"Walk"<<endl<<tw;
 }
