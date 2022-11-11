@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 11:49:10 2022
+//Created in Fri Nov 11 13:59:20 2022
 n = int(input())
 a = 8
 b = (n - 2) * 12

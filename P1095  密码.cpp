@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 11:49:22 2022
+//Created in Fri Nov 11 13:59:29 2022
 #include<iostream>
 using namespace std;
 string ain, bin;

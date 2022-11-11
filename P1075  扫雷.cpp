@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 11:49:20 2022
+//Created in Fri Nov 11 13:59:28 2022
 #include<iostream>
 using namespace std;
 char a[102][102];

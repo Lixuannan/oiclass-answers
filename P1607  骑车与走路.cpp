@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 11:48:39 2022
+//Created in Fri Nov 11 13:56:56 2022
 #include<iostream>
 using namespace std;
 int n, tb, tw;

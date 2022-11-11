@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 11:49:50 2022
+//Created in Fri Nov 11 13:59:57 2022
 #include "iostream"
 using namespace std;
 int n,xin,score;
