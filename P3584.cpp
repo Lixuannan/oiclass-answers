@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 14:56:43 2022
+//Created in Fri Nov 11 15:02:48 2022
 #include<iostream>
 using namespace std;
 unsigned long long n, p, ans = 0, jc = 1;

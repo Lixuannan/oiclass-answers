@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 14:56:43 2022
+//Created in Fri Nov 11 15:02:48 2022
 #include<iostream>
 using namespace std;
 int n,x,y,in,sum,max_=-999999,min_=999999;
