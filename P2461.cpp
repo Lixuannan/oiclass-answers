@@ -1,4 +1,5 @@
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:48 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, m, a[99999], opt, l, r, add;

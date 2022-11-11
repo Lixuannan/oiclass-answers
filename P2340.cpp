@@ -1,4 +1,5 @@
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:47 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;

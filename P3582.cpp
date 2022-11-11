@@ -1,4 +1,5 @@
-//Created in Fri Nov 11 15:12:57 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,x,y,in,sum,max_=-999999,min_=999999;

@@ -1,4 +1,5 @@
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n, jg, yx, in;

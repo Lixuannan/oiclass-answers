@@ -5,7 +5,8 @@
 ![](./P1954.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:38 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 unsigned int n, x, y;
@@ -22,7 +23,8 @@ int main(){
 ![](./P1798.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 //#include <iostream>
 //
 //using namespace std;
@@ -200,7 +202,8 @@ int main() {
 ![](./P1940.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 #include<algorithm>
@@ -248,7 +251,8 @@ int main(){
 ![](./P1029.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -278,7 +282,8 @@ int main() {
 ![](./P1997.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:38 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -298,7 +303,8 @@ int main() {
 ![](./P4145.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -312,7 +318,8 @@ int main(){
 ![](./P1015.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -331,7 +338,8 @@ int main(){
 ![](./P1001.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:27 2022
+//Created in Fri Nov 11 15:24:17 2022
+ //System: Darwin 22.1.0
 n = int(input())
 a = 8
 b = (n - 2) * 12
@@ -343,7 +351,8 @@ print(str(a) + "\n" + str(b) + "\n" + str(c))
 ![](./P1149.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,a=1,b=1,c=1;
@@ -362,7 +371,8 @@ int main(){
 ![](./P2468.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:50 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, l, r, in;
@@ -384,7 +394,8 @@ int main(){
 ![](./P3776.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:17 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n, sum = 1, cnt = 1;
@@ -402,7 +413,8 @@ int main(){
 ![](./P1607.png)
 ```cpp
 
-//Created in Fri Nov 11 15:10:14 2022
+//Created in Fri Nov 11 15:21:15 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, tb, tw;
@@ -420,7 +432,8 @@ int main(){
 ![](./P1388.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;int n;string str;string tree(string s){string ans;if(s.length()<=1){if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}else{ans+=tree(s.substr(0,s.length()/2));ans+=tree(s.substr(s.length()/2,s.npos));if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}return ans;}int main(){cin>>n>>str;cout<<tree(str);}
 ```
@@ -429,7 +442,8 @@ using namespace std;int n;string str;string tree(string s){string ans;if(s.lengt
 ![](./P3574.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -454,7 +468,8 @@ int main(){
 ![](./P1612.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,m,sum;
@@ -473,7 +488,8 @@ int main(){
 ![](./P1174.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 
@@ -499,7 +515,8 @@ int main(){
 ![](./P3763.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:16 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n, sum, in, min_;
@@ -520,7 +537,8 @@ int main(){
 ![](./P3777.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:17 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -556,7 +574,8 @@ int main(){
 ![](./P2469.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:50 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, cnt, a[99999];
@@ -586,7 +605,8 @@ int main(){
 ![](./P1606.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -600,7 +620,8 @@ int main(){
 ![](./P1148.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long a=1,b=1,c=1,in;
@@ -619,7 +640,8 @@ int main(){
 ![](./P1000.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:27 2022
+//Created in Fri Nov 11 15:24:17 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -639,7 +661,8 @@ int main(){
 ![](./P1014.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -659,7 +682,8 @@ int main(){
 ![](./P2253.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:46 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -701,7 +725,8 @@ int main(){
 ![](./P1028.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -730,7 +755,8 @@ int main(){
 ![](./P4150.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -750,7 +776,8 @@ int main(){
 ![](./P2051.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:40 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -777,7 +804,8 @@ int main() {
 ![](./P1599.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,sum,max_,min_ = 999999;
@@ -796,7 +824,8 @@ int main(){
 ![](./P4146.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n, jg, yx, in;
@@ -819,7 +848,8 @@ int main(){
 ![](./P2251.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:46 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -850,7 +880,8 @@ int main(){
 ![](./P1002.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:17 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -867,7 +898,8 @@ int main(){
 ![](./P1016.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -881,7 +913,8 @@ int main(){
 ![](./P1837.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:45 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -909,7 +942,8 @@ int main(){
 ![](./P3761.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:16 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -926,7 +960,8 @@ int main() {
 ![](./P1604.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 unsigned long long n,m;
@@ -940,7 +975,8 @@ int main(){
 ![](./P3775.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:17 2022
+ //System: Darwin 22.1.0
 n = int(input())
 if n % 3 == 0:
     print(n // 3)
@@ -952,7 +988,8 @@ else:
 ![](./P1605.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -969,7 +1006,8 @@ int main(){
 ![](./P1163.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 bool p[101][101][101];
@@ -1013,7 +1051,8 @@ int main(){
 ![](./P1611.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,m,sum;
@@ -1041,7 +1080,8 @@ int main(){
 ![](./P2330.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:47 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a[99999];
@@ -1070,7 +1110,8 @@ int main(){
 ![](./P1017.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1091,7 +1132,8 @@ int main(){
 ![](./P1003.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:17 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -1108,7 +1150,8 @@ int main(){
 ![](./P1995.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:38 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n,minn,maxn;
@@ -1134,7 +1177,8 @@ int main(){
 ![](./P4153.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -1150,7 +1194,8 @@ int main(){
 ![](./P3628.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,ans;
@@ -1174,7 +1219,8 @@ int main(){
 ![](./P1598.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1191,7 +1237,8 @@ int main(){
 ![](./P3610.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:58 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -1228,7 +1275,8 @@ int main(){
 ![](./P1007.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1247,7 +1295,8 @@ int main(){
 ![](./P1013.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -1267,7 +1316,8 @@ int main(){
 ![](./P3604.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:58 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
 
@@ -1302,7 +1352,8 @@ int main(){
 ![](./P1601.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1317,7 +1368,8 @@ int main(){
 ![](./P3567.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -1346,7 +1398,8 @@ int main(){
 ![](./P3759.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:16 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long cnt, a, b;
@@ -1369,7 +1422,8 @@ int main(){
 ![](./P1166.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 #include<cstring>
@@ -1417,7 +1471,8 @@ int main(){
 ![](./P1600.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,t,cnt;
@@ -1440,7 +1495,8 @@ int main(){
 ![](./P1990.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:38 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -1463,7 +1519,8 @@ int main(){
 ![](./P1012.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1487,7 +1544,8 @@ int main(){
 ![](./P1006.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -1508,7 +1566,8 @@ int main(){
 ![](./P2043.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:39 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long n, t, s[9999999], a[9999999], ans[3], maxn;
@@ -1540,7 +1599,8 @@ int main(){
 ![](./P1562.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, s[1001][1001], a[1001];
@@ -1565,7 +1625,8 @@ int main(){
 ![](./P1010.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1584,7 +1645,8 @@ int main(){
 ![](./P1004.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -1601,7 +1663,8 @@ int main(){
 ![](./P1038.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, m, a;
@@ -1620,7 +1683,8 @@ int main(){
 ![](./P1831.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1654,7 +1718,8 @@ int main(){
 ![](./P1602.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int t,a,b,c,d,e,f;
@@ -1671,7 +1736,8 @@ int main(){
 ![](./P1164.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, s;
@@ -1696,7 +1762,8 @@ int main(){
 ![](./P3767.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:17 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int a, b, c, d, e, f;
@@ -1730,7 +1797,8 @@ int main(){
 ![](./P1170.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int v, n, a[99999999];
@@ -1755,7 +1823,8 @@ int main(){
 ![](./P1158.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #pragma GCC optimize(3)
 #pragma GCC target("avx")
 #pragma GCC optimize("Ofast")
@@ -1828,7 +1897,8 @@ int main(){
 ![](./P3571.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int red, idx, in, ans;
@@ -1851,7 +1921,8 @@ int main()
 ![](./P2109.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:41 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 #include<algorithm>
@@ -1944,7 +2015,8 @@ int main(){
 ![](./P3570.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a, b, xmax, xmin = 99999, ymax, ymin = 99999;
@@ -1973,7 +2045,8 @@ int main(){
 ![](./P2108.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:41 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2009,7 +2082,8 @@ int main(){
 ![](./P1603.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2038,7 +2112,8 @@ int main(){
 ![](./P1165.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2072,7 +2147,8 @@ int main(){
 ![](./P3941.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int in, minA = 999999, minB = 999999;
@@ -2093,7 +2169,8 @@ int main(){
 ![](./P1039.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int a, b, c, d, e, f;
@@ -2128,7 +2205,8 @@ int main(){
 ![](./P1005.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -2146,7 +2224,8 @@ int main(){
 ![](./P1011.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -2165,7 +2244,8 @@ int main(){
 ![](./P1561.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long a, b;
@@ -2184,7 +2264,8 @@ int main(){
 ![](./P3463.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:02 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -2203,7 +2284,8 @@ int main(){
 ![](./P1937.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
@@ -2288,7 +2370,8 @@ int main(){
 ![](./P2580.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:57 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a1, cnt, a2, b1, b2;
@@ -2311,7 +2394,8 @@ int main(){
 ![](./P1089.png)
 ```cpp
 
-//Created in Fri Nov 11 15:09:28 2022
+//Created in Fri Nov 11 15:20:03 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -2384,7 +2468,8 @@ int main(){
 ![](./P2594.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -2416,7 +2501,8 @@ int main() {
 ![](./P2219.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:45 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2434,7 +2520,8 @@ int main(){
 ![](./P1076.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 
@@ -2461,7 +2548,8 @@ int main(){
 ![](./P1062.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:33 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int r, c, n, in, a[102][102], cnt = 1;
@@ -2504,7 +2592,8 @@ int main(){
 ![](./P4046.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long t, n, a[120];
@@ -2541,7 +2630,8 @@ int main(){
 ![](./P3715.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:14 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -2573,7 +2663,8 @@ int main() {
 ![](./P1116.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 
@@ -2609,7 +2700,8 @@ int main() {
 ![](./P3701.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:12 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -2628,7 +2720,8 @@ int main() {
 ![](./P2379.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 using namespace std;
@@ -2652,7 +2745,8 @@ int main(){
 ![](./P2184.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:44 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -2684,7 +2778,8 @@ int main(){
 ![](./P3700.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:12 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 #include "algorithm"
@@ -2714,7 +2809,8 @@ int main(){
 ![](./P2378.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a[300001], maxn;
@@ -2749,7 +2845,8 @@ int main(){
 ![](./P1881.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:46 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int x, y, i, cnt, xll, xur, yll, yur;
@@ -2779,7 +2876,8 @@ int main(){
 ![](./P1063.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:34 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, m, k, cnt, maxn;
@@ -2815,7 +2913,8 @@ int main(){
 ![](./P2218.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:41 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -2841,7 +2940,8 @@ int main(){
 ![](./P1077.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int cnt, ind, strLen, striInd, striLen;
@@ -2880,7 +2980,8 @@ int main(){
 ![](./P3648.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:11 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int ans,n,m;
@@ -2897,7 +2998,8 @@ int main(){
 ![](./P1288.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -2943,7 +3045,8 @@ int main(){
 ![](./P1277.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<queue>
 using namespace std;
@@ -2972,7 +3075,8 @@ int main(){
 ![](./P2583.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:57 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -2998,7 +3102,8 @@ int main(){
 ![](./P1049.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:32 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -3082,7 +3187,8 @@ int main() {
 ![](./P3138.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:01 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace  std;
 int n, ans, i1 = 1, i2 = 2, i3;
@@ -3104,7 +3210,8 @@ int main(){
 ![](./P1061.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:33 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int b, g, x, y, n, m, cnt, xl[5002], yl[5002]; 
@@ -3152,7 +3259,8 @@ int main(){
 ![](./P1075.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 char a[102][102];
@@ -3209,7 +3317,8 @@ int main(){
 ![](./P2385.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n[7] = {0, 1, 2, 3, 4, 5, 6};
@@ -3288,7 +3397,8 @@ int main(){
 ![](./P1115.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3311,7 +3421,8 @@ int main(){
 ![](./P3702.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:12 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -3328,7 +3439,8 @@ int main() {
 ![](./P3716.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:14 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -3352,7 +3464,8 @@ int main(){
 ![](./P3528.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:07 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -3376,7 +3489,8 @@ int main(){
 ![](./P3500.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:04 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "algorithm"
 
@@ -3401,7 +3515,8 @@ int main() {
 ![](./P3514.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:06 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,score,target,timein,rtime;
@@ -3423,7 +3538,8 @@ int main(){
 ![](./P3515.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:06 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long x,ans=1;
@@ -3442,7 +3558,8 @@ int main(){
 ![](./P3501.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:04 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long x,y,z;
@@ -3461,7 +3578,8 @@ int main(){
 ![](./P3529.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:07 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 string f(int n){
@@ -3481,7 +3599,8 @@ int main(){
 ![](./P3717.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:14 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -3495,7 +3614,8 @@ int main(){
 ![](./P3703.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:12 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n,xin,score;
@@ -3516,7 +3636,8 @@ int main(){
 ![](./P4044.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a[999999], b[999999];
@@ -3544,7 +3665,8 @@ int main(){
 ![](./P2569.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:54 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,k,power=1;
@@ -3562,7 +3684,8 @@ int main(){
 ![](./P1060.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:33 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, m, a[1000][1000];
@@ -3586,7 +3709,8 @@ int main(){
 ![](./P1048.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:32 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 #include "cmath"
@@ -3626,7 +3750,8 @@ int main() {
 ![](./P3139.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:01 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -3678,7 +3803,8 @@ int main() {
 ![](./P3688.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:11 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -3701,7 +3827,8 @@ int main(){
 ![](./P1276.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3725,7 +3852,8 @@ int main(){
 ![](./P2757.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 
 using namespace std;
@@ -3746,7 +3874,8 @@ int main(){
 ![](./P1500.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -3779,7 +3908,8 @@ int main(){
 ![](./P2586.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:57 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int a[5][5], n, m;
@@ -3814,7 +3944,8 @@ int main(){
 ![](./P3698.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:12 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -3835,7 +3966,8 @@ int main(){
 ![](./P1064.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:34 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3889,7 +4021,8 @@ int main(){
 ![](./P2579.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:56 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
 
@@ -3919,7 +4052,8 @@ int main() {
 ![](./P1070.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, inde;
@@ -3948,7 +4082,8 @@ int main(){
 ![](./P1058.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:33 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, k, cnt, a[999999];
@@ -3970,7 +4105,8 @@ int main(){
 ![](./P3707.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:13 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -3992,7 +4128,8 @@ int main(){
 ![](./P7004.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
@@ -4062,7 +4199,8 @@ int main(){
 ![](./P3504.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:05 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -4087,7 +4225,8 @@ int main() {
 ![](./P2356.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:47 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, in, ans;
@@ -4105,7 +4244,8 @@ int main(){
 ![](./P2430.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:47 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
 #include<iomanip>
@@ -4144,7 +4284,8 @@ int main(){
 ![](./P1139.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4175,7 +4316,8 @@ int main(){
 ![](./P1663.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -4220,7 +4362,8 @@ int main(){
 ![](./P1105.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:26 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 
@@ -4253,7 +4396,8 @@ int main(){
 ![](./P3706.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:13 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -4275,7 +4419,8 @@ int main(){
 ![](./P1850.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:45 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cstring>
 
@@ -4311,7 +4456,8 @@ int main() {
 ![](./P2381.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -4347,7 +4493,8 @@ int main(){
 ![](./P1878.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:46 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -4372,7 +4519,8 @@ int main(){
 ![](./P1059.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:33 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 #include<cstring>
@@ -4427,7 +4575,8 @@ int main(){
 ![](./P1071.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 
 using namespace std;
@@ -4462,7 +4611,8 @@ int main(){
 ![](./P1065.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:34 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -4493,7 +4643,8 @@ int main(){
 ![](./P3458.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:02 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long x;
@@ -4507,7 +4658,8 @@ int main(){
 ![](./P2752.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:24:59 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -4532,7 +4684,8 @@ int main(){
 ![](./P3464.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:02 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -4551,7 +4704,8 @@ int main(){
 ![](./P2008.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:38 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -4577,7 +4731,8 @@ int main(){
 ![](./P1501.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -4601,7 +4756,8 @@ int main(){
 ![](./P5001.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 
@@ -4618,7 +4774,8 @@ int main() {
 ![](./P1073.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -4656,7 +4813,8 @@ int main(){
 ![](./P1067.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:34 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -4691,7 +4849,8 @@ int main(){
 ![](./P2220.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:45 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, n0, n5;
@@ -4727,7 +4886,8 @@ int main(){
 ![](./P3710.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:13 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4758,7 +4918,8 @@ int main(){
 ![](./P1107.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:26 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4790,7 +4951,8 @@ int main(){
 ![](./P1113.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:27 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4817,7 +4979,8 @@ int main(){
 ![](./P3704.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:13 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -4837,7 +5000,8 @@ int main() {
 ![](./P2340.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:47 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;
@@ -4860,7 +5024,8 @@ int main(){
 ![](./P3506.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:05 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, k, in, sum, maxn;
@@ -4886,7 +5051,8 @@ int main(){
 ![](./P3275.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:27 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -4937,7 +5103,8 @@ int main(){
 ![](./P3513.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:06 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -4951,7 +5118,8 @@ int main(){
 ![](./P4056.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -4975,7 +5143,8 @@ int main(){
 ![](./P1112.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:27 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5003,7 +5172,8 @@ int main(){
 ![](./P1106.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:26 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 
@@ -5038,7 +5208,8 @@ int main(){
 ![](./P1847.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:45 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5063,7 +5234,8 @@ int main(){
 ![](./P3881.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 #include<sstream>
@@ -5105,7 +5277,8 @@ int main(){
 ![](./P2221.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:45 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int a,b,c;
@@ -5129,7 +5302,8 @@ int main(){
 ![](./P1933.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:46 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -5147,7 +5321,8 @@ int main(){
 ![](./P3498.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:04 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -5171,7 +5346,8 @@ int main(){
 ![](./P2204.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:44 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a[9999][9999], s[9999][9999], cnt[252];
@@ -5214,7 +5390,8 @@ int main(){
 ![](./P2562.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:52 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -5247,7 +5424,8 @@ int main(){
 ![](./P2576.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:56 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5288,7 +5466,8 @@ int main(){
 ![](./P1057.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:33 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a[121], in, cnt;
@@ -5310,7 +5489,8 @@ int main(){
 ![](./P1043.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5337,7 +5517,8 @@ int main(){
 ![](./P1725.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:35 2022
+ //System: Darwin 22.1.0
 //#include <iostream>
 //
 //using namespace std;
@@ -5514,7 +5695,8 @@ int main(){
 ![](./P3708.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:13 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int m,t,u,f,d,in,time_,lengh;
@@ -5555,7 +5737,8 @@ int main(){
 ![](./P2172.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:43 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
 
@@ -5573,7 +5756,8 @@ int main() {
 ![](./P3537.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:08 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -5588,7 +5772,8 @@ int main(){
 ![](./P1136.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5613,7 +5798,8 @@ int main(){
 ![](./P3709.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:12 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int x, a[9999], b[9999], n;
@@ -5639,7 +5825,8 @@ int main(){
 ![](./P1042.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5662,7 +5849,8 @@ int main(){
 ![](./P3133.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:00 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long a,b,k,w,ans;
@@ -5684,7 +5872,8 @@ int main(){
 ![](./P1724.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:35 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long in;
@@ -5722,7 +5911,8 @@ int main(){
 ![](./P3641.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:11 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "algorithm"
 
@@ -5752,7 +5942,8 @@ int main(){
 ![](./P1056.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:33 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a[121], in[200001], cnt[200001], cntn;
@@ -5779,7 +5970,8 @@ int main(){
 ![](./P2563.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:52 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 bool p;
@@ -5810,7 +6002,8 @@ int main(){
 ![](./P1081.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -5845,7 +6038,8 @@ int main(){
 ![](./P1095.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:26 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 string ain, bin;
@@ -5883,7 +6077,8 @@ int main(){
 ![](./P1917.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:46 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int m, sum, cnt;
@@ -5905,7 +6100,8 @@ int main(){
 ![](./P2749.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:59 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5928,7 +6124,8 @@ int main(){
 ![](./P3496.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:03 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -5947,7 +6144,8 @@ int main() {
 ![](./P1281.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
 #include<vector>
@@ -5987,7 +6185,8 @@ int main(){
 ![](./P2561.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:51 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n,cnt,h,in;
@@ -6007,7 +6206,8 @@ int main() {
 ![](./P1068.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:34 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -6047,7 +6247,8 @@ int main(){
 ![](./P1040.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6073,7 +6274,8 @@ int main(){
 ![](./P1054.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:32 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 #include "algorithm"
@@ -6104,7 +6306,8 @@ int main(){
 ![](./P1849.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:45 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, maxRp;
@@ -6148,7 +6351,8 @@ int main(){
 ![](./P1685.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -6166,7 +6370,8 @@ int main(){
 ![](./P1108.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:26 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -6210,7 +6415,8 @@ int main(){
 ![](./P1134.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long cnt, n, c1, c5, c10, c50, c100, c500;
@@ -6246,7 +6452,8 @@ int main(){
 ![](./P1120.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int t, x, y, cnt;
@@ -6318,7 +6525,8 @@ int main(){
 ![](./P2429.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:39 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n, ans = 1;
@@ -6335,7 +6543,8 @@ int main(){
 ![](./P2171.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:42 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -6352,7 +6561,8 @@ int main(){
 ![](./P3509.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:05 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace  std;
 int n, m, t, ans;
@@ -6371,7 +6581,8 @@ int main(){
 ![](./P3534.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:08 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -6423,7 +6634,8 @@ int main() {
 ![](./P3722.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:15 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -6499,7 +6711,8 @@ int main(){
 ![](./P1109.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:27 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -6525,7 +6738,8 @@ int main(){
 ![](./P3093.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:00 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -6551,7 +6765,8 @@ int main() {
 ![](./P1848.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:45 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int ans;
@@ -6575,7 +6790,8 @@ int main(){
 ![](./P1860.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:45 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -6597,7 +6813,8 @@ int main(){
 ![](./P3642.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:11 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -6617,7 +6834,8 @@ int main(){
 ![](./P1055.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:32 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int a[9999999];
@@ -6640,7 +6858,8 @@ int main(){
 ![](./P1041.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 
@@ -6672,7 +6891,8 @@ int main(){
 ![](./P1069.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:24 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -6713,7 +6933,8 @@ int main(){
 ![](./P2574.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:56 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 #include <cmath>
 
@@ -6754,7 +6975,8 @@ int main(){
 ![](./P1082.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int maxl;
@@ -6783,7 +7005,8 @@ int main(){
 ![](./P1900.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:46 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int in, n, r;
@@ -6806,7 +7029,8 @@ int  main(){
 ![](./P3497.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:03 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -6827,7 +7051,8 @@ int main() {
 ![](./P3493.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:03 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -6853,7 +7078,8 @@ int main(){
 ![](./P3487.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:24:59 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -6865,7 +7091,8 @@ int main(){
 ![](./P1509.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int a[10],in,cnt;
@@ -6886,7 +7113,8 @@ int main(){
 ![](./P3691.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:11 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 
@@ -6911,7 +7139,8 @@ int main(){
 ![](./P1938.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -6934,7 +7163,8 @@ int main() {
 ![](./P1092.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6960,7 +7190,8 @@ int main(){
 ![](./P1045.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -6974,7 +7205,8 @@ int main(){
 ![](./P3134.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:01 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
 
@@ -7017,7 +7249,8 @@ int main(){
 ![](./P3120.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:00 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 
@@ -7038,7 +7271,8 @@ int main(){
 ![](./P1051.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:32 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -7065,7 +7299,8 @@ int main() {
 ![](./P3646.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:11 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -7079,7 +7314,8 @@ int main(){
 ![](./P2558.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:51 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -7100,7 +7336,8 @@ int main(){
 ![](./P2570.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:55 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,sum;
@@ -7125,7 +7362,8 @@ int main(){
 ![](./P2564.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:53 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, cnt, m, in, a[101], b[101];
@@ -7159,7 +7397,8 @@ int main(){
 ![](./P1694.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -7214,7 +7453,8 @@ int main(){
 ![](./P3901.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:18 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -7251,7 +7491,8 @@ int main() {
 ![](./P1131.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 using namespace std;
 int k, n, t;
@@ -7272,7 +7513,8 @@ int main(){
 ![](./P1643.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int g(int n){
@@ -7293,7 +7535,8 @@ int main(){
 ![](./P1125.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 
@@ -7326,7 +7569,8 @@ int main(){
 ![](./P1119.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, ans[8], days[13] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}, day = 0;
@@ -7359,7 +7603,8 @@ int main(){
 ![](./P3518.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:06 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -7379,7 +7624,8 @@ int main(){
 ![](./P2175.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:43 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7408,7 +7654,8 @@ int main(){
 ![](./P3519.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:07 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -7441,7 +7688,8 @@ int main() {
 ![](./P3525.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:07 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -7455,7 +7703,8 @@ int main(){
 ![](./P1118.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7540,7 +7789,8 @@ int main(){
 ![](./P1124.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
 
@@ -7581,7 +7831,8 @@ int main(){
 ![](./P2565.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:53 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int maxLength(int n){
@@ -7610,7 +7861,8 @@ int main(){
 ![](./P1078.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 char str[257];
@@ -7630,7 +7882,8 @@ int main(){
 ![](./P2559.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:51 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, in, a[101], m, ans;
@@ -7661,7 +7914,8 @@ int main(){
 ![](./P1044.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, in, in2, gcd;
@@ -7692,7 +7946,8 @@ int main(){
 ![](./P3690.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:11 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -7716,7 +7971,8 @@ int main() {
 ![](./P1087.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -7759,7 +8015,8 @@ int main(){
 ![](./P1508.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int l,m,in1,in2,cnt,sum;
@@ -7785,7 +8042,8 @@ int main(){
 ![](./P2001.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:38 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 #include <cmath>
 
@@ -7835,7 +8093,8 @@ int main(){
 ![](./P3492.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:02 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -7869,7 +8128,8 @@ int main() {
 ![](./P3490.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:54 2022
+//Created in Fri Nov 11 15:25:02 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 
 using namespace std;
@@ -7897,7 +8157,8 @@ int main(){
 ![](./P1278.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 bool a[1001];
@@ -7929,7 +8190,8 @@ int main(){
 ![](./P1091.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 #include <cmath>
 
@@ -7991,7 +8253,8 @@ int main() {
 ![](./P1052.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:32 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cstring>
 
@@ -8030,7 +8293,8 @@ int main() {
 ![](./P3137.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:01 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;
@@ -8045,7 +8309,8 @@ int main(){
 ![](./P1046.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int a, n, w;
@@ -8067,7 +8332,8 @@ int main(){
 ![](./P1708.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int a,b,h,t,p;
@@ -8090,7 +8356,8 @@ int main(){
 ![](./P2573.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:56 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 
 using namespace std;
@@ -8119,7 +8386,8 @@ int main() {
 ![](./P1697.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8142,7 +8410,8 @@ int main(){
 ![](./P1126.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, a[9999999], cnt;
@@ -8172,7 +8441,8 @@ int main(){
 ![](./P3731.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:15 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
 #include "cmath"
@@ -8190,7 +8460,8 @@ int main(){
 ![](./P1654.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 #include <cstring>
 
@@ -8270,7 +8541,8 @@ int main() {
 ![](./P3719.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:15 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -8291,7 +8563,8 @@ int main(){
 ![](./P3533.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:08 2022
+ //System: Darwin 22.1.0
 // 代码如下
 #include<iostream>
 using namespace std;
@@ -8315,7 +8588,8 @@ int main(){
 ![](./P3527.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:07 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -8347,7 +8621,8 @@ int main(){
 ![](./P2177.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:43 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<queue>
 #define int long long
@@ -8388,7 +8663,8 @@ signed main() {
 ![](./P3526.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:07 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8431,7 +8707,8 @@ int main(){
 ![](./P3532.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:55 2022
+//Created in Fri Nov 11 15:25:08 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -8448,7 +8725,8 @@ int main(){
 ![](./P3718.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:15 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -8477,7 +8755,8 @@ int main(){
 ![](./P1133.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:37 2022
+//Created in Fri Nov 11 15:24:28 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long n, a[9999999], ans;
@@ -8497,7 +8776,8 @@ int main(){
 ![](./P1866.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:46 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 unsigned short p, q, n, cnt;
@@ -8525,7 +8805,8 @@ int main(){
 ![](./P1696.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -8545,7 +8826,8 @@ int main(){
 ![](./P2572.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:55 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n,sum,in;
@@ -8563,7 +8845,8 @@ int main() {
 ![](./P2566.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:51 2022
+//Created in Fri Nov 11 15:24:54 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -8590,7 +8873,8 @@ int main() {
 ![](./P1709.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:35 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int exp, exp1;
@@ -8610,7 +8894,8 @@ int main(){
 ![](./P1721.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:35 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -8640,7 +8925,8 @@ int main(){
 ![](./P1047.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:32 2022
+//Created in Fri Nov 11 15:24:22 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long d,sum;
@@ -8667,7 +8953,8 @@ int main(){
 ![](./P1053.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:32 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -8709,7 +8996,8 @@ int main(){
 ![](./P3693.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:00 2022
+//Created in Fri Nov 11 15:25:11 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -8750,7 +9038,8 @@ int main(){
 ![](./P1084.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:35 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -8783,7 +9072,8 @@ int main(){
 ![](./P1090.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:36 2022
+//Created in Fri Nov 11 15:24:25 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 
 using namespace std;
@@ -8820,7 +9110,8 @@ int main(){
 ![](./P1279.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -8857,7 +9148,8 @@ int main(){
 ![](./P2016.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:39 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 #include <sstream>
 
@@ -8914,7 +9206,8 @@ int main(){
 ![](./P2059.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:40 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, cnt;
@@ -8937,7 +9230,8 @@ int main(){
 ![](./P1949.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:37 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
 using namespace std;
@@ -8956,7 +9250,8 @@ int main(){
 ![](./P1008.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -8987,7 +9282,8 @@ int main(){
 ![](./P1034.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -9007,7 +9303,8 @@ int main(){
 ![](./P1020.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -9023,7 +9320,8 @@ int main(){
 ![](./P3970.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:03 2022
+//Created in Fri Nov 11 15:25:18 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int a,b,c;
@@ -9045,7 +9343,8 @@ int main(){
 ![](./P2461.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:48 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, m, a[99999], opt, l, r, add;
@@ -9084,7 +9383,8 @@ int main(){
 ![](./P1626.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "algorithm"
 
@@ -9109,7 +9409,8 @@ int main() {
 ![](./P3582.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:57 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,x,y,in,sum,max_=-999999,min_=999999;
@@ -9142,7 +9443,8 @@ int main(){
 ![](./P3568.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long n,ans,ans1;
@@ -9162,7 +9464,8 @@ int main(){
 ![](./P1155.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long n, a[999999];
@@ -9181,7 +9484,8 @@ int main(){
 ![](./P1627.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int k, cnt, ans;
@@ -9203,7 +9507,8 @@ int main(){
 ![](./P1169.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -9222,7 +9527,8 @@ int main(){
 ![](./P2460.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:48 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -9305,7 +9611,8 @@ int main(){
 ![](./P3781.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:18 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 long long n,ans;
@@ -9322,7 +9629,8 @@ int main(){
 ![](./P3795.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int a,b;
@@ -9352,7 +9660,8 @@ int main(){
 ![](./P1814.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -9403,7 +9712,8 @@ int main() {
 ![](./P1800.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -9442,7 +9752,8 @@ int main(){
 ![](./P3636.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -9470,7 +9781,8 @@ int main(){
 ![](./P1021.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -9487,7 +9799,8 @@ int main(){
 ![](./P1035.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9510,7 +9823,8 @@ int main(){
 ![](./P1009.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:28 2022
+//Created in Fri Nov 11 15:24:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -9529,7 +9843,8 @@ int main(){
 ![](./P2702.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:58 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
 #include<cmath>
@@ -9564,7 +9879,8 @@ int main(){
 ![](./P1590.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9585,7 +9901,8 @@ int main(){
 ![](./P3608.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:58 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -9618,7 +9935,8 @@ int main() {
 ![](./P1023.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int in, act, time123, ans;
@@ -9638,7 +9956,8 @@ int main(){
 ![](./P3620.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, x, ans[10];
@@ -9661,7 +9980,8 @@ int main(){
 ![](./P1037.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9699,7 +10019,8 @@ int main(){
 ![](./P3783.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:18 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -9727,7 +10048,8 @@ int main(){
 ![](./P1194.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:39 2022
+//Created in Fri Nov 11 15:24:30 2022
+ //System: Darwin 22.1.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #include "iostream"
@@ -9759,7 +10081,8 @@ int main(){
 ![](./P3768.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:02 2022
+//Created in Fri Nov 11 15:25:17 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -9795,7 +10118,8 @@ int main(){
 ![](./P1157.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -9814,7 +10138,8 @@ int main(){
 ![](./P1631.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9848,7 +10173,8 @@ int main(){
 ![](./P3595.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:57 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n,m;
@@ -9862,7 +10188,8 @@ int main(){
 ![](./P3543.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:08 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n=0,in=0;
@@ -9882,7 +10209,8 @@ int main(){
 ![](./P3755.png)
 ```cpp
 
-//Created in Fri Nov 11 15:13:01 2022
+//Created in Fri Nov 11 15:25:15 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -9900,7 +10228,8 @@ int main() {
 ![](./P2339.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:47 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long n, k;
@@ -9922,7 +10251,8 @@ int main(){
 ![](./P2463.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:48 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 bool p,t;
@@ -9960,7 +10290,8 @@ int main() {
 ![](./P1036.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:31 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long n;
@@ -9990,7 +10321,8 @@ int main(){
 ![](./P1022.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -10008,7 +10340,8 @@ int main(){
 ![](./P3609.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:58 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long a,b;
@@ -10033,7 +10366,8 @@ int main(){
 ![](./P2271.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:49 2022
+//Created in Fri Nov 11 15:24:46 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -10065,7 +10399,8 @@ int main(){
 ![](./P1963.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:47 2022
+//Created in Fri Nov 11 15:24:38 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 using namespace std;
 int x, y, k, a, b, xi, yi;
@@ -10094,7 +10429,8 @@ int main(){
 ![](./P1595.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
 int n,x,y;
@@ -10112,7 +10448,8 @@ int main(){
 ![](./P3382.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:53 2022
+//Created in Fri Nov 11 15:25:02 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10146,7 +10483,8 @@ int main(){
 ![](./P1026.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10173,7 +10511,8 @@ int main(){
 ![](./P1032.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 long long l, r;
@@ -10196,7 +10535,8 @@ int main(){
 ![](./P3619.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -10227,7 +10567,8 @@ int main() {
 ![](./P2467.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:49 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int x, y, cnt;
@@ -10245,7 +10586,8 @@ int main(){
 ![](./P3584.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:57 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 unsigned long long n, p, ans = 0, jc = 1;
@@ -10268,7 +10610,8 @@ int main(){
 ![](./P1387.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, x, y;
@@ -10306,7 +10649,8 @@ int main(){
 ![](./P2116.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:48 2022
+//Created in Fri Nov 11 15:24:42 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10337,7 +10681,8 @@ int main(){
 ![](./P3552.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:08 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -10372,7 +10717,8 @@ int main(){
 ![](./P1386.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:40 2022
+//Created in Fri Nov 11 15:24:31 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 string f(string a, string b){
@@ -10400,7 +10746,8 @@ int main(){
 ![](./P1609.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:42 2022
+//Created in Fri Nov 11 15:24:33 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -10417,7 +10764,8 @@ int main(){
 ![](./P2466.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:49 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, in, len;
@@ -10437,7 +10785,8 @@ int main(){
 ![](./P1153.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long n, m, a=1, b=1, c=1;
@@ -10457,7 +10806,8 @@ int main(){
 ![](./P1806.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10491,7 +10841,8 @@ int main(){
 ![](./P3618.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:58 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -10510,7 +10861,8 @@ int main(){
 ![](./P1033.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:21 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int k;
@@ -10534,7 +10886,8 @@ int main(){
 ![](./P1027.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, all[10085];
@@ -10557,7 +10910,8 @@ int main(){
 ![](./P2710.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:58 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -10571,7 +10925,8 @@ int main(){
 ![](./P1596.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int x,y,n,price,ans;
@@ -10589,7 +10944,8 @@ int main(){
 ![](./P2706.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:52 2022
+//Created in Fri Nov 11 15:24:58 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -10623,7 +10979,8 @@ int main(){
 ![](./P1794.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:35 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n,m,cnt;
@@ -10646,7 +11003,8 @@ int main(){
 ![](./P1757.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:35 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 #pragma GCC optimize(2)//火车头
@@ -10720,7 +11078,8 @@ int main(){
 ![](./P1031.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -10736,7 +11095,8 @@ int main(){
 ![](./P1025.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10759,7 +11119,8 @@ int main(){
 ![](./P1019.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -10781,7 +11142,8 @@ int main(){
 ![](./P1804.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:36 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 
 using namespace std;
@@ -10808,7 +11170,8 @@ int main() {
 ![](./P1623.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:43 2022
+//Created in Fri Nov 11 15:24:34 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 string str;
@@ -10839,7 +11202,8 @@ int main(){
 ![](./P1145.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n, k, tmp, cnt, a;
@@ -10865,7 +11229,8 @@ int main(){
 ![](./P2464.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:49 2022
+ //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
 
@@ -10885,7 +11250,8 @@ int main(){
 ![](./P3578.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:57 2022
+//Created in Fri Nov 11 15:25:09 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 #define int long long
@@ -10927,7 +11293,8 @@ signed main(){
 ![](./P3545.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:56 2022
+//Created in Fri Nov 11 15:25:08 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -10949,7 +11316,8 @@ int main(){
 ![](./P2465.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:49 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 long long n, in, x, y, cnt;
@@ -10969,7 +11337,8 @@ int main(){
 ![](./P2459.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:50 2022
+//Created in Fri Nov 11 15:24:47 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 string in;
@@ -10994,7 +11363,8 @@ int main(){
 ![](./P1150.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cstring>
 #define sz 3
@@ -11052,7 +11422,8 @@ int main() {
 ![](./P1144.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:38 2022
+//Created in Fri Nov 11 15:24:29 2022
+ //System: Darwin 22.1.0
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -11096,7 +11467,8 @@ int main(){
 ![](./P1018.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:29 2022
+//Created in Fri Nov 11 15:24:19 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -11112,7 +11484,8 @@ int main(){
 ![](./P3633.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:59 2022
+//Created in Fri Nov 11 15:25:10 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -11149,7 +11522,8 @@ int main(){
 ![](./P1024.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int sum, sum2;
@@ -11175,7 +11549,8 @@ int main(){
 ![](./P1030.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:30 2022
+//Created in Fri Nov 11 15:24:20 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int n;
@@ -11189,7 +11564,8 @@ int main(){
 ![](./P1795.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:44 2022
+//Created in Fri Nov 11 15:24:35 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 bool p=false;
@@ -11214,7 +11590,8 @@ int main(){
 ![](./P1597.png)
 ```cpp
 
-//Created in Fri Nov 11 15:12:41 2022
+//Created in Fri Nov 11 15:24:32 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
 using namespace std;

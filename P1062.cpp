@@ -1,4 +1,5 @@
-//Created in Fri Nov 11 15:12:33 2022
+//Created in Fri Nov 11 15:24:23 2022
+ //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
 int r, c, n, in, a[102][102], cnt = 1;

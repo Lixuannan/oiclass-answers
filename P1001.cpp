@@ -1,4 +1,5 @@
-//Created in Fri Nov 11 15:12:27 2022
+//Created in Fri Nov 11 15:24:17 2022
+ //System: Darwin 22.1.0
 n = int(input())
 a = 8
 b = (n - 2) * 12
