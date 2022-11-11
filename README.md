@@ -2,7 +2,7 @@
 # [Oiclass](http://oiclass.com)上的所有我写的题解
 
 ## [P1954.cpp](./P1954.cpp):
-![](./P1954.cpp.png)
+![](./P1954.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:34 2022
@@ -19,7 +19,7 @@ int main(){
 ```
 
 ## [P1798.cpp](./P1798.cpp):
-![](./P1798.cpp.png)
+![](./P1798.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -197,7 +197,7 @@ int main() {
 ```
 
 ## [P1940.cpp](./P1940.cpp):
-![](./P1940.cpp.png)
+![](./P1940.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:34 2022
@@ -245,7 +245,7 @@ int main(){
 ```
 
 ## [P1029.cpp](./P1029.cpp):
-![](./P1029.cpp.png)
+![](./P1029.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -275,7 +275,7 @@ int main() {
 ```
 
 ## [P1997.cpp](./P1997.cpp):
-![](./P1997.cpp.png)
+![](./P1997.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:35 2022
@@ -295,7 +295,7 @@ int main() {
 ```
 
 ## [P4145.cpp](./P4145.cpp):
-![](./P4145.cpp.png)
+![](./P4145.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -309,7 +309,7 @@ int main(){
 ```
 
 ## [P1015.cpp](./P1015.cpp):
-![](./P1015.cpp.png)
+![](./P1015.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -328,7 +328,7 @@ int main(){
 ```
 
 ## [P1001.cpp](./P1001.cpp):
-![](./P1001.cpp.png)
+![](./P1001.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:13 2022
@@ -340,7 +340,7 @@ print(str(a) + "\n" + str(b) + "\n" + str(c))
 ```
 
 ## [P1149.cpp](./P1149.cpp):
-![](./P1149.cpp.png)
+![](./P1149.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:25 2022
@@ -359,7 +359,7 @@ int main(){
 ```
 
 ## [P2468.cpp](./P2468.cpp):
-![](./P2468.cpp.png)
+![](./P2468.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -381,7 +381,7 @@ int main(){
 ```
 
 ## [P3776.cpp](./P3776.cpp):
-![](./P3776.cpp.png)
+![](./P3776.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -399,7 +399,7 @@ int main(){
 ```
 
 ## [P1607.cpp](./P1607.cpp):
-![](./P1607.cpp.png)
+![](./P1607.png)
 ```cpp
 
 //Created in Fri Nov 11 14:59:59 2022
@@ -417,7 +417,7 @@ int main(){
 ```
 
 ## [P1388.cpp](./P1388.cpp):
-![](./P1388.cpp.png)
+![](./P1388.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -426,7 +426,7 @@ using namespace std;int n;string str;string tree(string s){string ans;if(s.lengt
 ```
 
 ## [P3574.cpp](./P3574.cpp):
-![](./P3574.cpp.png)
+![](./P3574.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:48 2022
@@ -451,7 +451,7 @@ int main(){
 ```
 
 ## [P1612.cpp](./P1612.cpp):
-![](./P1612.cpp.png)
+![](./P1612.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -470,7 +470,7 @@ int main(){
 ```
 
 ## [P1174.cpp](./P1174.cpp):
-![](./P1174.cpp.png)
+![](./P1174.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -496,7 +496,7 @@ int main(){
 ```
 
 ## [P3763.cpp](./P3763.cpp):
-![](./P3763.cpp.png)
+![](./P3763.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -517,7 +517,7 @@ int main(){
 ```
 
 ## [P3777.cpp](./P3777.cpp):
-![](./P3777.cpp.png)
+![](./P3777.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -553,7 +553,7 @@ int main(){
 ```
 
 ## [P2469.cpp](./P2469.cpp):
-![](./P2469.cpp.png)
+![](./P2469.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -583,7 +583,7 @@ int main(){
 ```
 
 ## [P1606.cpp](./P1606.cpp):
-![](./P1606.cpp.png)
+![](./P1606.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -597,7 +597,7 @@ int main(){
 ```
 
 ## [P1148.cpp](./P1148.cpp):
-![](./P1148.cpp.png)
+![](./P1148.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:25 2022
@@ -616,7 +616,7 @@ int main(){
 ```
 
 ## [P1000.cpp](./P1000.cpp):
-![](./P1000.cpp.png)
+![](./P1000.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:13 2022
@@ -636,7 +636,7 @@ int main(){
 ```
 
 ## [P1014.cpp](./P1014.cpp):
-![](./P1014.cpp.png)
+![](./P1014.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -656,7 +656,7 @@ int main(){
 ```
 
 ## [P2253.cpp](./P2253.cpp):
-![](./P2253.cpp.png)
+![](./P2253.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -698,7 +698,7 @@ int main(){
 ```
 
 ## [P1028.cpp](./P1028.cpp):
-![](./P1028.cpp.png)
+![](./P1028.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -727,7 +727,7 @@ int main(){
 ```
 
 ## [P4150.cpp](./P4150.cpp):
-![](./P4150.cpp.png)
+![](./P4150.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -747,7 +747,7 @@ int main(){
 ```
 
 ## [P2051.cpp](./P2051.cpp):
-![](./P2051.cpp.png)
+![](./P2051.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -774,7 +774,7 @@ int main() {
 ```
 
 ## [P1599.cpp](./P1599.cpp):
-![](./P1599.cpp.png)
+![](./P1599.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -793,7 +793,7 @@ int main(){
 ```
 
 ## [P4146.cpp](./P4146.cpp):
-![](./P4146.cpp.png)
+![](./P4146.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -816,7 +816,7 @@ int main(){
 ```
 
 ## [P2251.cpp](./P2251.cpp):
-![](./P2251.cpp.png)
+![](./P2251.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -847,7 +847,7 @@ int main(){
 ```
 
 ## [P1002.cpp](./P1002.cpp):
-![](./P1002.cpp.png)
+![](./P1002.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:13 2022
@@ -864,7 +864,7 @@ int main(){
 ```
 
 ## [P1016.cpp](./P1016.cpp):
-![](./P1016.cpp.png)
+![](./P1016.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -878,7 +878,7 @@ int main(){
 ```
 
 ## [P1837.cpp](./P1837.cpp):
-![](./P1837.cpp.png)
+![](./P1837.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -906,7 +906,7 @@ int main(){
 ```
 
 ## [P3761.cpp](./P3761.cpp):
-![](./P3761.cpp.png)
+![](./P3761.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -923,7 +923,7 @@ int main() {
 ```
 
 ## [P1604.cpp](./P1604.cpp):
-![](./P1604.cpp.png)
+![](./P1604.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -937,7 +937,7 @@ int main(){
 ```
 
 ## [P3775.cpp](./P3775.cpp):
-![](./P3775.cpp.png)
+![](./P3775.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -949,7 +949,7 @@ else:
 ```
 
 ## [P1605.cpp](./P1605.cpp):
-![](./P1605.cpp.png)
+![](./P1605.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -966,7 +966,7 @@ int main(){
 ```
 
 ## [P1163.cpp](./P1163.cpp):
-![](./P1163.cpp.png)
+![](./P1163.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -1010,7 +1010,7 @@ int main(){
 ```
 
 ## [P1611.cpp](./P1611.cpp):
-![](./P1611.cpp.png)
+![](./P1611.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -1038,7 +1038,7 @@ int main(){
 ```
 
 ## [P2330.cpp](./P2330.cpp):
-![](./P2330.cpp.png)
+![](./P2330.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -1067,7 +1067,7 @@ int main(){
 ```
 
 ## [P1017.cpp](./P1017.cpp):
-![](./P1017.cpp.png)
+![](./P1017.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -1088,7 +1088,7 @@ int main(){
 ```
 
 ## [P1003.cpp](./P1003.cpp):
-![](./P1003.cpp.png)
+![](./P1003.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:13 2022
@@ -1105,7 +1105,7 @@ int main(){
 ```
 
 ## [P1995.cpp](./P1995.cpp):
-![](./P1995.cpp.png)
+![](./P1995.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:35 2022
@@ -1131,7 +1131,7 @@ int main(){
 ```
 
 ## [P4153.cpp](./P4153.cpp):
-![](./P4153.cpp.png)
+![](./P4153.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -1147,7 +1147,7 @@ int main(){
 ```
 
 ## [P3628.cpp](./P3628.cpp):
-![](./P3628.cpp.png)
+![](./P3628.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -1171,7 +1171,7 @@ int main(){
 ```
 
 ## [P1598.cpp](./P1598.cpp):
-![](./P1598.cpp.png)
+![](./P1598.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -1188,7 +1188,7 @@ int main(){
 ```
 
 ## [P3610.cpp](./P3610.cpp):
-![](./P3610.cpp.png)
+![](./P3610.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -1225,7 +1225,7 @@ int main(){
 ```
 
 ## [P1007.cpp](./P1007.cpp):
-![](./P1007.cpp.png)
+![](./P1007.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -1244,7 +1244,7 @@ int main(){
 ```
 
 ## [P1013.cpp](./P1013.cpp):
-![](./P1013.cpp.png)
+![](./P1013.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -1264,7 +1264,7 @@ int main(){
 ```
 
 ## [P3604.cpp](./P3604.cpp):
-![](./P3604.cpp.png)
+![](./P3604.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:48 2022
@@ -1299,7 +1299,7 @@ int main(){
 ```
 
 ## [P1601.cpp](./P1601.cpp):
-![](./P1601.cpp.png)
+![](./P1601.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -1314,7 +1314,7 @@ int main(){
 ```
 
 ## [P3567.cpp](./P3567.cpp):
-![](./P3567.cpp.png)
+![](./P3567.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:47 2022
@@ -1343,7 +1343,7 @@ int main(){
 ```
 
 ## [P3759.cpp](./P3759.cpp):
-![](./P3759.cpp.png)
+![](./P3759.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -1366,7 +1366,7 @@ int main(){
 ```
 
 ## [P1166.cpp](./P1166.cpp):
-![](./P1166.cpp.png)
+![](./P1166.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -1414,7 +1414,7 @@ int main(){
 ```
 
 ## [P1600.cpp](./P1600.cpp):
-![](./P1600.cpp.png)
+![](./P1600.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -1437,7 +1437,7 @@ int main(){
 ```
 
 ## [P1990.cpp](./P1990.cpp):
-![](./P1990.cpp.png)
+![](./P1990.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:35 2022
@@ -1460,7 +1460,7 @@ int main(){
 ```
 
 ## [P1012.cpp](./P1012.cpp):
-![](./P1012.cpp.png)
+![](./P1012.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -1484,7 +1484,7 @@ int main(){
 ```
 
 ## [P1006.cpp](./P1006.cpp):
-![](./P1006.cpp.png)
+![](./P1006.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -1505,7 +1505,7 @@ int main(){
 ```
 
 ## [P2043.cpp](./P2043.cpp):
-![](./P2043.cpp.png)
+![](./P2043.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -1537,7 +1537,7 @@ int main(){
 ```
 
 ## [P1562.cpp](./P1562.cpp):
-![](./P1562.cpp.png)
+![](./P1562.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -1562,7 +1562,7 @@ int main(){
 ```
 
 ## [P1010.cpp](./P1010.cpp):
-![](./P1010.cpp.png)
+![](./P1010.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -1581,7 +1581,7 @@ int main(){
 ```
 
 ## [P1004.cpp](./P1004.cpp):
-![](./P1004.cpp.png)
+![](./P1004.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:13 2022
@@ -1598,7 +1598,7 @@ int main(){
 ```
 
 ## [P1038.cpp](./P1038.cpp):
-![](./P1038.cpp.png)
+![](./P1038.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -1617,7 +1617,7 @@ int main(){
 ```
 
 ## [P1831.cpp](./P1831.cpp):
-![](./P1831.cpp.png)
+![](./P1831.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -1651,7 +1651,7 @@ int main(){
 ```
 
 ## [P1602.cpp](./P1602.cpp):
-![](./P1602.cpp.png)
+![](./P1602.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -1668,7 +1668,7 @@ int main(){
 ```
 
 ## [P1164.cpp](./P1164.cpp):
-![](./P1164.cpp.png)
+![](./P1164.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -1693,7 +1693,7 @@ int main(){
 ```
 
 ## [P3767.cpp](./P3767.cpp):
-![](./P3767.cpp.png)
+![](./P3767.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -1727,7 +1727,7 @@ int main(){
 ```
 
 ## [P1170.cpp](./P1170.cpp):
-![](./P1170.cpp.png)
+![](./P1170.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -1752,7 +1752,7 @@ int main(){
 ```
 
 ## [P1158.cpp](./P1158.cpp):
-![](./P1158.cpp.png)
+![](./P1158.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -1825,7 +1825,7 @@ int main(){
 ```
 
 ## [P3571.cpp](./P3571.cpp):
-![](./P3571.cpp.png)
+![](./P3571.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:47 2022
@@ -1848,7 +1848,7 @@ int main()
 ```
 
 ## [P2109.cpp](./P2109.cpp):
-![](./P2109.cpp.png)
+![](./P2109.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -1941,7 +1941,7 @@ int main(){
 ```
 
 ## [P3570.cpp](./P3570.cpp):
-![](./P3570.cpp.png)
+![](./P3570.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:47 2022
@@ -1970,7 +1970,7 @@ int main(){
 ```
 
 ## [P2108.cpp](./P2108.cpp):
-![](./P2108.cpp.png)
+![](./P2108.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -2006,7 +2006,7 @@ int main(){
 ```
 
 ## [P1603.cpp](./P1603.cpp):
-![](./P1603.cpp.png)
+![](./P1603.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -2035,7 +2035,7 @@ int main(){
 ```
 
 ## [P1165.cpp](./P1165.cpp):
-![](./P1165.cpp.png)
+![](./P1165.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -2069,7 +2069,7 @@ int main(){
 ```
 
 ## [P3941.cpp](./P3941.cpp):
-![](./P3941.cpp.png)
+![](./P3941.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -2090,7 +2090,7 @@ int main(){
 ```
 
 ## [P1039.cpp](./P1039.cpp):
-![](./P1039.cpp.png)
+![](./P1039.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -2125,7 +2125,7 @@ int main(){
 ```
 
 ## [P1005.cpp](./P1005.cpp):
-![](./P1005.cpp.png)
+![](./P1005.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -2143,7 +2143,7 @@ int main(){
 ```
 
 ## [P1011.cpp](./P1011.cpp):
-![](./P1011.cpp.png)
+![](./P1011.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -2162,7 +2162,7 @@ int main(){
 ```
 
 ## [P1561.cpp](./P1561.cpp):
-![](./P1561.cpp.png)
+![](./P1561.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -2181,7 +2181,7 @@ int main(){
 ```
 
 ## [P3463.cpp](./P3463.cpp):
-![](./P3463.cpp.png)
+![](./P3463.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -2200,7 +2200,7 @@ int main(){
 ```
 
 ## [P1937.cpp](./P1937.cpp):
-![](./P1937.cpp.png)
+![](./P1937.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:34 2022
@@ -2285,7 +2285,7 @@ int main(){
 ```
 
 ## [P2580.cpp](./P2580.cpp):
-![](./P2580.cpp.png)
+![](./P2580.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -2308,7 +2308,7 @@ int main(){
 ```
 
 ## [P1089.cpp](./P1089.cpp):
-![](./P1089.cpp.png)
+![](./P1089.png)
 ```cpp
 
 //Created in Fri Nov 11 14:58:53 2022
@@ -2381,7 +2381,7 @@ int main(){
 ```
 
 ## [P2594.cpp](./P2594.cpp):
-![](./P2594.cpp.png)
+![](./P2594.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -2413,7 +2413,7 @@ int main() {
 ```
 
 ## [P2219.cpp](./P2219.cpp):
-![](./P2219.cpp.png)
+![](./P2219.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -2431,7 +2431,7 @@ int main(){
 ```
 
 ## [P1076.cpp](./P1076.cpp):
-![](./P1076.cpp.png)
+![](./P1076.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -2458,7 +2458,7 @@ int main(){
 ```
 
 ## [P1062.cpp](./P1062.cpp):
-![](./P1062.cpp.png)
+![](./P1062.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -2501,7 +2501,7 @@ int main(){
 ```
 
 ## [P4046.cpp](./P4046.cpp):
-![](./P4046.cpp.png)
+![](./P4046.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -2538,7 +2538,7 @@ int main(){
 ```
 
 ## [P3715.cpp](./P3715.cpp):
-![](./P3715.cpp.png)
+![](./P3715.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -2570,7 +2570,7 @@ int main() {
 ```
 
 ## [P1116.cpp](./P1116.cpp):
-![](./P1116.cpp.png)
+![](./P1116.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:22 2022
@@ -2606,7 +2606,7 @@ int main() {
 ```
 
 ## [P3701.cpp](./P3701.cpp):
-![](./P3701.cpp.png)
+![](./P3701.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -2625,7 +2625,7 @@ int main() {
 ```
 
 ## [P2379.cpp](./P2379.cpp):
-![](./P2379.cpp.png)
+![](./P2379.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -2649,7 +2649,7 @@ int main(){
 ```
 
 ## [P2184.cpp](./P2184.cpp):
-![](./P2184.cpp.png)
+![](./P2184.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -2681,7 +2681,7 @@ int main(){
 ```
 
 ## [P3700.cpp](./P3700.cpp):
-![](./P3700.cpp.png)
+![](./P3700.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -2711,7 +2711,7 @@ int main(){
 ```
 
 ## [P2378.cpp](./P2378.cpp):
-![](./P2378.cpp.png)
+![](./P2378.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -2746,7 +2746,7 @@ int main(){
 ```
 
 ## [P1881.cpp](./P1881.cpp):
-![](./P1881.cpp.png)
+![](./P1881.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -2776,7 +2776,7 @@ int main(){
 ```
 
 ## [P1063.cpp](./P1063.cpp):
-![](./P1063.cpp.png)
+![](./P1063.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -2812,7 +2812,7 @@ int main(){
 ```
 
 ## [P2218.cpp](./P2218.cpp):
-![](./P2218.cpp.png)
+![](./P2218.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -2838,7 +2838,7 @@ int main(){
 ```
 
 ## [P1077.cpp](./P1077.cpp):
-![](./P1077.cpp.png)
+![](./P1077.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -2877,7 +2877,7 @@ int main(){
 ```
 
 ## [P3648.cpp](./P3648.cpp):
-![](./P3648.cpp.png)
+![](./P3648.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -2894,7 +2894,7 @@ int main(){
 ```
 
 ## [P1288.cpp](./P1288.cpp):
-![](./P1288.cpp.png)
+![](./P1288.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -2940,7 +2940,7 @@ int main(){
 ```
 
 ## [P1277.cpp](./P1277.cpp):
-![](./P1277.cpp.png)
+![](./P1277.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -2969,7 +2969,7 @@ int main(){
 ```
 
 ## [P2583.cpp](./P2583.cpp):
-![](./P2583.cpp.png)
+![](./P2583.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -2995,7 +2995,7 @@ int main(){
 ```
 
 ## [P1049.cpp](./P1049.cpp):
-![](./P1049.cpp.png)
+![](./P1049.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -3079,7 +3079,7 @@ int main() {
 ```
 
 ## [P3138.cpp](./P3138.cpp):
-![](./P3138.cpp.png)
+![](./P3138.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -3101,7 +3101,7 @@ int main(){
 ```
 
 ## [P1061.cpp](./P1061.cpp):
-![](./P1061.cpp.png)
+![](./P1061.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -3149,7 +3149,7 @@ int main(){
 ```
 
 ## [P1075.cpp](./P1075.cpp):
-![](./P1075.cpp.png)
+![](./P1075.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -3206,7 +3206,7 @@ int main(){
 ```
 
 ## [P2385.cpp](./P2385.cpp):
-![](./P2385.cpp.png)
+![](./P2385.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -3285,7 +3285,7 @@ int main(){
 ```
 
 ## [P1115.cpp](./P1115.cpp):
-![](./P1115.cpp.png)
+![](./P1115.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:22 2022
@@ -3308,7 +3308,7 @@ int main(){
 ```
 
 ## [P3702.cpp](./P3702.cpp):
-![](./P3702.cpp.png)
+![](./P3702.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -3325,7 +3325,7 @@ int main() {
 ```
 
 ## [P3716.cpp](./P3716.cpp):
-![](./P3716.cpp.png)
+![](./P3716.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -3349,7 +3349,7 @@ int main(){
 ```
 
 ## [P3528.cpp](./P3528.cpp):
-![](./P3528.cpp.png)
+![](./P3528.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:45 2022
@@ -3373,7 +3373,7 @@ int main(){
 ```
 
 ## [P3500.cpp](./P3500.cpp):
-![](./P3500.cpp.png)
+![](./P3500.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -3398,7 +3398,7 @@ int main() {
 ```
 
 ## [P3514.cpp](./P3514.cpp):
-![](./P3514.cpp.png)
+![](./P3514.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:44 2022
@@ -3420,7 +3420,7 @@ int main(){
 ```
 
 ## [P3515.cpp](./P3515.cpp):
-![](./P3515.cpp.png)
+![](./P3515.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:44 2022
@@ -3439,7 +3439,7 @@ int main(){
 ```
 
 ## [P3501.cpp](./P3501.cpp):
-![](./P3501.cpp.png)
+![](./P3501.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -3458,7 +3458,7 @@ int main(){
 ```
 
 ## [P3529.cpp](./P3529.cpp):
-![](./P3529.cpp.png)
+![](./P3529.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:45 2022
@@ -3478,7 +3478,7 @@ int main(){
 ```
 
 ## [P3717.cpp](./P3717.cpp):
-![](./P3717.cpp.png)
+![](./P3717.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -3492,7 +3492,7 @@ int main(){
 ```
 
 ## [P3703.cpp](./P3703.cpp):
-![](./P3703.cpp.png)
+![](./P3703.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -3513,7 +3513,7 @@ int main(){
 ```
 
 ## [P4044.cpp](./P4044.cpp):
-![](./P4044.cpp.png)
+![](./P4044.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -3541,7 +3541,7 @@ int main(){
 ```
 
 ## [P2569.cpp](./P2569.cpp):
-![](./P2569.cpp.png)
+![](./P2569.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -3559,7 +3559,7 @@ int main(){
 ```
 
 ## [P1060.cpp](./P1060.cpp):
-![](./P1060.cpp.png)
+![](./P1060.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -3583,7 +3583,7 @@ int main(){
 ```
 
 ## [P1048.cpp](./P1048.cpp):
-![](./P1048.cpp.png)
+![](./P1048.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -3623,7 +3623,7 @@ int main() {
 ```
 
 ## [P3139.cpp](./P3139.cpp):
-![](./P3139.cpp.png)
+![](./P3139.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -3675,7 +3675,7 @@ int main() {
 ```
 
 ## [P3688.cpp](./P3688.cpp):
-![](./P3688.cpp.png)
+![](./P3688.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -3698,7 +3698,7 @@ int main(){
 ```
 
 ## [P1276.cpp](./P1276.cpp):
-![](./P1276.cpp.png)
+![](./P1276.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -3722,7 +3722,7 @@ int main(){
 ```
 
 ## [P2757.cpp](./P2757.cpp):
-![](./P2757.cpp.png)
+![](./P2757.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -3743,7 +3743,7 @@ int main(){
 ```
 
 ## [P1500.cpp](./P1500.cpp):
-![](./P1500.cpp.png)
+![](./P1500.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -3776,7 +3776,7 @@ int main(){
 ```
 
 ## [P2586.cpp](./P2586.cpp):
-![](./P2586.cpp.png)
+![](./P2586.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -3811,7 +3811,7 @@ int main(){
 ```
 
 ## [P3698.cpp](./P3698.cpp):
-![](./P3698.cpp.png)
+![](./P3698.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -3832,7 +3832,7 @@ int main(){
 ```
 
 ## [P1064.cpp](./P1064.cpp):
-![](./P1064.cpp.png)
+![](./P1064.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -3886,7 +3886,7 @@ int main(){
 ```
 
 ## [P2579.cpp](./P2579.cpp):
-![](./P2579.cpp.png)
+![](./P2579.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -3916,7 +3916,7 @@ int main() {
 ```
 
 ## [P1070.cpp](./P1070.cpp):
-![](./P1070.cpp.png)
+![](./P1070.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -3945,7 +3945,7 @@ int main(){
 ```
 
 ## [P1058.cpp](./P1058.cpp):
-![](./P1058.cpp.png)
+![](./P1058.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -3967,7 +3967,7 @@ int main(){
 ```
 
 ## [P3707.cpp](./P3707.cpp):
-![](./P3707.cpp.png)
+![](./P3707.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -3989,7 +3989,7 @@ int main(){
 ```
 
 ## [P7004.cpp](./P7004.cpp):
-![](./P7004.cpp.png)
+![](./P7004.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -4059,7 +4059,7 @@ int main(){
 ```
 
 ## [P3504.cpp](./P3504.cpp):
-![](./P3504.cpp.png)
+![](./P3504.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -4084,7 +4084,7 @@ int main() {
 ```
 
 ## [P2356.cpp](./P2356.cpp):
-![](./P2356.cpp.png)
+![](./P2356.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -4102,7 +4102,7 @@ int main(){
 ```
 
 ## [P2430.cpp](./P2430.cpp):
-![](./P2430.cpp.png)
+![](./P2430.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -4141,7 +4141,7 @@ int main(){
 ```
 
 ## [P1139.cpp](./P1139.cpp):
-![](./P1139.cpp.png)
+![](./P1139.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:25 2022
@@ -4172,7 +4172,7 @@ int main(){
 ```
 
 ## [P1663.cpp](./P1663.cpp):
-![](./P1663.cpp.png)
+![](./P1663.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -4217,7 +4217,7 @@ int main(){
 ```
 
 ## [P1105.cpp](./P1105.cpp):
-![](./P1105.cpp.png)
+![](./P1105.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -4250,7 +4250,7 @@ int main(){
 ```
 
 ## [P3706.cpp](./P3706.cpp):
-![](./P3706.cpp.png)
+![](./P3706.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -4272,7 +4272,7 @@ int main(){
 ```
 
 ## [P1850.cpp](./P1850.cpp):
-![](./P1850.cpp.png)
+![](./P1850.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -4308,7 +4308,7 @@ int main() {
 ```
 
 ## [P2381.cpp](./P2381.cpp):
-![](./P2381.cpp.png)
+![](./P2381.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -4344,7 +4344,7 @@ int main(){
 ```
 
 ## [P1878.cpp](./P1878.cpp):
-![](./P1878.cpp.png)
+![](./P1878.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -4369,7 +4369,7 @@ int main(){
 ```
 
 ## [P1059.cpp](./P1059.cpp):
-![](./P1059.cpp.png)
+![](./P1059.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -4424,7 +4424,7 @@ int main(){
 ```
 
 ## [P1071.cpp](./P1071.cpp):
-![](./P1071.cpp.png)
+![](./P1071.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -4459,7 +4459,7 @@ int main(){
 ```
 
 ## [P1065.cpp](./P1065.cpp):
-![](./P1065.cpp.png)
+![](./P1065.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -4490,7 +4490,7 @@ int main(){
 ```
 
 ## [P3458.cpp](./P3458.cpp):
-![](./P3458.cpp.png)
+![](./P3458.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -4504,7 +4504,7 @@ int main(){
 ```
 
 ## [P2752.cpp](./P2752.cpp):
-![](./P2752.cpp.png)
+![](./P2752.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -4529,7 +4529,7 @@ int main(){
 ```
 
 ## [P3464.cpp](./P3464.cpp):
-![](./P3464.cpp.png)
+![](./P3464.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -4548,7 +4548,7 @@ int main(){
 ```
 
 ## [P2008.cpp](./P2008.cpp):
-![](./P2008.cpp.png)
+![](./P2008.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -4574,7 +4574,7 @@ int main(){
 ```
 
 ## [P1501.cpp](./P1501.cpp):
-![](./P1501.cpp.png)
+![](./P1501.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -4598,7 +4598,7 @@ int main(){
 ```
 
 ## [P5001.cpp](./P5001.cpp):
-![](./P5001.cpp.png)
+![](./P5001.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -4615,7 +4615,7 @@ int main() {
 ```
 
 ## [P1073.cpp](./P1073.cpp):
-![](./P1073.cpp.png)
+![](./P1073.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -4653,7 +4653,7 @@ int main(){
 ```
 
 ## [P1067.cpp](./P1067.cpp):
-![](./P1067.cpp.png)
+![](./P1067.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -4688,7 +4688,7 @@ int main(){
 ```
 
 ## [P2220.cpp](./P2220.cpp):
-![](./P2220.cpp.png)
+![](./P2220.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -4724,7 +4724,7 @@ int main(){
 ```
 
 ## [P3710.cpp](./P3710.cpp):
-![](./P3710.cpp.png)
+![](./P3710.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -4755,7 +4755,7 @@ int main(){
 ```
 
 ## [P1107.cpp](./P1107.cpp):
-![](./P1107.cpp.png)
+![](./P1107.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -4787,7 +4787,7 @@ int main(){
 ```
 
 ## [P1113.cpp](./P1113.cpp):
-![](./P1113.cpp.png)
+![](./P1113.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:22 2022
@@ -4814,7 +4814,7 @@ int main(){
 ```
 
 ## [P3704.cpp](./P3704.cpp):
-![](./P3704.cpp.png)
+![](./P3704.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -4834,7 +4834,7 @@ int main() {
 ```
 
 ## [P2340.cpp](./P2340.cpp):
-![](./P2340.cpp.png)
+![](./P2340.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -4857,7 +4857,7 @@ int main(){
 ```
 
 ## [P3506.cpp](./P3506.cpp):
-![](./P3506.cpp.png)
+![](./P3506.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:44 2022
@@ -4883,7 +4883,7 @@ int main(){
 ```
 
 ## [P3275.cpp](./P3275.cpp):
-![](./P3275.cpp.png)
+![](./P3275.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:22 2022
@@ -4934,7 +4934,7 @@ int main(){
 ```
 
 ## [P3513.cpp](./P3513.cpp):
-![](./P3513.cpp.png)
+![](./P3513.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:44 2022
@@ -4948,7 +4948,7 @@ int main(){
 ```
 
 ## [P4056.cpp](./P4056.cpp):
-![](./P4056.cpp.png)
+![](./P4056.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:54 2022
@@ -4972,7 +4972,7 @@ int main(){
 ```
 
 ## [P1112.cpp](./P1112.cpp):
-![](./P1112.cpp.png)
+![](./P1112.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -5000,7 +5000,7 @@ int main(){
 ```
 
 ## [P1106.cpp](./P1106.cpp):
-![](./P1106.cpp.png)
+![](./P1106.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -5035,7 +5035,7 @@ int main(){
 ```
 
 ## [P1847.cpp](./P1847.cpp):
-![](./P1847.cpp.png)
+![](./P1847.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -5060,7 +5060,7 @@ int main(){
 ```
 
 ## [P3881.cpp](./P3881.cpp):
-![](./P3881.cpp.png)
+![](./P3881.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -5102,7 +5102,7 @@ int main(){
 ```
 
 ## [P2221.cpp](./P2221.cpp):
-![](./P2221.cpp.png)
+![](./P2221.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -5126,7 +5126,7 @@ int main(){
 ```
 
 ## [P1933.cpp](./P1933.cpp):
-![](./P1933.cpp.png)
+![](./P1933.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:34 2022
@@ -5144,7 +5144,7 @@ int main(){
 ```
 
 ## [P3498.cpp](./P3498.cpp):
-![](./P3498.cpp.png)
+![](./P3498.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -5168,7 +5168,7 @@ int main(){
 ```
 
 ## [P2204.cpp](./P2204.cpp):
-![](./P2204.cpp.png)
+![](./P2204.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -5211,7 +5211,7 @@ int main(){
 ```
 
 ## [P2562.cpp](./P2562.cpp):
-![](./P2562.cpp.png)
+![](./P2562.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -5244,7 +5244,7 @@ int main(){
 ```
 
 ## [P2576.cpp](./P2576.cpp):
-![](./P2576.cpp.png)
+![](./P2576.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -5285,7 +5285,7 @@ int main(){
 ```
 
 ## [P1057.cpp](./P1057.cpp):
-![](./P1057.cpp.png)
+![](./P1057.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -5307,7 +5307,7 @@ int main(){
 ```
 
 ## [P1043.cpp](./P1043.cpp):
-![](./P1043.cpp.png)
+![](./P1043.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -5334,7 +5334,7 @@ int main(){
 ```
 
 ## [P1725.cpp](./P1725.cpp):
-![](./P1725.cpp.png)
+![](./P1725.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -5511,7 +5511,7 @@ int main(){
 ```
 
 ## [P3708.cpp](./P3708.cpp):
-![](./P3708.cpp.png)
+![](./P3708.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:51 2022
@@ -5552,7 +5552,7 @@ int main(){
 ```
 
 ## [P2172.cpp](./P2172.cpp):
-![](./P2172.cpp.png)
+![](./P2172.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -5570,7 +5570,7 @@ int main() {
 ```
 
 ## [P3537.cpp](./P3537.cpp):
-![](./P3537.cpp.png)
+![](./P3537.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:46 2022
@@ -5585,7 +5585,7 @@ int main(){
 ```
 
 ## [P1136.cpp](./P1136.cpp):
-![](./P1136.cpp.png)
+![](./P1136.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:24 2022
@@ -5610,7 +5610,7 @@ int main(){
 ```
 
 ## [P3709.cpp](./P3709.cpp):
-![](./P3709.cpp.png)
+![](./P3709.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -5636,7 +5636,7 @@ int main(){
 ```
 
 ## [P1042.cpp](./P1042.cpp):
-![](./P1042.cpp.png)
+![](./P1042.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -5659,7 +5659,7 @@ int main(){
 ```
 
 ## [P3133.cpp](./P3133.cpp):
-![](./P3133.cpp.png)
+![](./P3133.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -5681,7 +5681,7 @@ int main(){
 ```
 
 ## [P1724.cpp](./P1724.cpp):
-![](./P1724.cpp.png)
+![](./P1724.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -5719,7 +5719,7 @@ int main(){
 ```
 
 ## [P3641.cpp](./P3641.cpp):
-![](./P3641.cpp.png)
+![](./P3641.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -5749,7 +5749,7 @@ int main(){
 ```
 
 ## [P1056.cpp](./P1056.cpp):
-![](./P1056.cpp.png)
+![](./P1056.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -5776,7 +5776,7 @@ int main(){
 ```
 
 ## [P2563.cpp](./P2563.cpp):
-![](./P2563.cpp.png)
+![](./P2563.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -5807,7 +5807,7 @@ int main(){
 ```
 
 ## [P1081.cpp](./P1081.cpp):
-![](./P1081.cpp.png)
+![](./P1081.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -5842,7 +5842,7 @@ int main(){
 ```
 
 ## [P1095.cpp](./P1095.cpp):
-![](./P1095.cpp.png)
+![](./P1095.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -5880,7 +5880,7 @@ int main(){
 ```
 
 ## [P1917.cpp](./P1917.cpp):
-![](./P1917.cpp.png)
+![](./P1917.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -5902,7 +5902,7 @@ int main(){
 ```
 
 ## [P2749.cpp](./P2749.cpp):
-![](./P2749.cpp.png)
+![](./P2749.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -5925,7 +5925,7 @@ int main(){
 ```
 
 ## [P3496.cpp](./P3496.cpp):
-![](./P3496.cpp.png)
+![](./P3496.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -5944,7 +5944,7 @@ int main() {
 ```
 
 ## [P1281.cpp](./P1281.cpp):
-![](./P1281.cpp.png)
+![](./P1281.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -5984,7 +5984,7 @@ int main(){
 ```
 
 ## [P2561.cpp](./P2561.cpp):
-![](./P2561.cpp.png)
+![](./P2561.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -6004,7 +6004,7 @@ int main() {
 ```
 
 ## [P1068.cpp](./P1068.cpp):
-![](./P1068.cpp.png)
+![](./P1068.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:19 2022
@@ -6044,7 +6044,7 @@ int main(){
 ```
 
 ## [P1040.cpp](./P1040.cpp):
-![](./P1040.cpp.png)
+![](./P1040.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -6070,7 +6070,7 @@ int main(){
 ```
 
 ## [P1054.cpp](./P1054.cpp):
-![](./P1054.cpp.png)
+![](./P1054.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -6101,7 +6101,7 @@ int main(){
 ```
 
 ## [P1849.cpp](./P1849.cpp):
-![](./P1849.cpp.png)
+![](./P1849.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -6145,7 +6145,7 @@ int main(){
 ```
 
 ## [P1685.cpp](./P1685.cpp):
-![](./P1685.cpp.png)
+![](./P1685.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -6163,7 +6163,7 @@ int main(){
 ```
 
 ## [P1108.cpp](./P1108.cpp):
-![](./P1108.cpp.png)
+![](./P1108.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -6207,7 +6207,7 @@ int main(){
 ```
 
 ## [P1134.cpp](./P1134.cpp):
-![](./P1134.cpp.png)
+![](./P1134.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:24 2022
@@ -6243,7 +6243,7 @@ int main(){
 ```
 
 ## [P1120.cpp](./P1120.cpp):
-![](./P1120.cpp.png)
+![](./P1120.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:23 2022
@@ -6315,7 +6315,7 @@ int main(){
 ```
 
 ## [P2429.cpp](./P2429.cpp):
-![](./P2429.cpp.png)
+![](./P2429.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -6332,7 +6332,7 @@ int main(){
 ```
 
 ## [P2171.cpp](./P2171.cpp):
-![](./P2171.cpp.png)
+![](./P2171.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -6349,7 +6349,7 @@ int main(){
 ```
 
 ## [P3509.cpp](./P3509.cpp):
-![](./P3509.cpp.png)
+![](./P3509.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:44 2022
@@ -6368,7 +6368,7 @@ int main(){
 ```
 
 ## [P3534.cpp](./P3534.cpp):
-![](./P3534.cpp.png)
+![](./P3534.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:45 2022
@@ -6420,7 +6420,7 @@ int main() {
 ```
 
 ## [P3722.cpp](./P3722.cpp):
-![](./P3722.cpp.png)
+![](./P3722.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -6496,7 +6496,7 @@ int main(){
 ```
 
 ## [P1109.cpp](./P1109.cpp):
-![](./P1109.cpp.png)
+![](./P1109.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -6522,7 +6522,7 @@ int main(){
 ```
 
 ## [P3093.cpp](./P3093.cpp):
-![](./P3093.cpp.png)
+![](./P3093.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -6548,7 +6548,7 @@ int main() {
 ```
 
 ## [P1848.cpp](./P1848.cpp):
-![](./P1848.cpp.png)
+![](./P1848.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -6572,7 +6572,7 @@ int main(){
 ```
 
 ## [P1860.cpp](./P1860.cpp):
-![](./P1860.cpp.png)
+![](./P1860.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -6594,7 +6594,7 @@ int main(){
 ```
 
 ## [P3642.cpp](./P3642.cpp):
-![](./P3642.cpp.png)
+![](./P3642.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -6614,7 +6614,7 @@ int main(){
 ```
 
 ## [P1055.cpp](./P1055.cpp):
-![](./P1055.cpp.png)
+![](./P1055.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -6637,7 +6637,7 @@ int main(){
 ```
 
 ## [P1041.cpp](./P1041.cpp):
-![](./P1041.cpp.png)
+![](./P1041.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -6669,7 +6669,7 @@ int main(){
 ```
 
 ## [P1069.cpp](./P1069.cpp):
-![](./P1069.cpp.png)
+![](./P1069.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -6710,7 +6710,7 @@ int main(){
 ```
 
 ## [P2574.cpp](./P2574.cpp):
-![](./P2574.cpp.png)
+![](./P2574.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -6751,7 +6751,7 @@ int main(){
 ```
 
 ## [P1082.cpp](./P1082.cpp):
-![](./P1082.cpp.png)
+![](./P1082.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -6780,7 +6780,7 @@ int main(){
 ```
 
 ## [P1900.cpp](./P1900.cpp):
-![](./P1900.cpp.png)
+![](./P1900.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -6803,7 +6803,7 @@ int  main(){
 ```
 
 ## [P3497.cpp](./P3497.cpp):
-![](./P3497.cpp.png)
+![](./P3497.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -6824,7 +6824,7 @@ int main() {
 ```
 
 ## [P3493.cpp](./P3493.cpp):
-![](./P3493.cpp.png)
+![](./P3493.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -6850,7 +6850,7 @@ int main(){
 ```
 
 ## [P3487.cpp](./P3487.cpp):
-![](./P3487.cpp.png)
+![](./P3487.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -6862,7 +6862,7 @@ int main(){
 ```
 
 ## [P1509.cpp](./P1509.cpp):
-![](./P1509.cpp.png)
+![](./P1509.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -6883,7 +6883,7 @@ int main(){
 ```
 
 ## [P3691.cpp](./P3691.cpp):
-![](./P3691.cpp.png)
+![](./P3691.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -6908,7 +6908,7 @@ int main(){
 ```
 
 ## [P1938.cpp](./P1938.cpp):
-![](./P1938.cpp.png)
+![](./P1938.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:34 2022
@@ -6931,7 +6931,7 @@ int main() {
 ```
 
 ## [P1092.cpp](./P1092.cpp):
-![](./P1092.cpp.png)
+![](./P1092.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -6957,7 +6957,7 @@ int main(){
 ```
 
 ## [P1045.cpp](./P1045.cpp):
-![](./P1045.cpp.png)
+![](./P1045.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -6971,7 +6971,7 @@ int main(){
 ```
 
 ## [P3134.cpp](./P3134.cpp):
-![](./P3134.cpp.png)
+![](./P3134.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -7014,7 +7014,7 @@ int main(){
 ```
 
 ## [P3120.cpp](./P3120.cpp):
-![](./P3120.cpp.png)
+![](./P3120.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -7035,7 +7035,7 @@ int main(){
 ```
 
 ## [P1051.cpp](./P1051.cpp):
-![](./P1051.cpp.png)
+![](./P1051.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -7062,7 +7062,7 @@ int main() {
 ```
 
 ## [P3646.cpp](./P3646.cpp):
-![](./P3646.cpp.png)
+![](./P3646.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -7076,7 +7076,7 @@ int main(){
 ```
 
 ## [P2558.cpp](./P2558.cpp):
-![](./P2558.cpp.png)
+![](./P2558.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -7097,7 +7097,7 @@ int main(){
 ```
 
 ## [P2570.cpp](./P2570.cpp):
-![](./P2570.cpp.png)
+![](./P2570.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -7122,7 +7122,7 @@ int main(){
 ```
 
 ## [P2564.cpp](./P2564.cpp):
-![](./P2564.cpp.png)
+![](./P2564.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -7156,7 +7156,7 @@ int main(){
 ```
 
 ## [P1694.cpp](./P1694.cpp):
-![](./P1694.cpp.png)
+![](./P1694.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -7211,7 +7211,7 @@ int main(){
 ```
 
 ## [P3901.cpp](./P3901.cpp):
-![](./P3901.cpp.png)
+![](./P3901.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -7248,7 +7248,7 @@ int main() {
 ```
 
 ## [P1131.cpp](./P1131.cpp):
-![](./P1131.cpp.png)
+![](./P1131.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:24 2022
@@ -7269,7 +7269,7 @@ int main(){
 ```
 
 ## [P1643.cpp](./P1643.cpp):
-![](./P1643.cpp.png)
+![](./P1643.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -7290,7 +7290,7 @@ int main(){
 ```
 
 ## [P1125.cpp](./P1125.cpp):
-![](./P1125.cpp.png)
+![](./P1125.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:23 2022
@@ -7323,7 +7323,7 @@ int main(){
 ```
 
 ## [P1119.cpp](./P1119.cpp):
-![](./P1119.cpp.png)
+![](./P1119.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:23 2022
@@ -7356,7 +7356,7 @@ int main(){
 ```
 
 ## [P3518.cpp](./P3518.cpp):
-![](./P3518.cpp.png)
+![](./P3518.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:44 2022
@@ -7376,7 +7376,7 @@ int main(){
 ```
 
 ## [P2175.cpp](./P2175.cpp):
-![](./P2175.cpp.png)
+![](./P2175.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -7405,7 +7405,7 @@ int main(){
 ```
 
 ## [P3519.cpp](./P3519.cpp):
-![](./P3519.cpp.png)
+![](./P3519.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:44 2022
@@ -7438,7 +7438,7 @@ int main() {
 ```
 
 ## [P3525.cpp](./P3525.cpp):
-![](./P3525.cpp.png)
+![](./P3525.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:44 2022
@@ -7452,7 +7452,7 @@ int main(){
 ```
 
 ## [P1118.cpp](./P1118.cpp):
-![](./P1118.cpp.png)
+![](./P1118.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:22 2022
@@ -7537,7 +7537,7 @@ int main(){
 ```
 
 ## [P1124.cpp](./P1124.cpp):
-![](./P1124.cpp.png)
+![](./P1124.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:23 2022
@@ -7578,7 +7578,7 @@ int main(){
 ```
 
 ## [P2565.cpp](./P2565.cpp):
-![](./P2565.cpp.png)
+![](./P2565.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -7607,7 +7607,7 @@ int main(){
 ```
 
 ## [P1078.cpp](./P1078.cpp):
-![](./P1078.cpp.png)
+![](./P1078.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -7627,7 +7627,7 @@ int main(){
 ```
 
 ## [P2559.cpp](./P2559.cpp):
-![](./P2559.cpp.png)
+![](./P2559.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -7658,7 +7658,7 @@ int main(){
 ```
 
 ## [P1044.cpp](./P1044.cpp):
-![](./P1044.cpp.png)
+![](./P1044.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -7689,7 +7689,7 @@ int main(){
 ```
 
 ## [P3690.cpp](./P3690.cpp):
-![](./P3690.cpp.png)
+![](./P3690.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -7713,7 +7713,7 @@ int main() {
 ```
 
 ## [P1087.cpp](./P1087.cpp):
-![](./P1087.cpp.png)
+![](./P1087.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -7756,7 +7756,7 @@ int main(){
 ```
 
 ## [P1508.cpp](./P1508.cpp):
-![](./P1508.cpp.png)
+![](./P1508.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:28 2022
@@ -7782,7 +7782,7 @@ int main(){
 ```
 
 ## [P2001.cpp](./P2001.cpp):
-![](./P2001.cpp.png)
+![](./P2001.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:35 2022
@@ -7832,7 +7832,7 @@ int main(){
 ```
 
 ## [P3492.cpp](./P3492.cpp):
-![](./P3492.cpp.png)
+![](./P3492.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -7866,7 +7866,7 @@ int main() {
 ```
 
 ## [P3490.cpp](./P3490.cpp):
-![](./P3490.cpp.png)
+![](./P3490.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:43 2022
@@ -7894,7 +7894,7 @@ int main(){
 ```
 
 ## [P1278.cpp](./P1278.cpp):
-![](./P1278.cpp.png)
+![](./P1278.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -7926,7 +7926,7 @@ int main(){
 ```
 
 ## [P1091.cpp](./P1091.cpp):
-![](./P1091.cpp.png)
+![](./P1091.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -7988,7 +7988,7 @@ int main() {
 ```
 
 ## [P1052.cpp](./P1052.cpp):
-![](./P1052.cpp.png)
+![](./P1052.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -8027,7 +8027,7 @@ int main() {
 ```
 
 ## [P3137.cpp](./P3137.cpp):
-![](./P3137.cpp.png)
+![](./P3137.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -8042,7 +8042,7 @@ int main(){
 ```
 
 ## [P1046.cpp](./P1046.cpp):
-![](./P1046.cpp.png)
+![](./P1046.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -8064,7 +8064,7 @@ int main(){
 ```
 
 ## [P1708.cpp](./P1708.cpp):
-![](./P1708.cpp.png)
+![](./P1708.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -8087,7 +8087,7 @@ int main(){
 ```
 
 ## [P2573.cpp](./P2573.cpp):
-![](./P2573.cpp.png)
+![](./P2573.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -8116,7 +8116,7 @@ int main() {
 ```
 
 ## [P1697.cpp](./P1697.cpp):
-![](./P1697.cpp.png)
+![](./P1697.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -8139,7 +8139,7 @@ int main(){
 ```
 
 ## [P1126.cpp](./P1126.cpp):
-![](./P1126.cpp.png)
+![](./P1126.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:23 2022
@@ -8169,7 +8169,7 @@ int main(){
 ```
 
 ## [P3731.cpp](./P3731.cpp):
-![](./P3731.cpp.png)
+![](./P3731.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -8187,7 +8187,7 @@ int main(){
 ```
 
 ## [P1654.cpp](./P1654.cpp):
-![](./P1654.cpp.png)
+![](./P1654.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -8267,7 +8267,7 @@ int main() {
 ```
 
 ## [P3719.cpp](./P3719.cpp):
-![](./P3719.cpp.png)
+![](./P3719.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -8288,7 +8288,7 @@ int main(){
 ```
 
 ## [P3533.cpp](./P3533.cpp):
-![](./P3533.cpp.png)
+![](./P3533.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:45 2022
@@ -8312,7 +8312,7 @@ int main(){
 ```
 
 ## [P3527.cpp](./P3527.cpp):
-![](./P3527.cpp.png)
+![](./P3527.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:45 2022
@@ -8344,7 +8344,7 @@ int main(){
 ```
 
 ## [P2177.cpp](./P2177.cpp):
-![](./P2177.cpp.png)
+![](./P2177.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:37 2022
@@ -8385,7 +8385,7 @@ signed main() {
 ```
 
 ## [P3526.cpp](./P3526.cpp):
-![](./P3526.cpp.png)
+![](./P3526.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:45 2022
@@ -8428,7 +8428,7 @@ int main(){
 ```
 
 ## [P3532.cpp](./P3532.cpp):
-![](./P3532.cpp.png)
+![](./P3532.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:45 2022
@@ -8445,7 +8445,7 @@ int main(){
 ```
 
 ## [P3718.cpp](./P3718.cpp):
-![](./P3718.cpp.png)
+![](./P3718.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -8474,7 +8474,7 @@ int main(){
 ```
 
 ## [P1133.cpp](./P1133.cpp):
-![](./P1133.cpp.png)
+![](./P1133.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:24 2022
@@ -8494,7 +8494,7 @@ int main(){
 ```
 
 ## [P1866.cpp](./P1866.cpp):
-![](./P1866.cpp.png)
+![](./P1866.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:33 2022
@@ -8522,7 +8522,7 @@ int main(){
 ```
 
 ## [P1696.cpp](./P1696.cpp):
-![](./P1696.cpp.png)
+![](./P1696.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -8542,7 +8542,7 @@ int main(){
 ```
 
 ## [P2572.cpp](./P2572.cpp):
-![](./P2572.cpp.png)
+![](./P2572.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -8560,7 +8560,7 @@ int main() {
 ```
 
 ## [P2566.cpp](./P2566.cpp):
-![](./P2566.cpp.png)
+![](./P2566.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:40 2022
@@ -8587,7 +8587,7 @@ int main() {
 ```
 
 ## [P1709.cpp](./P1709.cpp):
-![](./P1709.cpp.png)
+![](./P1709.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -8607,7 +8607,7 @@ int main(){
 ```
 
 ## [P1721.cpp](./P1721.cpp):
-![](./P1721.cpp.png)
+![](./P1721.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -8637,7 +8637,7 @@ int main(){
 ```
 
 ## [P1047.cpp](./P1047.cpp):
-![](./P1047.cpp.png)
+![](./P1047.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -8664,7 +8664,7 @@ int main(){
 ```
 
 ## [P1053.cpp](./P1053.cpp):
-![](./P1053.cpp.png)
+![](./P1053.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:18 2022
@@ -8706,7 +8706,7 @@ int main(){
 ```
 
 ## [P3693.cpp](./P3693.cpp):
-![](./P3693.cpp.png)
+![](./P3693.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:50 2022
@@ -8747,7 +8747,7 @@ int main(){
 ```
 
 ## [P1084.cpp](./P1084.cpp):
-![](./P1084.cpp.png)
+![](./P1084.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:20 2022
@@ -8780,7 +8780,7 @@ int main(){
 ```
 
 ## [P1090.cpp](./P1090.cpp):
-![](./P1090.cpp.png)
+![](./P1090.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:21 2022
@@ -8817,7 +8817,7 @@ int main(){
 ```
 
 ## [P1279.cpp](./P1279.cpp):
-![](./P1279.cpp.png)
+![](./P1279.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -8854,7 +8854,7 @@ int main(){
 ```
 
 ## [P2016.cpp](./P2016.cpp):
-![](./P2016.cpp.png)
+![](./P2016.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -8911,7 +8911,7 @@ int main(){
 ```
 
 ## [P2059.cpp](./P2059.cpp):
-![](./P2059.cpp.png)
+![](./P2059.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -8934,7 +8934,7 @@ int main(){
 ```
 
 ## [P1949.cpp](./P1949.cpp):
-![](./P1949.cpp.png)
+![](./P1949.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:34 2022
@@ -8953,7 +8953,7 @@ int main(){
 ```
 
 ## [P1008.cpp](./P1008.cpp):
-![](./P1008.cpp.png)
+![](./P1008.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -8984,7 +8984,7 @@ int main(){
 ```
 
 ## [P1034.cpp](./P1034.cpp):
-![](./P1034.cpp.png)
+![](./P1034.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -9004,7 +9004,7 @@ int main(){
 ```
 
 ## [P1020.cpp](./P1020.cpp):
-![](./P1020.cpp.png)
+![](./P1020.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -9020,7 +9020,7 @@ int main(){
 ```
 
 ## [P3970.cpp](./P3970.cpp):
-![](./P3970.cpp.png)
+![](./P3970.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -9042,7 +9042,7 @@ int main(){
 ```
 
 ## [P2461.cpp](./P2461.cpp):
-![](./P2461.cpp.png)
+![](./P2461.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -9081,7 +9081,7 @@ int main(){
 ```
 
 ## [P1626.cpp](./P1626.cpp):
-![](./P1626.cpp.png)
+![](./P1626.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -9106,7 +9106,7 @@ int main() {
 ```
 
 ## [P3582.cpp](./P3582.cpp):
-![](./P3582.cpp.png)
+![](./P3582.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:48 2022
@@ -9139,7 +9139,7 @@ int main(){
 ```
 
 ## [P3568.cpp](./P3568.cpp):
-![](./P3568.cpp.png)
+![](./P3568.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:47 2022
@@ -9159,7 +9159,7 @@ int main(){
 ```
 
 ## [P1155.cpp](./P1155.cpp):
-![](./P1155.cpp.png)
+![](./P1155.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -9178,7 +9178,7 @@ int main(){
 ```
 
 ## [P1627.cpp](./P1627.cpp):
-![](./P1627.cpp.png)
+![](./P1627.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -9200,7 +9200,7 @@ int main(){
 ```
 
 ## [P1169.cpp](./P1169.cpp):
-![](./P1169.cpp.png)
+![](./P1169.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -9219,7 +9219,7 @@ int main(){
 ```
 
 ## [P2460.cpp](./P2460.cpp):
-![](./P2460.cpp.png)
+![](./P2460.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -9302,7 +9302,7 @@ int main(){
 ```
 
 ## [P3781.cpp](./P3781.cpp):
-![](./P3781.cpp.png)
+![](./P3781.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -9319,7 +9319,7 @@ int main(){
 ```
 
 ## [P3795.cpp](./P3795.cpp):
-![](./P3795.cpp.png)
+![](./P3795.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -9349,7 +9349,7 @@ int main(){
 ```
 
 ## [P1814.cpp](./P1814.cpp):
-![](./P1814.cpp.png)
+![](./P1814.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -9400,7 +9400,7 @@ int main() {
 ```
 
 ## [P1800.cpp](./P1800.cpp):
-![](./P1800.cpp.png)
+![](./P1800.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -9439,7 +9439,7 @@ int main(){
 ```
 
 ## [P3636.cpp](./P3636.cpp):
-![](./P3636.cpp.png)
+![](./P3636.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -9467,7 +9467,7 @@ int main(){
 ```
 
 ## [P1021.cpp](./P1021.cpp):
-![](./P1021.cpp.png)
+![](./P1021.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -9484,7 +9484,7 @@ int main(){
 ```
 
 ## [P1035.cpp](./P1035.cpp):
-![](./P1035.cpp.png)
+![](./P1035.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -9507,7 +9507,7 @@ int main(){
 ```
 
 ## [P1009.cpp](./P1009.cpp):
-![](./P1009.cpp.png)
+![](./P1009.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:14 2022
@@ -9526,7 +9526,7 @@ int main(){
 ```
 
 ## [P2702.cpp](./P2702.cpp):
-![](./P2702.cpp.png)
+![](./P2702.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -9561,7 +9561,7 @@ int main(){
 ```
 
 ## [P1590.cpp](./P1590.cpp):
-![](./P1590.cpp.png)
+![](./P1590.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -9582,7 +9582,7 @@ int main(){
 ```
 
 ## [P3608.cpp](./P3608.cpp):
-![](./P3608.cpp.png)
+![](./P3608.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -9615,7 +9615,7 @@ int main() {
 ```
 
 ## [P1023.cpp](./P1023.cpp):
-![](./P1023.cpp.png)
+![](./P1023.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -9635,7 +9635,7 @@ int main(){
 ```
 
 ## [P3620.cpp](./P3620.cpp):
-![](./P3620.cpp.png)
+![](./P3620.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -9658,7 +9658,7 @@ int main(){
 ```
 
 ## [P1037.cpp](./P1037.cpp):
-![](./P1037.cpp.png)
+![](./P1037.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -9696,7 +9696,7 @@ int main(){
 ```
 
 ## [P3783.cpp](./P3783.cpp):
-![](./P3783.cpp.png)
+![](./P3783.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:53 2022
@@ -9724,7 +9724,7 @@ int main(){
 ```
 
 ## [P1194.cpp](./P1194.cpp):
-![](./P1194.cpp.png)
+![](./P1194.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -9756,7 +9756,7 @@ int main(){
 ```
 
 ## [P3768.cpp](./P3768.cpp):
-![](./P3768.cpp.png)
+![](./P3768.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -9792,7 +9792,7 @@ int main(){
 ```
 
 ## [P1157.cpp](./P1157.cpp):
-![](./P1157.cpp.png)
+![](./P1157.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:26 2022
@@ -9811,7 +9811,7 @@ int main(){
 ```
 
 ## [P1631.cpp](./P1631.cpp):
-![](./P1631.cpp.png)
+![](./P1631.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:31 2022
@@ -9845,7 +9845,7 @@ int main(){
 ```
 
 ## [P3595.cpp](./P3595.cpp):
-![](./P3595.cpp.png)
+![](./P3595.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:48 2022
@@ -9859,7 +9859,7 @@ int main(){
 ```
 
 ## [P3543.cpp](./P3543.cpp):
-![](./P3543.cpp.png)
+![](./P3543.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:46 2022
@@ -9879,7 +9879,7 @@ int main(){
 ```
 
 ## [P3755.cpp](./P3755.cpp):
-![](./P3755.cpp.png)
+![](./P3755.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:52 2022
@@ -9897,7 +9897,7 @@ int main() {
 ```
 
 ## [P2339.cpp](./P2339.cpp):
-![](./P2339.cpp.png)
+![](./P2339.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -9919,7 +9919,7 @@ int main(){
 ```
 
 ## [P2463.cpp](./P2463.cpp):
-![](./P2463.cpp.png)
+![](./P2463.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -9957,7 +9957,7 @@ int main() {
 ```
 
 ## [P1036.cpp](./P1036.cpp):
-![](./P1036.cpp.png)
+![](./P1036.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:17 2022
@@ -9987,7 +9987,7 @@ int main(){
 ```
 
 ## [P1022.cpp](./P1022.cpp):
-![](./P1022.cpp.png)
+![](./P1022.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -10005,7 +10005,7 @@ int main(){
 ```
 
 ## [P3609.cpp](./P3609.cpp):
-![](./P3609.cpp.png)
+![](./P3609.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -10030,7 +10030,7 @@ int main(){
 ```
 
 ## [P2271.cpp](./P2271.cpp):
-![](./P2271.cpp.png)
+![](./P2271.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -10062,7 +10062,7 @@ int main(){
 ```
 
 ## [P1963.cpp](./P1963.cpp):
-![](./P1963.cpp.png)
+![](./P1963.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:35 2022
@@ -10091,7 +10091,7 @@ int main(){
 ```
 
 ## [P1595.cpp](./P1595.cpp):
-![](./P1595.cpp.png)
+![](./P1595.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -10109,7 +10109,7 @@ int main(){
 ```
 
 ## [P3382.cpp](./P3382.cpp):
-![](./P3382.cpp.png)
+![](./P3382.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:42 2022
@@ -10143,7 +10143,7 @@ int main(){
 ```
 
 ## [P1026.cpp](./P1026.cpp):
-![](./P1026.cpp.png)
+![](./P1026.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -10170,7 +10170,7 @@ int main(){
 ```
 
 ## [P1032.cpp](./P1032.cpp):
-![](./P1032.cpp.png)
+![](./P1032.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -10193,7 +10193,7 @@ int main(){
 ```
 
 ## [P3619.cpp](./P3619.cpp):
-![](./P3619.cpp.png)
+![](./P3619.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -10224,7 +10224,7 @@ int main() {
 ```
 
 ## [P2467.cpp](./P2467.cpp):
-![](./P2467.cpp.png)
+![](./P2467.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -10242,7 +10242,7 @@ int main(){
 ```
 
 ## [P3584.cpp](./P3584.cpp):
-![](./P3584.cpp.png)
+![](./P3584.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:48 2022
@@ -10265,7 +10265,7 @@ int main(){
 ```
 
 ## [P1387.cpp](./P1387.cpp):
-![](./P1387.cpp.png)
+![](./P1387.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -10303,7 +10303,7 @@ int main(){
 ```
 
 ## [P2116.cpp](./P2116.cpp):
-![](./P2116.cpp.png)
+![](./P2116.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:36 2022
@@ -10334,7 +10334,7 @@ int main(){
 ```
 
 ## [P3552.cpp](./P3552.cpp):
-![](./P3552.cpp.png)
+![](./P3552.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:46 2022
@@ -10369,7 +10369,7 @@ int main(){
 ```
 
 ## [P1386.cpp](./P1386.cpp):
-![](./P1386.cpp.png)
+![](./P1386.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:27 2022
@@ -10397,7 +10397,7 @@ int main(){
 ```
 
 ## [P1609.cpp](./P1609.cpp):
-![](./P1609.cpp.png)
+![](./P1609.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -10414,7 +10414,7 @@ int main(){
 ```
 
 ## [P2466.cpp](./P2466.cpp):
-![](./P2466.cpp.png)
+![](./P2466.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -10434,7 +10434,7 @@ int main(){
 ```
 
 ## [P1153.cpp](./P1153.cpp):
-![](./P1153.cpp.png)
+![](./P1153.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:25 2022
@@ -10454,7 +10454,7 @@ int main(){
 ```
 
 ## [P1806.cpp](./P1806.cpp):
-![](./P1806.cpp.png)
+![](./P1806.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -10488,7 +10488,7 @@ int main(){
 ```
 
 ## [P3618.cpp](./P3618.cpp):
-![](./P3618.cpp.png)
+![](./P3618.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -10507,7 +10507,7 @@ int main(){
 ```
 
 ## [P1033.cpp](./P1033.cpp):
-![](./P1033.cpp.png)
+![](./P1033.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -10531,7 +10531,7 @@ int main(){
 ```
 
 ## [P1027.cpp](./P1027.cpp):
-![](./P1027.cpp.png)
+![](./P1027.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -10554,7 +10554,7 @@ int main(){
 ```
 
 ## [P2710.cpp](./P2710.cpp):
-![](./P2710.cpp.png)
+![](./P2710.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -10568,7 +10568,7 @@ int main(){
 ```
 
 ## [P1596.cpp](./P1596.cpp):
-![](./P1596.cpp.png)
+![](./P1596.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
@@ -10586,7 +10586,7 @@ int main(){
 ```
 
 ## [P2706.cpp](./P2706.cpp):
-![](./P2706.cpp.png)
+![](./P2706.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:41 2022
@@ -10620,7 +10620,7 @@ int main(){
 ```
 
 ## [P1794.cpp](./P1794.cpp):
-![](./P1794.cpp.png)
+![](./P1794.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -10643,7 +10643,7 @@ int main(){
 ```
 
 ## [P1757.cpp](./P1757.cpp):
-![](./P1757.cpp.png)
+![](./P1757.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -10717,7 +10717,7 @@ int main(){
 ```
 
 ## [P1031.cpp](./P1031.cpp):
-![](./P1031.cpp.png)
+![](./P1031.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -10733,7 +10733,7 @@ int main(){
 ```
 
 ## [P1025.cpp](./P1025.cpp):
-![](./P1025.cpp.png)
+![](./P1025.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -10756,7 +10756,7 @@ int main(){
 ```
 
 ## [P1019.cpp](./P1019.cpp):
-![](./P1019.cpp.png)
+![](./P1019.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -10778,7 +10778,7 @@ int main(){
 ```
 
 ## [P1804.cpp](./P1804.cpp):
-![](./P1804.cpp.png)
+![](./P1804.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -10805,7 +10805,7 @@ int main() {
 ```
 
 ## [P1623.cpp](./P1623.cpp):
-![](./P1623.cpp.png)
+![](./P1623.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:30 2022
@@ -10836,7 +10836,7 @@ int main(){
 ```
 
 ## [P1145.cpp](./P1145.cpp):
-![](./P1145.cpp.png)
+![](./P1145.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:25 2022
@@ -10862,7 +10862,7 @@ int main(){
 ```
 
 ## [P2464.cpp](./P2464.cpp):
-![](./P2464.cpp.png)
+![](./P2464.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -10882,7 +10882,7 @@ int main(){
 ```
 
 ## [P3578.cpp](./P3578.cpp):
-![](./P3578.cpp.png)
+![](./P3578.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:48 2022
@@ -10924,7 +10924,7 @@ signed main(){
 ```
 
 ## [P3545.cpp](./P3545.cpp):
-![](./P3545.cpp.png)
+![](./P3545.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:46 2022
@@ -10946,7 +10946,7 @@ int main(){
 ```
 
 ## [P2465.cpp](./P2465.cpp):
-![](./P2465.cpp.png)
+![](./P2465.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:39 2022
@@ -10966,7 +10966,7 @@ int main(){
 ```
 
 ## [P2459.cpp](./P2459.cpp):
-![](./P2459.cpp.png)
+![](./P2459.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:38 2022
@@ -10991,7 +10991,7 @@ int main(){
 ```
 
 ## [P1150.cpp](./P1150.cpp):
-![](./P1150.cpp.png)
+![](./P1150.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:25 2022
@@ -11049,7 +11049,7 @@ int main() {
 ```
 
 ## [P1144.cpp](./P1144.cpp):
-![](./P1144.cpp.png)
+![](./P1144.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:25 2022
@@ -11093,7 +11093,7 @@ int main(){
 ```
 
 ## [P1018.cpp](./P1018.cpp):
-![](./P1018.cpp.png)
+![](./P1018.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -11109,7 +11109,7 @@ int main(){
 ```
 
 ## [P3633.cpp](./P3633.cpp):
-![](./P3633.cpp.png)
+![](./P3633.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:49 2022
@@ -11146,7 +11146,7 @@ int main(){
 ```
 
 ## [P1024.cpp](./P1024.cpp):
-![](./P1024.cpp.png)
+![](./P1024.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:15 2022
@@ -11172,7 +11172,7 @@ int main(){
 ```
 
 ## [P1030.cpp](./P1030.cpp):
-![](./P1030.cpp.png)
+![](./P1030.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:16 2022
@@ -11186,7 +11186,7 @@ int main(){
 ```
 
 ## [P1795.cpp](./P1795.cpp):
-![](./P1795.cpp.png)
+![](./P1795.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:32 2022
@@ -11211,7 +11211,7 @@ int main(){
 ```
 
 ## [P1597.cpp](./P1597.cpp):
-![](./P1597.cpp.png)
+![](./P1597.png)
 ```cpp
 
 //Created in Fri Nov 11 15:02:29 2022
