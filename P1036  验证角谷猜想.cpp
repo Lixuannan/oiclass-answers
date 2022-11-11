@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 14:18:38 2022
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 using namespace std;
 long long n;

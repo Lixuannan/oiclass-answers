@@ -2,9 +2,10 @@
 # [Oiclass](http://oiclass.com)上的所有我写的题解
 
 ## [P1056  愧疚指数.cpp](./P1056  愧疚指数.cpp):
-```cpp
 ![](./P1056  愧疚指数.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:48 2022
 #include<iostream>
 using namespace std;
 int n, a[121], in[200001], cnt[200001], cntn;
@@ -28,9 +29,10 @@ int main(){
 ```
 
 ## [P1045  小矮人.cpp](./P1045  小矮人.cpp):
-```cpp
 ![](./P1045  小矮人.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -41,9 +43,10 @@ int main(){
 ```
 
 ## [P1860  母牛生小牛.cpp](./P1860  母牛生小牛.cpp):
-```cpp
 ![](./P1860  母牛生小牛.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include "iostream"
 
 using namespace std;
@@ -62,9 +65,10 @@ int main(){
 ```
 
 ## [P1058  排名.cpp](./P1058  排名.cpp):
-```cpp
 ![](./P1058  排名.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include<iostream>
 using namespace std;
 int n, k, cnt, a[999999];
@@ -83,9 +87,10 @@ int main(){
 ```
 
 ## [P1602  小鱼的游泳时间.cpp](./P1602  小鱼的游泳时间.cpp):
-```cpp
 ![](./P1602  小鱼的游泳时间.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 using namespace std;
 int t,a,b,c,d,e,f;
@@ -99,9 +104,10 @@ int main(){
 ```
 
 ## [P2221  三角形.cpp](./P2221  三角形.cpp):
-```cpp
 ![](./P2221  三角形.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include "iostream"
 using namespace std;
 int a,b,c;
@@ -122,9 +128,10 @@ int main(){
 ```
 
 ## [P3619  跑步.cpp](./P3619  跑步.cpp):
-```cpp
 ![](./P3619  跑步.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include "iostream"
 
 using namespace std;
@@ -152,9 +159,10 @@ int main() {
 ```
 
 ## [P3703  备战奥运.cpp](./P3703  备战奥运.cpp):
-```cpp
 ![](./P3703  备战奥运.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 using namespace std;
 int n,xin,score;
@@ -172,9 +180,10 @@ int main(){
 ```
 
 ## [P3761  魔术卡片.cpp](./P3761  魔术卡片.cpp):
-```cpp
 ![](./P3761  魔术卡片.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
 #include "iostream"
 
 using namespace std;
@@ -188,9 +197,10 @@ int main() {
 ```
 
 ## [P3763  出发能量.cpp](./P3763  出发能量.cpp):
-```cpp
 ![](./P3763  出发能量.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include "iostream"
 using namespace std;
 int n, sum, in, min_;
@@ -208,9 +218,10 @@ int main(){
 ```
 
 ## [P2752  找第一个只出现一次的字符.cpp](./P2752  找第一个只出现一次的字符.cpp):
-```cpp
 ![](./P2752  找第一个只出现一次的字符.cpp.png)
-//Created in Fri Nov 11 14:19:04 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include "iostream"
 
 using namespace std;
@@ -232,9 +243,10 @@ int main(){
 ```
 
 ## [P3570  点点点.cpp](./P3570  点点点.cpp):
-```cpp
 ![](./P3570  点点点.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include<iostream>
 using namespace std;
 int n, a, b, xmax, xmin = 99999, ymax, ymin = 99999;
@@ -260,9 +272,10 @@ int main(){
 ```
 
 ## [P2218  金字塔.cpp](./P2218  金字塔.cpp):
-```cpp
 ![](./P2218  金字塔.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:06 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -285,9 +298,10 @@ int main(){
 ```
 
 ## [P1024  统计数字.cpp](./P1024  统计数字.cpp):
-```cpp
 ![](./P1024  统计数字.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:45 2022
 #include<iostream>
 using namespace std;
 int sum, sum2;
@@ -310,9 +324,10 @@ int main(){
 ```
 
 ## [P1900  津津的储蓄计划.cpp](./P1900  津津的储蓄计划.cpp):
-```cpp
 ![](./P1900  津津的储蓄计划.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 using namespace std;
 int in, n, r;
@@ -332,9 +347,10 @@ int  main(){
 ```
 
 ## [P3093  小新的楼梯.cpp](./P3093  小新的楼梯.cpp):
-```cpp
 ![](./P3093  小新的楼梯.cpp.png)
-//Created in Fri Nov 11 14:19:04 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include<iostream>
 
 using namespace std;
@@ -357,9 +373,10 @@ int main() {
 ```
 
 ## [P1022  表达式求值.cpp](./P1022  表达式求值.cpp):
-```cpp
 ![](./P1022  表达式求值.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:45 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -374,9 +391,10 @@ int main(){
 ```
 
 ## [P1037  数字反转.cpp](./P1037  数字反转.cpp):
-```cpp
 ![](./P1037  数字反转.cpp.png)
-//Created in Fri Nov 11 14:18:38 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -411,9 +429,10 @@ int main(){
 ```
 
 ## [P3691  HIMの游戏.cpp](./P3691  HIMの游戏.cpp):
-```cpp
 ![](./P3691  HIMの游戏.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:18 2022
 #include "iostream"
 #include "cstring"
 
@@ -435,9 +454,10 @@ int main(){
 ```
 
 ## [P1631  直角三角形.cpp](./P1631  直角三角形.cpp):
-```cpp
 ![](./P1631  直角三角形.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -468,9 +488,10 @@ int main(){
 ```
 
 ## [P1059  单纯质因数.cpp](./P1059  单纯质因数.cpp):
-```cpp
 ![](./P1059  单纯质因数.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include<iostream>
 #include<cmath>
 #include<cstring>
@@ -522,9 +543,10 @@ int main(){
 ```
 
 ## [P1279  计算后缀表达式的值.cpp](./P1279  计算后缀表达式的值.cpp):
-```cpp
 ![](./P1279  计算后缀表达式的值.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -558,8 +580,9 @@ int main(){
 ```
 
 ## [P3941  恰饭 .cpp](./P3941  恰饭 .cpp):
-```cpp
 ![](./P3941  恰饭.png)
+```cpp
+
 //Created in Fri Nov 11 14:19:14 2022
 #include<iostream>
 using namespace std;
@@ -578,9 +601,10 @@ int main(){
 ```
 
 ## [P1157  青蛙跳荷叶.cpp](./P1157  青蛙跳荷叶.cpp):
-```cpp
 ![](./P1157  青蛙跳荷叶.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -596,9 +620,10 @@ int main(){
 ```
 
 ## [P1047  冬眠.cpp](./P1047  冬眠.cpp):
-```cpp
 ![](./P1047  冬眠.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 using namespace std;
 long long d,sum;
@@ -622,8 +647,9 @@ int main(){
 ```
 
 ## [P3715  小 V 去面试.cpp](./P3715  小 V 去面试.cpp):
-```cpp
 ![](./P3715  小.png)
+```cpp
+
 //Created in Fri Nov 11 14:19:12 2022
 #include "iostream"
 #include "cmath"
@@ -653,9 +679,10 @@ int main() {
 ```
 
 ## [P3497  报数.cpp](./P3497  报数.cpp):
-```cpp
 ![](./P3497  报数.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include "iostream"
 
 using namespace std;
@@ -673,9 +700,10 @@ int main() {
 ```
 
 ## [P1026  摘李子.cpp](./P1026  摘李子.cpp):
-```cpp
 ![](./P1026  摘李子.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:45 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -699,9 +727,10 @@ int main(){
 ```
 
 ## [P3582  求和.cpp](./P3582  求和.cpp):
-```cpp
 ![](./P3582  求和.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include<iostream>
 using namespace std;
 int n,x,y,in,sum,max_=-999999,min_=999999;
@@ -731,9 +760,10 @@ int main(){
 ```
 
 ## [P1277  银行取款.cpp](./P1277  银行取款.cpp):
-```cpp
 ![](./P1277  银行取款.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 #include<queue>
 using namespace std;
@@ -759,9 +789,10 @@ int main(){
 ```
 
 ## [P1954  高低位交换.cpp](./P1954  高低位交换.cpp):
-```cpp
 ![](./P1954  高低位交换.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include<iostream>
 using namespace std;
 unsigned int n, x, y;
@@ -775,9 +806,10 @@ int main(){
 ```
 
 ## [P1012  弗洛格.cpp](./P1012  弗洛格.cpp):
-```cpp
 ![](./P1012  弗洛格.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -798,9 +830,10 @@ int main(){
 ```
 
 ## [P3518  1+1=?.cpp](./P3518  1+1=?.cpp):
-```cpp
 ![](./P3518  1+1=?.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include "iostream"
 
 using namespace std;
@@ -817,9 +850,10 @@ int main(){
 ```
 
 ## [P3776  传染病.cpp](./P3776  传染病.cpp):
-```cpp
 ![](./P3776  传染病.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include "iostream"
 using namespace std;
 int n, sum = 1, cnt = 1;
@@ -834,9 +868,10 @@ int main(){
 ```
 
 ## [P3504  数一数.cpp](./P3504  数一数.cpp):
-```cpp
 ![](./P3504  数一数.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include "iostream"
 
 using namespace std;
@@ -858,9 +893,10 @@ int main() {
 ```
 
 ## [P1092  斜二进制数.cpp](./P1092  斜二进制数.cpp):
-```cpp
 ![](./P1092  斜二进制数.cpp.png)
-//Created in Fri Nov 11 14:18:44 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:51 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -883,9 +919,10 @@ int main(){
 ```
 
 ## [P2466  ls采蘑菇：品质.cpp](./P2466  ls采蘑菇：品质.cpp):
-```cpp
 ![](./P2466  ls采蘑菇：品质.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include<iostream>
 using namespace std;
 int n, in, len;
@@ -902,9 +939,10 @@ int main(){
 ```
 
 ## [P3755  吃西瓜.cpp](./P3755  吃西瓜.cpp):
-```cpp
 ![](./P3755  吃西瓜.cpp.png)
-//Created in Fri Nov 11 14:19:12 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
 #include "iostream"
 
 using namespace std;
@@ -919,9 +957,10 @@ int main() {
 ```
 
 ## [P2204  家的范围.cpp](./P2204  家的范围.cpp):
-```cpp
 ![](./P2204  家的范围.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include<iostream>
 using namespace std;
 int n, a[9999][9999], s[9999][9999], cnt[252];
@@ -961,9 +1000,10 @@ int main(){
 ```
 
 ## [P1008  小米.cpp](./P1008  小米.cpp):
-```cpp
 ![](./P1008  小米.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -991,9 +1031,10 @@ int main(){
 ```
 
 ## [P1561  最小公倍数.cpp](./P1561  最小公倍数.cpp):
-```cpp
 ![](./P1561  最小公倍数.cpp.png)
-//Created in Fri Nov 11 14:18:51 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 using namespace std;
 long long a, b;
@@ -1009,9 +1050,10 @@ int main(){
 ```
 
 ## [P1112  Fads.cpp](./P1112  Fads.cpp):
-```cpp
 ![](./P1112  Fads.cpp.png)
-//Created in Fri Nov 11 14:18:45 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:52 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -1036,9 +1078,10 @@ int main(){
 ```
 
 ## [P1150  Fibonacci数列.cpp](./P1150  Fibonacci数列.cpp):
-```cpp
 ![](./P1150  Fibonacci数列.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 #include<cstring>
 #define sz 3
@@ -1093,9 +1136,10 @@ int main() {
 ```
 
 ## [P3458  高斯求和.cpp](./P3458  高斯求和.cpp):
-```cpp
 ![](./P3458  高斯求和.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include<iostream>
 using namespace std;
 long long x;
@@ -1106,9 +1150,10 @@ int main(){
 ```
 
 ## [P3628  判奇偶求和.cpp](./P3628  判奇偶求和.cpp):
-```cpp
 ![](./P3628  判奇偶求和.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include<iostream>
 using namespace std;
 int n,ans;
@@ -1129,9 +1174,10 @@ int main(){
 ```
 
 ## [P1118  身份证.cpp](./P1118  身份证.cpp):
-```cpp
 ![](./P1118  身份证.cpp.png)
-//Created in Fri Nov 11 14:18:46 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:53 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -1213,9 +1259,10 @@ int main(){
 ```
 
 ## [P1997  心系南方灾区.cpp](./P1997  心系南方灾区.cpp):
-```cpp
 ![](./P1997  心系南方灾区.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include "iostream"
 
 using namespace std;
@@ -1232,9 +1279,10 @@ int main() {
 ```
 
 ## [P1039  分数的和.cpp](./P1039  分数的和.cpp):
-```cpp
 ![](./P1039  分数的和.cpp.png)
-//Created in Fri Nov 11 14:18:39 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 using namespace std;
 int a, b, c, d, e, f;
@@ -1266,9 +1314,10 @@ int main(){
 ```
 
 ## [P3767  分数减法.cpp](./P3767  分数减法.cpp):
-```cpp
 ![](./P3767  分数减法.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include<iostream>
 using namespace std;
 int a, b, c, d, e, f;
@@ -1299,9 +1348,10 @@ int main(){
 ```
 
 ## [P1078  译码程序.cpp](./P1078  译码程序.cpp):
-```cpp
 ![](./P1078  译码程序.cpp.png)
-//Created in Fri Nov 11 14:18:43 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:51 2022
 #include<iostream>
 using namespace std;
 char str[257];
@@ -1318,9 +1368,10 @@ int main(){
 ```
 
 ## [P1849  牛的RP.cpp](./P1849  牛的RP.cpp):
-```cpp
 ![](./P1849  牛的RP.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 using namespace std;
 int n, maxRp;
@@ -1361,9 +1412,10 @@ int main(){
 ```
 
 ## [P1596  网购.cpp](./P1596  网购.cpp):
-```cpp
 ![](./P1596  网购.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 using namespace std;
 int x,y,n,price,ans;
@@ -1378,9 +1430,10 @@ int main(){
 ```
 
 ## [P1063  数字方阵.cpp](./P1063  数字方阵.cpp):
-```cpp
 ![](./P1063  数字方阵.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include<iostream>
 using namespace std;
 int n, m, k, cnt, maxn;
@@ -1413,9 +1466,10 @@ int main(){
 ```
 
 ## [P1708  小青蛙爬井.cpp](./P1708  小青蛙爬井.cpp):
-```cpp
 ![](./P1708  小青蛙爬井.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 using namespace std;
 int a,b,h,t,p;
@@ -1435,8 +1489,9 @@ int main(){
 ```
 
 ## [P1603  K 好数.cpp](./P1603  K 好数.cpp):
-```cpp
 ![](./P1603  K.png)
+```cpp
+
 //Created in Fri Nov 11 14:18:52 2022
 #include<iostream>
 #include<cmath>
@@ -1463,9 +1518,10 @@ int main(){
 ```
 
 ## [P1073  漏洞和补丁.cpp](./P1073  漏洞和补丁.cpp):
-```cpp
 ![](./P1073  漏洞和补丁.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:50 2022
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -1500,9 +1556,10 @@ int main(){
 ```
 
 ## [P2251  汉诺4塔.cpp](./P2251  汉诺4塔.cpp):
-```cpp
 ![](./P2251  汉诺4塔.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -1530,9 +1587,10 @@ int main(){
 ```
 
 ## [P3609  点球大战.cpp](./P3609  点球大战.cpp):
-```cpp
 ![](./P3609  点球大战.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include<iostream>
 using namespace std;
 long long a,b;
@@ -1554,9 +1612,10 @@ int main(){
 ```
 
 ## [P2220  Chen.Jr与卡片.cpp](./P2220  Chen.Jr与卡片.cpp):
-```cpp
 ![](./P2220  Chen.Jr与卡片.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include<iostream>
 using namespace std;
 int n, n0, n5;
@@ -1589,9 +1648,10 @@ int main(){
 ```
 
 ## [P3584  可怜的小明.cpp](./P3584  可怜的小明.cpp):
-```cpp
 ![](./P3584  可怜的小明.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include<iostream>
 using namespace std;
 unsigned long long n, p, ans = 0, jc = 1;
@@ -1611,9 +1671,10 @@ int main(){
 ```
 
 ## [P3783  WPS地址.cpp](./P3783  WPS地址.cpp):
-```cpp
 ![](./P3783  WPS地址.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -1638,9 +1699,10 @@ int main(){
 ```
 
 ## [P1848  牛棚回声.cpp](./P1848  牛棚回声.cpp):
-```cpp
 ![](./P1848  牛棚回声.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 using namespace std;
 int ans;
@@ -1661,9 +1723,10 @@ int main(){
 ```
 
 ## [P1144  混合奶牛.cpp](./P1144  混合奶牛.cpp):
-```cpp
 ![](./P1144  混合奶牛.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -1704,9 +1767,10 @@ int main(){
 ```
 
 ## [P3759  折纸.cpp](./P3759  折纸.cpp):
-```cpp
 ![](./P3759  折纸.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
 #include<iostream>
 using namespace std;
 long long cnt, a, b;
@@ -1726,9 +1790,10 @@ int main(){
 ```
 
 ## [P3543  购物优惠.cpp](./P3543  购物优惠.cpp):
-```cpp
 ![](./P3543  购物优惠.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include<iostream>
 using namespace std;
 int n=0,in=0;
@@ -1745,9 +1810,10 @@ int main(){
 ```
 
 ## [P2271  括号匹配.cpp](./P2271  括号匹配.cpp):
-```cpp
 ![](./P2271  括号匹配.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -1776,9 +1842,10 @@ int main(){
 ```
 
 ## [P4056  考试成绩.cpp](./P4056  考试成绩.cpp):
-```cpp
 ![](./P4056  考试成绩.cpp.png)
-//Created in Fri Nov 11 14:19:15 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:22 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -1799,9 +1866,10 @@ int main(){
 ```
 
 ## [P2340  数列异或和.cpp](./P2340  数列异或和.cpp):
-```cpp
 ![](./P2340  数列异或和.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;
@@ -1821,9 +1889,10 @@ int main(){
 ```
 
 ## [P1108  奖学金.cpp](./P1108  奖学金.cpp):
-```cpp
 ![](./P1108  奖学金.cpp.png)
-//Created in Fri Nov 11 14:18:45 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:52 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -1864,9 +1933,10 @@ int main(){
 ```
 
 ## [P3498  圣诞树.cpp](./P3498  圣诞树.cpp):
-```cpp
 ![](./P3498  圣诞树.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -1887,9 +1957,10 @@ int main(){
 ```
 
 ## [P3608  跑步.cpp](./P3608  跑步.cpp):
-```cpp
 ![](./P3608  跑步.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include "iostream"
 
 using namespace std;
@@ -1919,9 +1990,10 @@ int main() {
 ```
 
 ## [P3881  优秀的拆分.cpp](./P3881  优秀的拆分.cpp):
-```cpp
 ![](./P3881  优秀的拆分.cpp.png)
-//Created in Fri Nov 11 14:19:14 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include<iostream>
 #include<cmath>
 #include<sstream>
@@ -1960,9 +2032,10 @@ int main(){
 ```
 
 ## [P1025  网络信号.cpp](./P1025  网络信号.cpp):
-```cpp
 ![](./P1025  网络信号.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:45 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -1982,9 +2055,10 @@ int main(){
 ```
 
 ## [P1148  兔子繁殖.cpp](./P1148  兔子繁殖.cpp):
-```cpp
 ![](./P1148  兔子繁殖.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 using namespace std;
 long long a=1,b=1,c=1,in;
@@ -2000,9 +2074,10 @@ int main(){
 ```
 
 ## [P2108  飞驰人生.cpp](./P2108  飞驰人生.cpp):
-```cpp
 ![](./P2108  飞驰人生.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:06 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2035,9 +2110,10 @@ int main(){
 ```
 
 ## [P5001  愤怒的数学老师.cpp](./P5001  愤怒的数学老师.cpp):
-```cpp
 ![](./P5001  愤怒的数学老师.cpp.png)
-//Created in Fri Nov 11 14:19:16 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:23 2022
 #include "iostream"
 #include "cstring"
 
@@ -2051,9 +2127,10 @@ int main() {
 ```
 
 ## [P2043  羊羊吃草.cpp](./P2043  羊羊吃草.cpp):
-```cpp
 ![](./P2043  羊羊吃草.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:05 2022
 #include<iostream>
 using namespace std;
 long long n, t, s[9999999], a[9999999], ans[3], maxn;
@@ -2082,9 +2159,10 @@ int main(){
 ```
 
 ## [P1125  抽签.cpp](./P1125  抽签.cpp):
-```cpp
 ![](./P1125  抽签.cpp.png)
-//Created in Fri Nov 11 14:18:46 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:54 2022
 #include "iostream"
 #include "cstring"
 
@@ -2114,9 +2192,10 @@ int main(){
 ```
 
 ## [P1044  运动会.cpp](./P1044  运动会.cpp):
-```cpp
 ![](./P1044  运动会.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 using namespace std;
 int n, in, in2, gcd;
@@ -2144,9 +2223,10 @@ int main(){
 ```
 
 ## [P2177  海港.cpp](./P2177  海港.cpp):
-```cpp
 ![](./P2177  海港.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include<iostream>
 #include<queue>
 #define int long long
@@ -2184,9 +2264,10 @@ signed main() {
 ```
 
 ## [P1721  整数处理.cpp](./P1721  整数处理.cpp):
-```cpp
 ![](./P1721  整数处理.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -2213,9 +2294,10 @@ int main(){
 ```
 
 ## [P3552  IP地址.cpp](./P3552  IP地址.cpp):
-```cpp
 ![](./P3552  IP地址.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -2247,9 +2329,10 @@ int main(){
 ```
 
 ## [P2001  纯粹素数.cpp](./P2001  纯粹素数.cpp):
-```cpp
 ![](./P2001  纯粹素数.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:05 2022
 #include <iostream>
 #include <cmath>
 
@@ -2296,9 +2379,10 @@ int main(){
 ```
 
 ## [P1794  统计数字.cpp](./P1794  统计数字.cpp):
-```cpp
 ![](./P1794  统计数字.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 #include<iostream>
 using namespace std;
 int n,m,cnt;
@@ -2318,9 +2402,10 @@ int main(){
 ```
 
 ## [P2109  时钟.cpp](./P2109  时钟.cpp):
-```cpp
 ![](./P2109  时钟.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:06 2022
 #include<iostream>
 #include<cmath>
 #include<algorithm>
@@ -2410,9 +2495,10 @@ int main(){
 ```
 
 ## [P3702  数学.cpp](./P3702  数学.cpp):
-```cpp
 ![](./P3702  数学.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 
 using namespace std;
@@ -2426,9 +2512,10 @@ int main() {
 ```
 
 ## [P3690  HIMの无聊.cpp](./P3690  HIMの无聊.cpp):
-```cpp
 ![](./P3690  HIMの无聊.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:18 2022
 #include "iostream"
 
 using namespace std;
@@ -2449,9 +2536,10 @@ int main() {
 ```
 
 ## [P1038  划分土地.cpp](./P1038  划分土地.cpp):
-```cpp
 ![](./P1038  划分土地.cpp.png)
-//Created in Fri Nov 11 14:18:39 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 using namespace std;
 int n, m, a;
@@ -2467,9 +2555,10 @@ int main(){
 ```
 
 ## [P1030  明明的幸运数.cpp](./P1030  明明的幸运数.cpp):
-```cpp
 ![](./P1030  明明的幸运数.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -2480,9 +2569,10 @@ int main(){
 ```
 
 ## [P1386  二叉树的遍历.cpp](./P1386  二叉树的遍历.cpp):
-```cpp
 ![](./P1386  二叉树的遍历.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 using namespace std;
 string f(string a, string b){
@@ -2507,9 +2597,10 @@ int main(){
 ```
 
 ## [P1020  小明找衣服.cpp](./P1020  小明找衣服.cpp):
-```cpp
 ![](./P1020  小明找衣服.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -2522,9 +2613,10 @@ int main(){
 ```
 
 ## [P3493  种玉米.cpp](./P3493  种玉米.cpp):
-```cpp
 ![](./P3493  种玉米.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include "iostream"
 
 using namespace std;
@@ -2547,9 +2639,10 @@ int main(){
 ```
 
 ## [P4145  chxulong的极域.cpp](./P4145  chxulong的极域.cpp):
-```cpp
 ![](./P4145  chxulong的极域.cpp.png)
-//Created in Fri Nov 11 14:19:15 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:23 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -2560,9 +2653,10 @@ int main(){
 ```
 
 ## [P1051  枪声问题.cpp](./P1051  枪声问题.cpp):
-```cpp
 ![](./P1051  枪声问题.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:48 2022
 #include<iostream>
 
 using namespace std;
@@ -2586,9 +2680,10 @@ int main() {
 ```
 
 ## [P1082  最长单词.cpp](./P1082  最长单词.cpp):
-```cpp
 ![](./P1082  最长单词.cpp.png)
-//Created in Fri Nov 11 14:18:43 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:51 2022
 #include<iostream>
 using namespace std;
 int maxl;
@@ -2613,10 +2708,32 @@ int main(){
 }
 ```
 
-## [P2572  学生人数.cpp](./P2572  学生人数.cpp):
+## [P3719  小V查排名.cpp](./P3719  小V查排名.cpp):
+![](./P3719  小V查排名.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
+#include "iostream"
+
+using namespace std;
+int n,k,in,cnt;
+int main(){
+    cin >> n >> k;
+    for (int i=1; i <= n; i++){
+        cin >> in;
+        if(in > k){
+            cnt += 1;
+        }
+    }
+    cout << cnt;
+}
+```
+
+## [P2572  学生人数.cpp](./P2572  学生人数.cpp):
 ![](./P2572  学生人数.cpp.png)
-//Created in Fri Nov 11 14:19:02 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include "iostream"
 using namespace std;
 int n,sum,in;
@@ -2631,9 +2748,10 @@ int main() {
 ```
 
 ## [P1124  三角形.cpp](./P1124  三角形.cpp):
-```cpp
 ![](./P1124  三角形.cpp.png)
-//Created in Fri Nov 11 14:18:46 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:54 2022
 #include "iostream"
 #include "cstring"
 
@@ -2671,9 +2789,10 @@ int main(){
 ```
 
 ## [P2583  最频繁的字母.cpp](./P2583  最频繁的字母.cpp):
-```cpp
 ![](./P2583  最频繁的字母.cpp.png)
-//Created in Fri Nov 11 14:19:03 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include "iostream"
 
 using namespace std;
@@ -2696,9 +2815,10 @@ int main(){
 ```
 
 ## [P3138  找张三.cpp](./P3138  找张三.cpp):
-```cpp
 ![](./P3138  找张三.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include "iostream"
 using namespace  std;
 int n, ans, i1 = 1, i2 = 2, i3;
@@ -2717,9 +2837,10 @@ int main(){
 ```
 
 ## [P1002  面积.cpp](./P1002  面积.cpp):
-```cpp
 ![](./P1002  面积.cpp.png)
-//Created in Fri Nov 11 14:18:34 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 
 using namespace std;
@@ -2733,8 +2854,9 @@ int main(){
 ```
 
 ## [P1133  危险的实验 .cpp](./P1133  危险的实验 .cpp):
-```cpp
 ![](./P1133  危险的实验.png)
+```cpp
+
 //Created in Fri Nov 11 14:18:46 2022
 #include<iostream>
 using namespace std;
@@ -2752,9 +2874,10 @@ int main(){
 ```
 
 ## [P1509  陶陶摘苹果.cpp](./P1509  陶陶摘苹果.cpp):
-```cpp
 ![](./P1509  陶陶摘苹果.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 using namespace std;
 int a[10],in,cnt;
@@ -2772,9 +2895,10 @@ int main(){
 ```
 
 ## [P1089  回文数.cpp](./P1089  回文数.cpp):
-```cpp
 ![](./P1089  回文数.cpp.png)
-//Created in Fri Nov 11 14:15:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:27:34 2022
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -2844,9 +2968,10 @@ int main(){
 ```
 
 ## [P1115  学生代表.cpp](./P1115  学生代表.cpp):
-```cpp
 ![](./P1115  学生代表.cpp.png)
-//Created in Fri Nov 11 14:18:45 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:53 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -2866,9 +2991,10 @@ int main(){
 ```
 
 ## [P3571  小李打台球.cpp](./P3571  小李打台球.cpp):
-```cpp
 ![](./P3571  小李打台球.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include<iostream>
 using namespace std;
 int red, idx, in, ans;
@@ -2888,9 +3014,10 @@ int main()
 ```
 
 ## [P1136  活动人数.cpp](./P1136  活动人数.cpp):
-```cpp
 ![](./P1136  活动人数.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -2911,10 +3038,31 @@ int main(){
 }
 ```
 
-## [P1590  自创乘法.cpp](./P1590  自创乘法.cpp):
+## [P1000  A+BProblem.cpp](./P1000  A+BProblem.cpp):
+![](./P1000  A+BProblem.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:30:42 2022
+#include<iostream>
+
+using namespace std;
+
+int main(){
+    short a,b,c;
+    cin>>a>>b;
+    c=a+b;
+    a = 0;
+    b = 0;
+    cout<<c;
+    return 0;
+}
+```
+
+## [P1590  自创乘法.cpp](./P1590  自创乘法.cpp):
 ![](./P1590  自创乘法.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2932,9 +3080,10 @@ int main(){
 ```
 
 ## [P1040  分解质因数.cpp](./P1040  分解质因数.cpp):
-```cpp
 ![](./P1040  分解质因数.cpp.png)
-//Created in Fri Nov 11 14:18:39 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2957,9 +3106,10 @@ int main(){
 ```
 
 ## [P1053  合照.cpp](./P1053  合照.cpp):
-```cpp
 ![](./P1053  合照.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:48 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -2998,9 +3148,10 @@ int main(){
 ```
 
 ## [P1609  温度转换.cpp](./P1609  温度转换.cpp):
-```cpp
 ![](./P1609  温度转换.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -3014,9 +3165,10 @@ int main(){
 ```
 
 ## [P2460  这是一个最无聊的题目.cpp](./P2460  这是一个最无聊的题目.cpp):
-```cpp
 ![](./P2460  这是一个最无聊的题目.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -3096,9 +3248,10 @@ int main(){
 ```
 
 ## [P1010  阿基米德特性.cpp](./P1010  阿基米德特性.cpp):
-```cpp
 ![](./P1010  阿基米德特性.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -3114,9 +3267,10 @@ int main(){
 ```
 
 ## [P1095  密码.cpp](./P1095  密码.cpp):
-```cpp
 ![](./P1095  密码.cpp.png)
-//Created in Fri Nov 11 14:18:44 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:52 2022
 #include<iostream>
 using namespace std;
 string ain, bin;
@@ -3151,9 +3305,10 @@ int main(){
 ```
 
 ## [P2710  成绩.cpp](./P2710  成绩.cpp):
-```cpp
 ![](./P2710  成绩.cpp.png)
-//Created in Fri Nov 11 14:19:04 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -3164,9 +3319,10 @@ int main(){
 ```
 
 ## [P1165  2的幂次方.cpp](./P1165  2的幂次方.cpp):
-```cpp
 ![](./P1165  2的幂次方.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -3197,9 +3353,10 @@ int main(){
 ```
 
 ## [P2051  拼不出的数.cpp](./P2051  拼不出的数.cpp):
-```cpp
 ![](./P2051  拼不出的数.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:05 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3223,9 +3380,10 @@ int main() {
 ```
 
 ## [P1021  小明数木块.cpp](./P1021  小明数木块.cpp):
-```cpp
 ![](./P1021  小明数木块.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -3239,9 +3397,10 @@ int main(){
 ```
 
 ## [P1164  移梵塔.cpp](./P1164  移梵塔.cpp):
-```cpp
 ![](./P1164  移梵塔.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #include<iostream>
 using namespace std;
 int n, s;
@@ -3263,9 +3422,10 @@ int main(){
 ```
 
 ## [P1113  数字积木.cpp](./P1113  数字积木.cpp):
-```cpp
 ![](./P1113  数字积木.cpp.png)
-//Created in Fri Nov 11 14:18:45 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:52 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3289,9 +3449,10 @@ int main(){
 ```
 
 ## [P1009  时差.cpp](./P1009  时差.cpp):
-```cpp
 ![](./P1009  时差.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -3306,10 +3467,32 @@ int main(){
 }
 ```
 
-## [P2565  最长变换长度.cpp](./P2565  最长变换长度.cpp):
+## [P3941  恰饭.cpp](./P3941  恰饭.cpp):
+![](./P3941  恰饭.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:31:22 2022
+#include<iostream>
+using namespace std;
+int in, minA = 999999, minB = 999999;
+int main(){
+	for (int i=1; i <= 4; i++){
+		cin >> in;
+		minA = min(in, minA);
+	}
+	for (int i=1; i <= 3; i++){
+		cin >> in;
+		minB = min(in, minB);
+	}
+	cout << minA + minB;
+}
+```
+
+## [P2565  最长变换长度.cpp](./P2565  最长变换长度.cpp):
 ![](./P2565  最长变换长度.cpp.png)
-//Created in Fri Nov 11 14:19:02 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include<iostream>
 using namespace std;
 int maxLength(int n){
@@ -3335,9 +3518,10 @@ int main(){
 ```
 
 ## [P3574  幸运数字.cpp](./P3574  幸运数字.cpp):
-```cpp
 ![](./P3574  幸运数字.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include "iostream"
 
 using namespace std;
@@ -3359,9 +3543,10 @@ int main(){
 ```
 
 ## [P2184  佩奇过大年.cpp](./P2184  佩奇过大年.cpp):
-```cpp
 ![](./P2184  佩奇过大年.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3390,9 +3575,10 @@ int main(){
 ```
 
 ## [P3537  聪明的小红.cpp](./P3537  聪明的小红.cpp):
-```cpp
 ![](./P3537  聪明的小红.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -3404,9 +3590,10 @@ int main(){
 ```
 
 ## [P3604  求平均值.cpp](./P3604  求平均值.cpp):
-```cpp
 ![](./P3604  求平均值.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include "iostream"
 #include "iomanip"
 
@@ -3437,10 +3624,43 @@ int main(){
 }
 ```
 
-## [P1194  ackerman函数.cpp](./P1194  ackerman函数.cpp):
+## [P3715  小V去面试.cpp](./P3715  小V去面试.cpp):
+![](./P3715  小V去面试.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
+#include "iostream"
+#include "cmath"
+
+using namespace std;
+double n, money;
+
+int main() {
+    cin >> n;
+    n = ceilf(n);
+    if (n >= 3) {
+        money += 10;
+        if (n - 3 > 4) {
+            money += 4 * 1.5;
+            if (n >= 7) {
+                money += (n - 7) * 2.4;
+            }
+        } else {
+            money += (n - 3) * 1.5;
+        }
+    } else {
+        cout << 10;
+        return 0;
+    }
+    cout << money << endl;
+}
+```
+
+## [P1194  ackerman函数.cpp](./P1194  ackerman函数.cpp):
 ![](./P1194  ackerman函数.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #include "iostream"
@@ -3469,9 +3689,10 @@ int main(){
 ```
 
 ## [P3708  心中的跑步冠军.cpp](./P3708  心中的跑步冠军.cpp):
-```cpp
 ![](./P3708  心中的跑步冠军.cpp.png)
-//Created in Fri Nov 11 14:19:12 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include<iostream>
 using namespace std;
 int m,t,u,f,d,in,time_,lengh;
@@ -3509,9 +3730,10 @@ int main(){
 ```
 
 ## [P3633  摘彩球.cpp](./P3633  摘彩球.cpp):
-```cpp
 ![](./P3633  摘彩球.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:17 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3545,9 +3767,10 @@ int main(){
 ```
 
 ## [P1604  切蛋糕.cpp](./P1604  切蛋糕.cpp):
-```cpp
 ![](./P1604  切蛋糕.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include<iostream>
 using namespace std;
 unsigned long long n,m;
@@ -3558,9 +3781,10 @@ int main(){
 ```
 
 ## [P4046  Fibonacci.cpp](./P4046  Fibonacci.cpp):
-```cpp
 ![](./P4046  Fibonacci.cpp.png)
-//Created in Fri Nov 11 14:19:15 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:22 2022
 #include<iostream>
 using namespace std;
 long long t, n, a[120];
@@ -3594,8 +3818,9 @@ int main(){
 ```
 
 ## [P3718  小 V 的第二次面试.cpp](./P3718  小 V 的第二次面试.cpp):
-```cpp
 ![](./P3718  小.png)
+```cpp
+
 //Created in Fri Nov 11 14:19:12 2022
 #include "iostream"
 
@@ -3622,9 +3847,10 @@ int main(){
 ```
 
 ## [P1276  堆叠草堆.cpp](./P1276  堆叠草堆.cpp):
-```cpp
 ![](./P1276  堆叠草堆.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3645,9 +3871,10 @@ int main(){
 ```
 
 ## [P1019  猴子吃桃问题.cpp](./P1019  猴子吃桃问题.cpp):
-```cpp
 ![](./P1019  猴子吃桃问题.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -3666,9 +3893,10 @@ int main(){
 ```
 
 ## [P2561  咪咪的智慧.cpp](./P2561  咪咪的智慧.cpp):
-```cpp
 ![](./P2561  咪咪的智慧.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include "iostream"
 using namespace std;
 int n,cnt,h,in;
@@ -3685,9 +3913,10 @@ int main() {
 ```
 
 ## [P1005  追及问题.cpp](./P1005  追及问题.cpp):
-```cpp
 ![](./P1005  追及问题.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 
 using namespace std;
@@ -3702,9 +3931,10 @@ int main(){
 ```
 
 ## [P1881  犁田机器人.cpp](./P1881  犁田机器人.cpp):
-```cpp
 ![](./P1881  犁田机器人.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 using namespace std;
 int x, y, i, cnt, xll, xur, yll, yur;
@@ -3731,9 +3961,10 @@ int main(){
 ```
 
 ## [P1169  装信.cpp](./P1169  装信.cpp):
-```cpp
 ![](./P1169  装信.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -3749,9 +3980,10 @@ int main(){
 ```
 
 ## [P1611  完美数.cpp](./P1611  完美数.cpp):
-```cpp
 ![](./P1611  完美数.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include<iostream>
 using namespace std;
 int n,m,sum;
@@ -3776,9 +4008,10 @@ int main(){
 ```
 
 ## [P2573  进制转换.cpp](./P2573  进制转换.cpp):
-```cpp
 ![](./P2573  进制转换.cpp.png)
-//Created in Fri Nov 11 14:19:02 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include<iostream>
 
 using namespace std;
@@ -3804,9 +4037,10 @@ int main() {
 ```
 
 ## [P2594  康娜的糖果.cpp](./P2594  康娜的糖果.cpp):
-```cpp
 ![](./P2594  康娜的糖果.cpp.png)
-//Created in Fri Nov 11 14:18:50 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -3835,9 +4069,10 @@ int main() {
 ```
 
 ## [P1077  统计单词数.cpp](./P1077  统计单词数.cpp):
-```cpp
 ![](./P1077  统计单词数.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:50 2022
 #include<iostream>
 using namespace std;
 int cnt, ind, strLen, striInd, striLen;
@@ -3873,9 +4108,10 @@ int main(){
 ```
 
 ## [P2356  丢失的筷子.cpp](./P2356  丢失的筷子.cpp):
-```cpp
 ![](./P2356  丢失的筷子.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 using namespace std;
 int n, in, ans;
@@ -3890,9 +4126,10 @@ int main(){
 ```
 
 ## [P4153  老冯看B站.cpp](./P4153  老冯看B站.cpp):
-```cpp
 ![](./P4153  老冯看B站.cpp.png)
-//Created in Fri Nov 11 14:19:16 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:23 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -3905,9 +4142,10 @@ int main(){
 ```
 
 ## [P3578  平均值.cpp](./P3578  平均值.cpp):
-```cpp
 ![](./P3578  平均值.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include<iostream>
 using namespace std;
 #define int long long
@@ -3946,9 +4184,10 @@ signed main(){
 ```
 
 ## [P2430  溶液模拟器.cpp](./P2430  溶液模拟器.cpp):
-```cpp
 ![](./P2430  溶液模拟器.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 #include<stack>
 #include<iomanip>
@@ -3984,9 +4223,10 @@ int main(){
 ```
 
 ## [P1070  戴夫的信.cpp](./P1070  戴夫的信.cpp):
-```cpp
 ![](./P1070  戴夫的信.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:50 2022
 #include<iostream>
 using namespace std;
 int n, inde;
@@ -4012,9 +4252,10 @@ int main(){
 ```
 
 ## [P3648  正方形.cpp](./P3648  正方形.cpp):
-```cpp
 ![](./P3648  正方形.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:18 2022
 #include<iostream>
 using namespace std;
 int ans,n,m;
@@ -4028,9 +4269,10 @@ int main(){
 ```
 
 ## [P1599  评委打分.cpp](./P1599  评委打分.cpp):
-```cpp
 ![](./P1599  评委打分.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 using namespace std;
 int n,sum,max_,min_ = 999999;
@@ -4046,9 +4288,10 @@ int main(){
 ```
 
 ## [P2378  最大的&运算.cpp](./P2378  最大的&运算.cpp):
-```cpp
 ![](./P2378  最大的&运算.cpp.png)
-//Created in Fri Nov 11 14:18:50 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 using namespace std;
 int n, a[300001], maxn;
@@ -4080,9 +4323,10 @@ int main(){
 ```
 
 ## [P1001  魔方.cpp](./P1001  魔方.cpp):
-```cpp
 ![](./P1001  魔方.cpp.png)
-//Created in Fri Nov 11 14:18:34 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:42 2022
 n = int(input())
 a = 8
 b = (n - 2) * 12
@@ -4091,9 +4335,10 @@ print(str(a) + "\n" + str(b) + "\n" + str(c))
 ```
 
 ## [P3768  逆序求和.cpp](./P3768  逆序求和.cpp):
-```cpp
 ![](./P3768  逆序求和.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include "iostream"
 #include "cmath"
 
@@ -4126,9 +4371,10 @@ int main(){
 ```
 
 ## [P3501  求y值.cpp](./P3501  求y值.cpp):
-```cpp
 ![](./P3501  求y值.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include<iostream>
 using namespace std;
 long long x,y,z;
@@ -4144,9 +4390,10 @@ int main(){
 ```
 
 ## [P1685  国王与麦子.cpp](./P1685  国王与麦子.cpp):
-```cpp
 ![](./P1685  国王与麦子.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -4161,9 +4408,10 @@ int main(){
 ```
 
 ## [P1937  闪电风暴.cpp](./P1937  闪电风暴.cpp):
-```cpp
 ![](./P1937  闪电风暴.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
@@ -4245,9 +4493,10 @@ int main(){
 ```
 
 ## [P1663  寻找质因数.cpp](./P1663  寻找质因数.cpp):
-```cpp
 ![](./P1663  寻找质因数.cpp.png)
-//Created in Fri Nov 11 14:18:51 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -4289,9 +4538,10 @@ int main(){
 ```
 
 ## [P1016  零花钱.cpp](./P1016  零花钱.cpp):
-```cpp
 ![](./P1016  零花钱.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -4302,9 +4552,10 @@ int main(){
 ```
 
 ## [P3515  兰姐姐的愤怒.cpp](./P3515  兰姐姐的愤怒.cpp):
-```cpp
 ![](./P3515  兰姐姐的愤怒.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include<iostream>
 using namespace std;
 long long x,ans=1;
@@ -4320,9 +4571,10 @@ int main(){
 ```
 
 ## [P1158  SUME.cpp](./P1158  SUME.cpp):
-```cpp
 ![](./P1158  SUME.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #pragma GCC optimize(3)
 #pragma GCC target("avx")
 #pragma GCC optimize("Ofast")
@@ -4391,10 +4643,23 @@ int main(){
 }
 ```
 
-## [P2059  乐乐爱科学.cpp](./P2059  乐乐爱科学.cpp):
+## [P3487  HelloWorld.cpp](./P3487  HelloWorld.cpp):
+![](./P3487  HelloWorld.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"Hello World!";
+}
+```
+
+## [P2059  乐乐爱科学.cpp](./P2059  乐乐爱科学.cpp):
 ![](./P2059  乐乐爱科学.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:06 2022
 #include<iostream>
 using namespace std;
 int n, cnt;
@@ -4414,9 +4679,10 @@ int main(){
 ```
 
 ## [P1938  合并数字.cpp](./P1938  合并数字.cpp):
-```cpp
 ![](./P1938  合并数字.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include "iostream"
 
 using namespace std;
@@ -4436,9 +4702,10 @@ int main() {
 ```
 
 ## [P1126  珠心算测验.cpp](./P1126  珠心算测验.cpp):
-```cpp
 ![](./P1126  珠心算测验.cpp.png)
-//Created in Fri Nov 11 14:18:46 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:54 2022
 #include<iostream>
 using namespace std;
 int n, a[9999999], cnt;
@@ -4465,9 +4732,10 @@ int main(){
 ```
 
 ## [P2171  反向输出一个三位数.cpp](./P2171  反向输出一个三位数.cpp):
-```cpp
 ![](./P2171  反向输出一个三位数.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -4481,9 +4749,10 @@ int main(){
 ```
 
 ## [P1508  校门外的树.cpp](./P1508  校门外的树.cpp):
-```cpp
 ![](./P1508  校门外的树.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 using namespace std;
 int l,m,in1,in2,cnt,sum;
@@ -4506,9 +4775,10 @@ int main(){
 ```
 
 ## [P2253  牛线.cpp](./P2253  牛线.cpp):
-```cpp
 ![](./P2253  牛线.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -4547,9 +4817,10 @@ int main(){
 ```
 
 ## [P1033  子数整数.cpp](./P1033  子数整数.cpp):
-```cpp
 ![](./P1033  子数整数.cpp.png)
-//Created in Fri Nov 11 14:18:38 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 using namespace std;
 int k;
@@ -4570,9 +4841,10 @@ int main(){
 ```
 
 ## [P2379  最大约数.cpp](./P2379  最大约数.cpp):
-```cpp
 ![](./P2379  最大约数.cpp.png)
-//Created in Fri Nov 11 14:18:50 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include "iostream"
 #include "cmath"
 using namespace std;
@@ -4593,9 +4865,10 @@ int main(){
 ```
 
 ## [P3693  HIMの爱好.cpp](./P3693  HIMの爱好.cpp):
-```cpp
 ![](./P3693  HIMの爱好.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 #include "cmath"
 
@@ -4633,9 +4906,10 @@ int main(){
 ```
 
 ## [P1013  生命之水.cpp](./P1013  生命之水.cpp):
-```cpp
 ![](./P1013  生命之水.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -4652,9 +4926,10 @@ int main(){
 ```
 
 ## [P1847  排队打水.cpp](./P1847  排队打水.cpp):
-```cpp
 ![](./P1847  排队打水.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4676,9 +4951,10 @@ int main(){
 ```
 
 ## [P1007  判奇偶.cpp](./P1007  判奇偶.cpp):
-```cpp
 ![](./P1007  判奇偶.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -4693,10 +4969,40 @@ int main(){
 }
 ```
 
-## [P1725  陶陶抢苹果.cpp](./P1725  陶陶抢苹果.cpp):
+## [P1603  K好数.cpp](./P1603  K好数.cpp):
+![](./P1603  K好数.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
+#include<iostream>
+#include<cmath>
+using namespace std;
+int n, k, cnt, s;
+bool p = true;
+int main(){
+    cin>>n>>k;
+    for (int i=1; i <= n; i++){
+        s = i;
+        for (int a=0; a <= 6; a++){
+            int wei = s / (long long)pow(10,a) % 10;
+            if (wei > k){
+                p=false;
+            }else{
+                continue;
+            }
+        }
+        if (p) cnt++;
+        p = true;
+    }
+    cout<<cnt;
+}
+```
+
+## [P1725  陶陶抢苹果.cpp](./P1725  陶陶抢苹果.cpp):
 ![](./P1725  陶陶抢苹果.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 //#include <iostream>
 //
 //using namespace std;
@@ -4870,9 +5176,10 @@ int main(){
 ```
 
 ## [P1607  骑车与走路.cpp](./P1607  骑车与走路.cpp):
-```cpp
 ![](./P1607  骑车与走路.cpp.png)
-//Created in Fri Nov 11 14:15:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:28:29 2022
 #include<iostream>
 using namespace std;
 int n, tb, tw;
@@ -4887,9 +5194,10 @@ int main(){
 ```
 
 ## [P3781  笨鸟先飞.cpp](./P3781  笨鸟先飞.cpp):
-```cpp
 ![](./P3781  笨鸟先飞.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include "iostream"
 using namespace std;
 long long n,ans;
@@ -4903,9 +5211,10 @@ int main(){
 ```
 
 ## [P2459  国王的魔镜.cpp](./P2459  国王的魔镜.cpp):
-```cpp
 ![](./P2459  国王的魔镜.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 using namespace std;
 string in;
@@ -4927,9 +5236,10 @@ int main(){
 ```
 
 ## [P1940  海岛寻宝.cpp](./P1940  海岛寻宝.cpp):
-```cpp
 ![](./P1940  海岛寻宝.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include<iostream>
 #include<cmath>
 #include<algorithm>
@@ -4974,9 +5284,10 @@ int main(){
 ```
 
 ## [P1800  水王争霸.cpp](./P1800  水王争霸.cpp):
-```cpp
 ![](./P1800  水王争霸.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5012,9 +5323,10 @@ int main(){
 ```
 
 ## [P1562  SUME.cpp](./P1562  SUME.cpp):
-```cpp
 ![](./P1562  SUME.cpp.png)
-//Created in Fri Nov 11 14:18:51 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 using namespace std;
 int n, s[1001][1001], a[1001];
@@ -5036,9 +5348,10 @@ int main(){
 ```
 
 ## [P1043  统计素数.cpp](./P1043  统计素数.cpp):
-```cpp
 ![](./P1043  统计素数.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5062,9 +5375,10 @@ int main(){
 ```
 
 ## [P3646  小明的新运算.cpp](./P3646  小明的新运算.cpp):
-```cpp
 ![](./P3646  小明的新运算.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:17 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -5075,9 +5389,10 @@ int main(){
 ```
 
 ## [P3641  排队.cpp](./P3641  排队.cpp):
-```cpp
 ![](./P3641  排队.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:17 2022
 #include "iostream"
 #include "algorithm"
 
@@ -5104,9 +5419,10 @@ int main(){
 ```
 
 ## [P3901  优美的数.cpp](./P3901  优美的数.cpp):
-```cpp
 ![](./P3901  优美的数.cpp.png)
-//Created in Fri Nov 11 14:19:14 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:22 2022
 #include "iostream"
 
 using namespace std;
@@ -5140,9 +5456,10 @@ int main() {
 ```
 
 ## [P3490  相邻数之和.cpp](./P3490  相邻数之和.cpp):
-```cpp
 ![](./P3490  相邻数之和.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include <iostream>
 
 using namespace std;
@@ -5167,9 +5484,10 @@ int main(){
 ```
 
 ## [P2464  恐龙先生救小熊.cpp](./P2464  恐龙先生救小熊.cpp):
-```cpp
 ![](./P2464  恐龙先生救小熊.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include "iostream"
 #include "cmath"
 
@@ -5186,9 +5504,10 @@ int main(){
 ```
 
 ## [P2562  扫描识别.cpp](./P2562  扫描识别.cpp):
-```cpp
 ![](./P2562  扫描识别.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include "iostream"
 
 using namespace std;
@@ -5218,8 +5537,9 @@ int main(){
 ```
 
 ## [P3487  Hello World.cpp](./P3487  Hello World.cpp):
-```cpp
 ![](./P3487  Hello.png)
+```cpp
+
 //Created in Fri Nov 11 14:19:04 2022
 #include<iostream>
 using namespace std;
@@ -5229,9 +5549,10 @@ int main(){
 ```
 
 ## [P1055  卡片整理.cpp](./P1055  卡片整理.cpp):
-```cpp
 ![](./P1055  卡片整理.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:48 2022
 #include "iostream"
 using namespace std;
 int a[9999999];
@@ -5251,9 +5572,10 @@ int main(){
 ```
 
 ## [P2116  又见汉诺塔.cpp](./P2116  又见汉诺塔.cpp):
-```cpp
 ![](./P2116  又见汉诺塔.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:06 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5281,9 +5603,10 @@ int main(){
 ```
 
 ## [P1067  ISBN号码.cpp](./P1067  ISBN号码.cpp):
-```cpp
 ![](./P1067  ISBN号码.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include "iostream"
 
 using namespace std;
@@ -5315,9 +5638,10 @@ int main(){
 ```
 
 ## [P3519  今天星期几.cpp](./P3519  今天星期几.cpp):
-```cpp
 ![](./P3519  今天星期几.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include "iostream"
 
 using namespace std;
@@ -5347,9 +5671,10 @@ int main() {
 ```
 
 ## [P1806  数素数.cpp](./P1806  数素数.cpp):
-```cpp
 ![](./P1806  数素数.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5380,9 +5705,10 @@ int main(){
 ```
 
 ## [P1278  拉手游戏.cpp](./P1278  拉手游戏.cpp):
-```cpp
 ![](./P1278  拉手游戏.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 using namespace std;
 bool a[1001];
@@ -5411,9 +5737,10 @@ int main(){
 ```
 
 ## [P1071  对称排序.cpp](./P1071  对称排序.cpp):
-```cpp
 ![](./P1071  对称排序.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:50 2022
 #include <iostream>
 
 using namespace std;
@@ -5445,9 +5772,10 @@ int main(){
 ```
 
 ## [P1014  托运收费.cpp](./P1014  托运收费.cpp):
-```cpp
 ![](./P1014  托运收费.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -5464,9 +5792,10 @@ int main(){
 ```
 
 ## [P1017  小明的阶乘.cpp](./P1017  小明的阶乘.cpp):
-```cpp
 ![](./P1017  小明的阶乘.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -5484,9 +5813,10 @@ int main(){
 ```
 
 ## [P1090  牛记数.cpp](./P1090  牛记数.cpp):
-```cpp
 ![](./P1090  牛记数.cpp.png)
-//Created in Fri Nov 11 14:18:43 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:51 2022
 #include <iostream>
 
 using namespace std;
@@ -5520,9 +5850,10 @@ int main(){
 ```
 
 ## [P3134  数列.cpp](./P3134  数列.cpp):
-```cpp
 ![](./P3134  数列.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include "iostream"
 #include "iomanip"
 
@@ -5562,9 +5893,10 @@ int main(){
 ```
 
 ## [P3532  时间转换.cpp](./P3532  时间转换.cpp):
-```cpp
 ![](./P3532  时间转换.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -5578,9 +5910,10 @@ int main(){
 ```
 
 ## [P1606  航班管理.cpp](./P1606  航班管理.cpp):
-```cpp
 ![](./P1606  航班管理.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -5591,9 +5924,10 @@ int main(){
 ```
 
 ## [P1933  正方形.cpp](./P1933  正方形.cpp):
-```cpp
 ![](./P1933  正方形.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include "iostream"
 
 using namespace std;
@@ -5608,9 +5942,10 @@ int main(){
 ```
 
 ## [P3620  号码牌.cpp](./P3620  号码牌.cpp):
-```cpp
 ![](./P3620  号码牌.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include<iostream>
 using namespace std;
 int n, x, ans[10];
@@ -5630,9 +5965,10 @@ int main(){
 ```
 
 ## [P1627  中国剩余定理.cpp](./P1627  中国剩余定理.cpp):
-```cpp
 ![](./P1627  中国剩余定理.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include<iostream>
 using namespace std;
 int k, cnt, ans;
@@ -5651,9 +5987,10 @@ int main(){
 ```
 
 ## [P1041  哥德巴赫猜想.cpp](./P1041  哥德巴赫猜想.cpp):
-```cpp
 ![](./P1041  哥德巴赫猜想.cpp.png)
-//Created in Fri Nov 11 14:18:39 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 #include<cmath>
 
@@ -5682,9 +6019,10 @@ int main(){
 ```
 
 ## [P1004  小明买箱子.cpp](./P1004  小明买箱子.cpp):
-```cpp
 ![](./P1004  小明买箱子.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 
 using namespace std;
@@ -5698,9 +6036,10 @@ int main(){
 ```
 
 ## [P4146  jy123的比赛.cpp](./P4146  jy123的比赛.cpp):
-```cpp
 ![](./P4146  jy123的比赛.cpp.png)
-//Created in Fri Nov 11 14:19:15 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:23 2022
 #include "iostream"
 using namespace std;
 int n, jg, yx, in;
@@ -5720,9 +6059,10 @@ int main(){
 ```
 
 ## [P1990  单数？双数？.cpp](./P1990  单数？双数？.cpp):
-```cpp
 ![](./P1990  单数？双数？.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include "iostream"
 
 using namespace std;
@@ -5742,9 +6082,10 @@ int main(){
 ```
 
 ## [P1878  连续自然数和.cpp](./P1878  连续自然数和.cpp):
-```cpp
 ![](./P1878  连续自然数和.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -5766,9 +6107,10 @@ int main(){
 ```
 
 ## [P1134  硬币问题.cpp](./P1134  硬币问题.cpp):
-```cpp
 ![](./P1134  硬币问题.cpp.png)
-//Created in Fri Nov 11 14:18:46 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 using namespace std;
 long long cnt, n, c1, c5, c10, c50, c100, c500;
@@ -5801,9 +6143,10 @@ int main(){
 ```
 
 ## [P3529  超级加倍.cpp](./P3529  超级加倍.cpp):
-```cpp
 ![](./P3529  超级加倍.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include<iostream>
 using namespace std;
 string f(int n){
@@ -5820,9 +6163,10 @@ int main(){
 ```
 
 ## [P2564  切割纸张.cpp](./P2564  切割纸张.cpp):
-```cpp
 ![](./P2564  切割纸张.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include<iostream>
 using namespace std;
 int n, cnt, m, in, a[101], b[101];
@@ -5853,9 +6197,10 @@ int main(){
 ```
 
 ## [P1069  不明飞行物.cpp](./P1069  不明飞行物.cpp):
-```cpp
 ![](./P1069  不明飞行物.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:50 2022
 #include "iostream"
 
 using namespace std;
@@ -5893,9 +6238,10 @@ int main(){
 ```
 
 ## [P3513  梯形面积.cpp](./P3513  梯形面积.cpp):
-```cpp
 ![](./P3513  梯形面积.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -5906,9 +6252,10 @@ int main(){
 ```
 
 ## [P1064  填字游戏.cpp](./P1064  填字游戏.cpp):
-```cpp
 ![](./P1064  填字游戏.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5959,9 +6306,10 @@ int main(){
 ```
 
 ## [P3722  奥运列队.cpp](./P3722  奥运列队.cpp):
-```cpp
 ![](./P3722  奥运列队.cpp.png)
-//Created in Fri Nov 11 14:19:12 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
 #include "iostream"
 
 using namespace std;
@@ -6034,9 +6382,10 @@ int main(){
 ```
 
 ## [P1850  喝醉的狱卒.cpp](./P1850  喝醉的狱卒.cpp):
-```cpp
 ![](./P1850  喝醉的狱卒.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 #include<cstring>
 
@@ -6069,9 +6418,10 @@ int main() {
 ```
 
 ## [P3534  选择计算.cpp](./P3534  选择计算.cpp):
-```cpp
 ![](./P3534  选择计算.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include "iostream"
 #include "cmath"
 
@@ -6120,9 +6470,10 @@ int main() {
 ```
 
 ## [P1697  数字王国的二等公民.cpp](./P1697  数字王国的二等公民.cpp):
-```cpp
 ![](./P1697  数字王国的二等公民.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6142,9 +6493,10 @@ int main(){
 ```
 
 ## [P2172  计算并联电阻的阻值.cpp](./P2172  计算并联电阻的阻值.cpp):
-```cpp
 ![](./P2172  计算并联电阻的阻值.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include "iostream"
 #include "iomanip"
 
@@ -6159,9 +6511,10 @@ int main() {
 ```
 
 ## [P3970  月相.cpp](./P3970  月相.cpp):
-```cpp
 ![](./P3970  月相.cpp.png)
-//Created in Fri Nov 11 14:19:14 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:22 2022
 #include "iostream"
 using namespace std;
 int a,b,c;
@@ -6180,9 +6533,10 @@ int main(){
 ```
 
 ## [P1798  数学天才的难题.cpp](./P1798  数学天才的难题.cpp):
-```cpp
 ![](./P1798  数学天才的难题.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 //#include <iostream>
 //
 //using namespace std;
@@ -6357,9 +6711,10 @@ int main() {
 ```
 
 ## [P2580  报数游戏.cpp](./P2580  报数游戏.cpp):
-```cpp
 ![](./P2580  报数游戏.cpp.png)
-//Created in Fri Nov 11 14:19:03 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include<iostream>
 using namespace std;
 int n, a1, cnt, a2, b1, b2;
@@ -6379,9 +6734,10 @@ int main(){
 ```
 
 ## [P3642  汉诺塔.cpp](./P3642  汉诺塔.cpp):
-```cpp
 ![](./P3642  汉诺塔.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:17 2022
 #include "iostream"
 #include "cmath"
 
@@ -6397,10 +6753,42 @@ int main(){
 }
 ```
 
-## [P3698  救灾.cpp](./P3698  救灾.cpp):
+## [P3710  D站的表情包.cpp](./P3710  D站的表情包.cpp):
+![](./P3710  D站的表情包.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int sum(int n){
+	int ret = 0;
+	for (int i=1; i <= n; i++){
+		if (n % i == 0 && i % 3 != 0){
+			ret += i;
+		}
+	}
+	return ret;
+}
+int n, a[999999], in;
+int main(){
+	cin >> n;
+	for (int i=1; i <= n; i++){
+		cin >> in;
+		a[i] = sum(in);
+	}
+	stable_sort(a + 1, a + n + 1);
+	for (int i=1; i <= n; i++){
+		cout << a[i] << " ";
+	}
+}
+```
+
+## [P3698  救灾.cpp](./P3698  救灾.cpp):
 ![](./P3698  救灾.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 
 using namespace std;
@@ -6418,9 +6806,10 @@ int main(){
 ```
 
 ## [P3139  计算机.cpp](./P3139  计算机.cpp):
-```cpp
 ![](./P3139  计算机.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include<iostream>
 
 using namespace std;
@@ -6469,9 +6858,10 @@ int main() {
 ```
 
 ## [P3707  统计奖牌.cpp](./P3707  统计奖牌.cpp):
-```cpp
 ![](./P3707  统计奖牌.cpp.png)
-//Created in Fri Nov 11 14:19:12 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 
 using namespace std;
@@ -6490,9 +6880,10 @@ int main(){
 ```
 
 ## [P2016  博物馆的密码.cpp](./P2016  博物馆的密码.cpp):
-```cpp
 ![](./P2016  博物馆的密码.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:05 2022
 #include <iostream>
 #include <sstream>
 
@@ -6546,9 +6937,10 @@ int main(){
 ```
 
 ## [P3700  山洞.cpp](./P3700  山洞.cpp):
-```cpp
 ![](./P3700  山洞.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 #include "cstring"
 #include "algorithm"
@@ -6575,9 +6967,10 @@ int main(){
 ```
 
 ## [P1068  笨小猴.cpp](./P1068  笨小猴.cpp):
-```cpp
 ![](./P1068  笨小猴.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:50 2022
 #include "iostream"
 #include "cmath"
 
@@ -6614,9 +7007,10 @@ int main(){
 ```
 
 ## [P2749  纸条.cpp](./P2749  纸条.cpp):
-```cpp
 ![](./P2749  纸条.cpp.png)
-//Created in Fri Nov 11 14:19:04 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6636,9 +7030,10 @@ int main(){
 ```
 
 ## [P3463  求n值.cpp](./P3463  求n值.cpp):
-```cpp
 ![](./P3463  求n值.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include "iostream"
 
 using namespace std;
@@ -6654,9 +7049,10 @@ int main(){
 ```
 
 ## [P1605  流感.cpp](./P1605  流感.cpp):
-```cpp
 ![](./P1605  流感.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -6670,9 +7066,10 @@ int main(){
 ```
 
 ## [P1387  二叉树的性质.cpp](./P1387  二叉树的性质.cpp):
-```cpp
 ![](./P1387  二叉树的性质.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 using namespace std;
 int n, x, y;
@@ -6707,9 +7104,10 @@ int main(){
 ```
 
 ## [P1054  合唱队形.cpp](./P1054  合唱队形.cpp):
-```cpp
 ![](./P1054  合唱队形.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:48 2022
 #include "iostream"
 #include "cstring"
 #include "algorithm"
@@ -6736,10 +7134,31 @@ int main(){
 }
 ```
 
-## [P1075  扫雷.cpp](./P1075  扫雷.cpp):
+## [P1133  危险的实验.cpp](./P1133  危险的实验.cpp):
+![](./P1133  危险的实验.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:30:54 2022
+#include<iostream>
+using namespace std;
+long long n, a[9999999], ans;
+int main(){
+	cin >> n;
+	for (int i=1; i <= n; i++){
+		cin >> a[i];
+	}
+	for (int i=2; i <= n; i++){
+		ans += max(a[i], a[i - 1]);
+	}
+	cout << ans;
+}
+```
+
+## [P1075  扫雷.cpp](./P1075  扫雷.cpp):
 ![](./P1075  扫雷.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:50 2022
 #include<iostream>
 using namespace std;
 char a[102][102];
@@ -6793,9 +7212,10 @@ int main(){
 ```
 
 ## [P1018  立方和.cpp](./P1018  立方和.cpp):
-```cpp
 ![](./P1018  立方和.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -6808,9 +7228,10 @@ int main(){
 ```
 
 ## [P1107  军事机密.cpp](./P1107  军事机密.cpp):
-```cpp
 ![](./P1107  军事机密.cpp.png)
-//Created in Fri Nov 11 14:18:44 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:52 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -6839,9 +7260,10 @@ int main(){
 ```
 
 ## [P1048  优美序列.cpp](./P1048  优美序列.cpp):
-```cpp
 ![](./P1048  优美序列.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include "iostream"
 #include "cstring"
 #include "cmath"
@@ -6878,9 +7300,10 @@ int main() {
 ```
 
 ## [P1501  数字三角形.cpp](./P1501  数字三角形.cpp):
-```cpp
 ![](./P1501  数字三角形.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -6901,9 +7324,10 @@ int main(){
 ```
 
 ## [P1023  换座位.cpp](./P1023  换座位.cpp):
-```cpp
 ![](./P1023  换座位.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:45 2022
 #include<iostream>
 using namespace std;
 int in, act, time123, ans;
@@ -6920,9 +7344,10 @@ int main(){
 ```
 
 ## [P2586  幻方.cpp](./P2586  幻方.cpp):
-```cpp
 ![](./P2586  幻方.cpp.png)
-//Created in Fri Nov 11 14:19:03 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include<iostream>
 using namespace std;
 int a[5][5], n, m;
@@ -6954,9 +7379,10 @@ int main(){
 ```
 
 ## [P1153  蜜蜂路线.cpp](./P1153  蜜蜂路线.cpp):
-```cpp
 ![](./P1153  蜜蜂路线.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 using namespace std;
 long long n, m, a=1, b=1, c=1;
@@ -6973,9 +7399,10 @@ int main(){
 ```
 
 ## [P1027  分木块.cpp](./P1027  分木块.cpp):
-```cpp
 ![](./P1027  分木块.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:45 2022
 #include<iostream>
 using namespace std;
 int n, all[10085];
@@ -6995,9 +7422,10 @@ int main(){
 ```
 
 ## [P2339  分岔路口.cpp](./P2339  分岔路口.cpp):
-```cpp
 ![](./P2339  分岔路口.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 using namespace std;
 long long n, k;
@@ -7015,10 +7443,35 @@ int main(){
 }
 ```
 
-## [P1595  写作业.cpp](./P1595  写作业.cpp):
+## [P3716  小V排队.cpp](./P3716  小V排队.cpp):
+![](./P3716  小V排队.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
+#include "iostream"
+
+using namespace std;
+int n, in, sum, tmpsum;
+int main(){
+    cin >> n;
+    for(int i=1; i <= n ; i++){
+        cin >> in;
+        sum += in;
+        tmpsum += in;
+        if (tmpsum >= 30){
+            sum += 10;
+            tmpsum -= 30;
+        }
+    }
+    cout << sum;
+}
+```
+
+## [P1595  写作业.cpp](./P1595  写作业.cpp):
 ![](./P1595  写作业.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include "iostream"
 using namespace std;
 int n,x,y;
@@ -7033,9 +7486,10 @@ int main(){
 ```
 
 ## [P3709  膜拜大神.cpp](./P3709  膜拜大神.cpp):
-```cpp
 ![](./P3709  膜拜大神.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include<iostream>
 using namespace std;
 int x, a[9999], b[9999], n;
@@ -7058,9 +7512,10 @@ int main(){
 ```
 
 ## [P2469  ls采蘑菇：能力炸裂.cpp](./P2469  ls采蘑菇：能力炸裂.cpp):
-```cpp
 ![](./P2469  ls采蘑菇：能力炸裂.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include<iostream>
 using namespace std;
 int n, cnt, a[99999];
@@ -7087,9 +7542,10 @@ int main(){
 ```
 
 ## [P2576  精挑细选.cpp](./P2576  精挑细选.cpp):
-```cpp
 ![](./P2576  精挑细选.cpp.png)
-//Created in Fri Nov 11 14:19:03 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -7127,9 +7583,10 @@ int main(){
 ```
 
 ## [P3120  质因数分解.cpp](./P3120  质因数分解.cpp):
-```cpp
 ![](./P3120  质因数分解.cpp.png)
-//Created in Fri Nov 11 14:19:04 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include<iostream>
 #include<cmath>
 
@@ -7147,9 +7604,10 @@ int main(){
 ```
 
 ## [P3526  选数.cpp](./P3526  选数.cpp):
-```cpp
 ![](./P3526  选数.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7189,9 +7647,10 @@ int main(){
 ```
 
 ## [P2330  数的计算.cpp](./P2330  数的计算.cpp):
-```cpp
 ![](./P2330  数的计算.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 using namespace std;
 int n, a[99999];
@@ -7217,9 +7676,10 @@ int main(){
 ```
 
 ## [P3496  田径赛.cpp](./P3496  田径赛.cpp):
-```cpp
 ![](./P3496  田径赛.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include "iostream"
 
 using namespace std;
@@ -7235,9 +7695,10 @@ int main() {
 ```
 
 ## [P3701  商店.cpp](./P3701  商店.cpp):
-```cpp
 ![](./P3701  商店.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 
 using namespace std;
@@ -7253,9 +7714,10 @@ int main() {
 ```
 
 ## [P1696  守形数.cpp](./P1696  守形数.cpp):
-```cpp
 ![](./P1696  守形数.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -7272,9 +7734,10 @@ int main(){
 ```
 
 ## [P3688  摘苹果.cpp](./P3688  摘苹果.cpp):
-```cpp
 ![](./P3688  摘苹果.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:18 2022
 #include "iostream"
 
 using namespace std;
@@ -7294,9 +7757,10 @@ int main(){
 ```
 
 ## [P1949  购物.cpp](./P1949  购物.cpp):
-```cpp
 ![](./P1949  购物.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include "iostream"
 #include "iomanip"
 using namespace std;
@@ -7312,9 +7776,10 @@ int main(){
 ```
 
 ## [P3545  排队接水.cpp](./P3545  排队接水.cpp):
-```cpp
 ![](./P3545  排队接水.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -7333,9 +7798,10 @@ int main(){
 ```
 
 ## [P1804  数字序列.cpp](./P1804  数字序列.cpp):
-```cpp
 ![](./P1804  数字序列.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 #include "iostream"
 
 using namespace std;
@@ -7359,9 +7825,10 @@ int main() {
 ```
 
 ## [P1120  机器人.cpp](./P1120  机器人.cpp):
-```cpp
 ![](./P1120  机器人.cpp.png)
-//Created in Fri Nov 11 14:18:46 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:53 2022
 #include<iostream>
 using namespace std;
 int t, x, y, cnt;
@@ -7430,9 +7897,10 @@ int main(){
 ```
 
 ## [P1145  汽车加油.cpp](./P1145  汽车加油.cpp):
-```cpp
 ![](./P1145  汽车加油.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 using namespace std;
 int n, k, tmp, cnt, a;
@@ -7455,9 +7923,10 @@ int main(){
 ```
 
 ## [P3514  程序判断.cpp](./P3514  程序判断.cpp):
-```cpp
 ![](./P3514  程序判断.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include<iostream>
 using namespace std;
 int n,score,target,timein,rtime;
@@ -7476,9 +7945,10 @@ int main(){
 ```
 
 ## [P3509  选裙子.cpp](./P3509  选裙子.cpp):
-```cpp
 ![](./P3509  选裙子.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include "iostream"
 using namespace  std;
 int n, m, t, ans;
@@ -7494,9 +7964,10 @@ int main(){
 ```
 
 ## [P3795  红色.cpp](./P3795  红色.cpp):
-```cpp
 ![](./P3795  红色.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include<iostream>
 using namespace std;
 int a,b;
@@ -7523,9 +7994,10 @@ int main(){
 ```
 
 ## [P1003  小明的时间.cpp](./P1003  小明的时间.cpp):
-```cpp
 ![](./P1003  小明的时间.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 
 using namespace std;
@@ -7539,9 +8011,10 @@ int main(){
 ```
 
 ## [P1057  排队.cpp](./P1057  排队.cpp):
-```cpp
 ![](./P1057  排队.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:48 2022
 #include<iostream>
 using namespace std;
 int n, a[121], in, cnt;
@@ -7560,9 +8033,10 @@ int main(){
 ```
 
 ## [P3464  求n值2.cpp](./P3464  求n值2.cpp):
-```cpp
 ![](./P3464  求n值2.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include "iostream"
 
 using namespace std;
@@ -7578,9 +8052,10 @@ int main(){
 ```
 
 ## [P1837  敲七.cpp](./P1837  敲七.cpp):
-```cpp
 ![](./P1837  敲七.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7605,9 +8080,10 @@ int main(){
 ```
 
 ## [P3133  数列总和.cpp](./P3133  数列总和.cpp):
-```cpp
 ![](./P3133  数列总和.cpp.png)
-//Created in Fri Nov 11 14:19:04 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include<iostream>
 using namespace std;
 long long a,b,k,w,ans;
@@ -7626,9 +8102,10 @@ int main(){
 ```
 
 ## [P2757  数字游戏.cpp](./P2757  数字游戏.cpp):
-```cpp
 ![](./P2757  数字游戏.cpp.png)
-//Created in Fri Nov 11 14:18:50 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include <iostream>
 
 using namespace std;
@@ -7646,9 +8123,10 @@ int main(){
 ```
 
 ## [P3704  乔本的训练考核.cpp](./P3704  乔本的训练考核.cpp):
-```cpp
 ![](./P3704  乔本的训练考核.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 
 using namespace std;
@@ -7665,9 +8143,10 @@ int main() {
 ```
 
 ## [P1500  机器翻译.cpp](./P1500  机器翻译.cpp):
-```cpp
 ![](./P1500  机器翻译.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -7697,9 +8176,10 @@ int main(){
 ```
 
 ## [P1166  分形.cpp](./P1166  分形.cpp):
-```cpp
 ![](./P1166  分形.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #include<iostream>
 #include<cmath>
 #include<cstring>
@@ -7744,9 +8224,10 @@ int main(){
 ```
 
 ## [P2563  细分线条.cpp](./P2563  细分线条.cpp):
-```cpp
 ![](./P2563  细分线条.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include "iostream"
 using namespace std;
 bool p;
@@ -7774,9 +8255,10 @@ int main(){
 ```
 
 ## [P1155  铺地砖.cpp](./P1155  铺地砖.cpp):
-```cpp
 ![](./P1155  铺地砖.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 using namespace std;
 long long n, a[999999];
@@ -7792,9 +8274,10 @@ int main(){
 ```
 
 ## [P2569  求数位上的数字.cpp](./P2569  求数位上的数字.cpp):
-```cpp
 ![](./P2569  求数位上的数字.cpp.png)
-//Created in Fri Nov 11 14:19:02 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include<iostream>
 using namespace std;
 int n,k,power=1;
@@ -7809,9 +8292,10 @@ int main(){
 ```
 
 ## [P2468  ls采蘑菇：均衡.cpp](./P2468  ls采蘑菇：均衡.cpp):
-```cpp
 ![](./P2468  ls采蘑菇：均衡.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include<iostream>
 using namespace std;
 int n, l, r, in;
@@ -7830,9 +8314,10 @@ int main(){
 ```
 
 ## [P1597  圣经数.cpp](./P1597  圣经数.cpp):
-```cpp
 ![](./P1597  圣经数.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7853,9 +8338,10 @@ int main(){
 ```
 
 ## [P1052  巧妙填数.cpp](./P1052  巧妙填数.cpp):
-```cpp
 ![](./P1052  巧妙填数.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:48 2022
 #include<iostream>
 #include<cstring>
 
@@ -7891,9 +8377,10 @@ int main() {
 ```
 
 ## [P2463  F2拉力赛.cpp](./P2463  F2拉力赛.cpp):
-```cpp
 ![](./P2463  F2拉力赛.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include "iostream"
 using namespace std;
 bool p,t;
@@ -7928,9 +8415,10 @@ int main() {
 ```
 
 ## [P3527  幂.cpp](./P3527  幂.cpp):
-```cpp
 ![](./P3527  幂.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -7959,9 +8447,10 @@ int main(){
 ```
 
 ## [P1031  玫瑰花数.cpp](./P1031  玫瑰花数.cpp):
-```cpp
 ![](./P1031  玫瑰花数.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -7974,9 +8463,10 @@ int main(){
 ```
 
 ## [P2579  乘车费用.cpp](./P2579  乘车费用.cpp):
-```cpp
 ![](./P2579  乘车费用.cpp.png)
-//Created in Fri Nov 11 14:19:03 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include "iostream"
 #include "iomanip"
 
@@ -8003,9 +8493,10 @@ int main() {
 ```
 
 ## [P1626  中间数.cpp](./P1626  中间数.cpp):
-```cpp
 ![](./P1626  中间数.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include "iostream"
 #include "algorithm"
 
@@ -8027,9 +8518,10 @@ int main() {
 ```
 
 ## [P1105  明明的随机数.cpp](./P1105  明明的随机数.cpp):
-```cpp
 ![](./P1105  明明的随机数.cpp.png)
-//Created in Fri Nov 11 14:18:44 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:52 2022
 #include "iostream"
 #include "cstring"
 
@@ -8059,9 +8551,10 @@ int main(){
 ```
 
 ## [P1600  数1的个数.cpp](./P1600  数1的个数.cpp):
-```cpp
 ![](./P1600  数1的个数.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 using namespace std;
 int n,t,cnt;
@@ -8081,9 +8574,10 @@ int main(){
 ```
 
 ## [P3568  三角形.cpp](./P3568  三角形.cpp):
-```cpp
 ![](./P3568  三角形.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include<iostream>
 using namespace std;
 long long n,ans,ans1;
@@ -8100,9 +8594,10 @@ int main(){
 ```
 
 ## [P1084  数字的根.cpp](./P1084  数字的根.cpp):
-```cpp
 ![](./P1084  数字的根.cpp.png)
-//Created in Fri Nov 11 14:18:43 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:51 2022
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -8132,9 +8627,10 @@ int main(){
 ```
 
 ## [P1006  找零钱.cpp](./P1006  找零钱.cpp):
-```cpp
 ![](./P1006  找零钱.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 
 using namespace std;
@@ -8152,9 +8648,10 @@ int main(){
 ```
 
 ## [P1035  寻找2的幂.cpp](./P1035  寻找2的幂.cpp):
-```cpp
 ![](./P1035  寻找2的幂.cpp.png)
-//Created in Fri Nov 11 14:18:38 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8174,9 +8671,10 @@ int main(){
 ```
 
 ## [P3777  好数组.cpp](./P3777  好数组.cpp):
-```cpp
 ![](./P3777  好数组.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -8209,9 +8707,10 @@ int main(){
 ```
 
 ## [P3595  蒙氏数学难题.cpp](./P3595  蒙氏数学难题.cpp):
-```cpp
 ![](./P3595  蒙氏数学难题.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include "iostream"
 using namespace std;
 int n,m;
@@ -8222,9 +8721,10 @@ int main(){
 ```
 
 ## [P3567  立方和.cpp](./P3567  立方和.cpp):
-```cpp
 ![](./P3567  立方和.cpp.png)
-//Created in Fri Nov 11 14:19:08 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:15 2022
 #include "iostream"
 #include "cmath"
 
@@ -8250,9 +8750,10 @@ int main(){
 ```
 
 ## [P2702  正方形.cpp](./P2702  正方形.cpp):
-```cpp
 ![](./P2702  正方形.cpp.png)
-//Created in Fri Nov 11 14:19:04 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include<iostream>
 #include<iomanip>
 #include<cmath>
@@ -8284,8 +8785,9 @@ int main(){
 ```
 
 ## [P3716  小 V 排队.cpp](./P3716  小 V 排队.cpp):
-```cpp
 ![](./P3716  小.png)
+```cpp
+
 //Created in Fri Nov 11 14:19:12 2022
 #include "iostream"
 
@@ -8307,9 +8809,10 @@ int main(){
 ```
 
 ## [P1612  选裙子.cpp](./P1612  选裙子.cpp):
-```cpp
 ![](./P1612  选裙子.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include<iostream>
 using namespace std;
 int n,m,sum;
@@ -8325,9 +8828,10 @@ int main(){
 ```
 
 ## [P1119  黑色星期五.cpp](./P1119  黑色星期五.cpp):
-```cpp
 ![](./P1119  黑色星期五.cpp.png)
-//Created in Fri Nov 11 14:18:46 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:53 2022
 #include<iostream>
 using namespace std;
 int n, ans[8], days[13] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}, day = 0;
@@ -8357,9 +8861,10 @@ int main(){
 ```
 
 ## [P1709  加法器.cpp](./P1709  加法器.cpp):
-```cpp
 ![](./P1709  加法器.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 using namespace std;
 int exp, exp1;
@@ -8376,9 +8881,10 @@ int main(){
 ```
 
 ## [P1081  字母统计.cpp](./P1081  字母统计.cpp):
-```cpp
 ![](./P1081  字母统计.cpp.png)
-//Created in Fri Nov 11 14:18:43 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:51 2022
 #include "iostream"
 
 using namespace std;
@@ -8410,9 +8916,10 @@ int main(){
 ```
 
 ## [P1091  完全数.cpp](./P1091  完全数.cpp):
-```cpp
 ![](./P1091  完全数.cpp.png)
-//Created in Fri Nov 11 14:18:44 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:51 2022
 #include <iostream>
 #include <cmath>
 
@@ -8471,9 +8978,10 @@ int main() {
 ```
 
 ## [P3492  宇宙速度.cpp](./P3492  宇宙速度.cpp):
-```cpp
 ![](./P3492  宇宙速度.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include "iostream"
 
 using namespace std;
@@ -8504,9 +9012,10 @@ int main() {
 ```
 
 ## [P1049  游戏.cpp](./P1049  游戏.cpp):
-```cpp
 ![](./P1049  游戏.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:48 2022
 #include "iostream"
 
 using namespace std;
@@ -8587,9 +9096,10 @@ int main() {
 ```
 
 ## [P2570  for语句的考验.cpp](./P2570  for语句的考验.cpp):
-```cpp
 ![](./P2570  for语句的考验.cpp.png)
-//Created in Fri Nov 11 14:19:02 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include<iostream>
 using namespace std;
 int n,sum;
@@ -8611,9 +9121,10 @@ int main(){
 ```
 
 ## [P1866  密室寻宝.cpp](./P1866  密室寻宝.cpp):
-```cpp
 ![](./P1866  密室寻宝.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include<iostream>
 using namespace std;
 unsigned short p, q, n, cnt;
@@ -8638,8 +9149,9 @@ int main(){
 ```
 
 ## [P3717  小 V 的第一次面试.cpp](./P3717  小 V 的第一次面试.cpp):
-```cpp
 ![](./P3717  小.png)
+```cpp
+
 //Created in Fri Nov 11 14:19:12 2022
 #include<iostream>
 using namespace std;
@@ -8651,9 +9163,10 @@ int main(){
 ```
 
 ## [P1062  排座位.cpp](./P1062  排座位.cpp):
-```cpp
 ![](./P1062  排座位.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include<iostream>
 using namespace std;
 int r, c, n, in, a[102][102], cnt = 1;
@@ -8692,10 +9205,25 @@ int main(){
 }
 ```
 
-## [P2381  序列.cpp](./P2381  序列.cpp):
+## [P3717  小V的第一次面试.cpp](./P3717  小V的第一次面试.cpp):
+![](./P3717  小V的第一次面试.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
+#include<iostream>
+using namespace std;
+int main(){
+	long long a, b;
+	cin>>a>>b;
+	cout<<a*b-a+b;
+}
+```
+
+## [P2381  序列.cpp](./P2381  序列.cpp):
 ![](./P2381  序列.cpp.png)
-//Created in Fri Nov 11 14:18:51 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -8728,9 +9256,10 @@ int main(){
 ```
 
 ## [P1131  分数拆分.cpp](./P1131  分数拆分.cpp):
-```cpp
 ![](./P1131  分数拆分.cpp.png)
-//Created in Fri Nov 11 14:18:46 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:54 2022
 #include <iostream>
 using namespace std;
 int k, n, t;
@@ -8748,9 +9277,10 @@ int main(){
 ```
 
 ## [P1795  十进制转二进制.cpp](./P1795  十进制转二进制.cpp):
-```cpp
 ![](./P1795  十进制转二进制.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 #include<iostream>
 using namespace std;
 bool p=false;
@@ -8772,9 +9302,10 @@ int main(){
 ```
 
 ## [P1654  验证数独.cpp](./P1654  验证数独.cpp):
-```cpp
 ![](./P1654  验证数独.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include <iostream>
 #include <cstring>
 
@@ -8851,9 +9382,10 @@ int main() {
 ```
 
 ## [P3137  拍掌.cpp](./P3137  拍掌.cpp):
-```cpp
 ![](./P3137  拍掌.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;
@@ -8865,9 +9397,10 @@ int main(){
 ```
 
 ## [P1724  特别的十进制数.cpp](./P1724  特别的十进制数.cpp):
-```cpp
 ![](./P1724  特别的十进制数.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 using namespace std;
 long long in;
@@ -8902,9 +9435,10 @@ int main(){
 ```
 
 ## [P1963  公鸡打鸣.cpp](./P1963  公鸡打鸣.cpp):
-```cpp
 ![](./P1963  公鸡打鸣.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include <iostream>
 using namespace std;
 int x, y, k, a, b, xi, yi;
@@ -8930,9 +9464,10 @@ int main(){
 ```
 
 ## [P1139  纪念品分组.cpp](./P1139  纪念品分组.cpp):
-```cpp
 ![](./P1139  纪念品分组.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -8960,9 +9495,10 @@ int main(){
 ```
 
 ## [P2467  ls采蘑菇：灵兽.cpp](./P2467  ls采蘑菇：灵兽.cpp):
-```cpp
 ![](./P2467  ls采蘑菇：灵兽.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include<iostream>
 using namespace std;
 int x, y, cnt;
@@ -8977,9 +9513,10 @@ int main(){
 ```
 
 ## [P1288  时间旅行.cpp](./P1288  时间旅行.cpp):
-```cpp
 ![](./P1288  时间旅行.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -9022,9 +9559,10 @@ int main(){
 ```
 
 ## [P1814  穿越.cpp](./P1814  穿越.cpp):
-```cpp
 ![](./P1814  穿越.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 #include "iostream"
 
 using namespace std;
@@ -9072,9 +9610,10 @@ int main() {
 ```
 
 ## [P2385  骰子.cpp](./P2385  骰子.cpp):
-```cpp
 ![](./P2385  骰子.cpp.png)
-//Created in Fri Nov 11 14:18:51 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 using namespace std;
 int n[7] = {0, 1, 2, 3, 4, 5, 6};
@@ -9150,9 +9689,10 @@ int main(){
 ```
 
 ## [P1087  Niven数.cpp](./P1087  Niven数.cpp):
-```cpp
 ![](./P1087  Niven数.cpp.png)
-//Created in Fri Nov 11 14:18:43 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:51 2022
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -9192,9 +9732,10 @@ int main(){
 ```
 
 ## [P2465  ls采蘑菇：丰收.cpp](./P2465  ls采蘑菇：丰收.cpp):
-```cpp
 ![](./P2465  ls采蘑菇：丰收.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include<iostream>
 using namespace std;
 long long n, in, x, y, cnt;
@@ -9211,9 +9752,10 @@ int main(){
 ```
 
 ## [P1065  杨辉三角.cpp](./P1065  杨辉三角.cpp):
-```cpp
 ![](./P1065  杨辉三角.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -9241,9 +9783,10 @@ int main(){
 ```
 
 ## [P4044  数列.cpp](./P4044  数列.cpp):
-```cpp
 ![](./P4044  数列.cpp.png)
-//Created in Fri Nov 11 14:19:14 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:22 2022
 #include<iostream>
 using namespace std;
 int n, a[999999], b[999999];
@@ -9268,9 +9811,10 @@ int main(){
 ```
 
 ## [P1011  小明装行李.cpp](./P1011  小明装行李.cpp):
-```cpp
 ![](./P1011  小明装行李.cpp.png)
-//Created in Fri Nov 11 14:18:35 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:43 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -9285,10 +9829,40 @@ int main(){
 }
 ```
 
-## [P7004  积器息.cpp](./P7004  积器息.cpp):
+## [P3718  小V的第二次面试.cpp](./P3718  小V的第二次面试.cpp):
+![](./P3718  小V的第二次面试.cpp.png)
 ```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
+#include "iostream"
+
+using namespace std;
+int n, a = 15, b = 25, c = 30, d;
+int main(){
+    cin >> n;
+    if (n == 1){
+        d = a;
+    }else if (n == 2){
+        d = b;
+    }else if (n == 3){
+        d = c;
+    }else{
+        for (int i=1; i <= n - 3; i++){
+            d = a + b + c;
+            a = b;
+            b = c;
+            c = d;
+        }
+    }
+    cout << d;
+}
+```
+
+## [P7004  积器息.cpp](./P7004  积器息.cpp):
 ![](./P7004  积器息.cpp.png)
-//Created in Fri Nov 11 14:19:16 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:23 2022
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
@@ -9355,9 +9929,10 @@ int main(){
 ```
 
 ## [P2706  标题统计.cpp](./P2706  标题统计.cpp):
-```cpp
 ![](./P2706  标题统计.cpp.png)
-//Created in Fri Nov 11 14:19:04 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:11 2022
 #include "iostream"
 
 using namespace std;
@@ -9388,9 +9963,10 @@ int main(){
 ```
 
 ## [P1694  文件名排序.cpp](./P1694  文件名排序.cpp):
-```cpp
 ![](./P1694  文件名排序.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -9442,9 +10018,10 @@ int main(){
 ```
 
 ## [P1060  宝藏迷宫.cpp](./P1060  宝藏迷宫.cpp):
-```cpp
 ![](./P1060  宝藏迷宫.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include<iostream>
 using namespace std;
 int n, m, a[1000][1000];
@@ -9465,9 +10042,10 @@ int main(){
 ```
 
 ## [P3525  苹果.cpp](./P3525  苹果.cpp):
-```cpp
 ![](./P3525  苹果.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -9478,9 +10056,10 @@ int main(){
 ```
 
 ## [P1061  覆盖.cpp](./P1061  覆盖.cpp):
-```cpp
 ![](./P1061  覆盖.cpp.png)
-//Created in Fri Nov 11 14:18:41 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:49 2022
 #include<iostream>
 using namespace std;
 int b, g, x, y, n, m, cnt, xl[5002], yl[5002]; 
@@ -9525,9 +10104,10 @@ int main(){
 ```
 
 ## [P2175  N以内质数个数及求和.cpp](./P2175  N以内质数个数及求和.cpp):
-```cpp
 ![](./P2175  N以内质数个数及求和.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9553,9 +10133,10 @@ int main(){
 ```
 
 ## [P1163  递归函数.cpp](./P1163  递归函数.cpp):
-```cpp
 ![](./P1163  递归函数.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #include<iostream>
 using namespace std;
 bool p[101][101][101];
@@ -9596,9 +10177,10 @@ int main(){
 ```
 
 ## [P2574  回文数.cpp](./P2574  回文数.cpp):
-```cpp
 ![](./P2574  回文数.cpp.png)
-//Created in Fri Nov 11 14:19:02 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include <iostream>
 #include <cmath>
 
@@ -9636,9 +10218,10 @@ int main(){
 ```
 
 ## [P1601  青蛙跳荷叶.cpp](./P1601  青蛙跳荷叶.cpp):
-```cpp
 ![](./P1601  青蛙跳荷叶.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -9650,9 +10233,10 @@ int main(){
 ```
 
 ## [P3506  旅游.cpp](./P3506  旅游.cpp):
-```cpp
 ![](./P3506  旅游.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include<iostream>
 using namespace std;
 int n, k, in, sum, maxn;
@@ -9675,9 +10259,10 @@ int main(){
 ```
 
 ## [P1757  素数.cpp](./P1757  素数.cpp):
-```cpp
 ![](./P1757  素数.cpp.png)
-//Created in Fri Nov 11 14:18:54 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 #include<iostream>
 #include<cmath>
 #pragma GCC optimize(2)//火车头
@@ -9748,9 +10333,10 @@ int main(){
 ```
 
 ## [P2429  阶乘.cpp](./P2429  阶乘.cpp):
-```cpp
 ![](./P2429  阶乘.cpp.png)
-//Created in Fri Nov 11 14:18:58 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:05 2022
 #include "iostream"
 using namespace std;
 int n, ans = 1;
@@ -9764,9 +10350,10 @@ int main(){
 ```
 
 ## [P1281  天使之城.cpp](./P1281  天使之城.cpp):
-```cpp
 ![](./P1281  天使之城.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 #include<stack>
 #include<vector>
@@ -9803,9 +10390,10 @@ int main(){
 ```
 
 ## [P1995  创智空间.cpp](./P1995  创智空间.cpp):
-```cpp
 ![](./P1995  创智空间.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:04 2022
 #include "iostream"
 using namespace std;
 int n,minn,maxn;
@@ -9828,17 +10416,19 @@ int main(){
 ```
 
 ## [P1388  FBI树.cpp](./P1388  FBI树.cpp):
-```cpp
 ![](./P1388  FBI树.cpp.png)
-//Created in Fri Nov 11 14:18:49 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:57 2022
 #include<iostream>
 using namespace std;int n;string str;string tree(string s){string ans;if(s.length()<=1){if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}else{ans+=tree(s.substr(0,s.length()/2));ans+=tree(s.substr(s.length()/2,s.npos));if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}return ans;}int main(){cin>>n>>str;cout<<tree(str);}
 ```
 
 ## [P3775  房间数.cpp](./P3775  房间数.cpp):
-```cpp
 ![](./P3775  房间数.cpp.png)
-//Created in Fri Nov 11 14:19:13 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:21 2022
 n = int(input())
 if n % 3 == 0:
     print(n // 3)
@@ -9847,9 +10437,10 @@ else:
 ```
 
 ## [P3610  最大因数.cpp](./P3610  最大因数.cpp):
-```cpp
 ![](./P3610  最大因数.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include "iostream"
 #include "cmath"
 
@@ -9883,9 +10474,10 @@ int main(){
 ```
 
 ## [P3528  中国星跳跃.cpp](./P3528  中国星跳跃.cpp):
-```cpp
 ![](./P3528  中国星跳跃.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 #include "iostream"
 
 using namespace std;
@@ -9906,9 +10498,10 @@ int main(){
 ```
 
 ## [P1076  手机.cpp](./P1076  手机.cpp):
-```cpp
 ![](./P1076  手机.cpp.png)
-//Created in Fri Nov 11 14:18:42 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:50 2022
 #include<iostream>
 using namespace std;
 
@@ -9932,8 +10525,9 @@ int main(){
 ```
 
 ## [P1000  A+B Problem.cpp](./P1000  A+B Problem.cpp):
-```cpp
 ![](./P1000  A+B.png)
+```cpp
+
 //Created in Fri Nov 11 14:18:34 2022
 #include<iostream>
 
@@ -9951,9 +10545,10 @@ int main(){
 ```
 
 ## [P1170  装箱问题.cpp](./P1170  装箱问题.cpp):
-```cpp
 ![](./P1170  装箱问题.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #include<iostream>
 using namespace std;
 int v, n, a[99999999];
@@ -9975,9 +10570,10 @@ int main(){
 ```
 
 ## [P1109  统计数字.cpp](./P1109  统计数字.cpp):
-```cpp
 ![](./P1109  统计数字.cpp.png)
-//Created in Fri Nov 11 14:18:45 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:52 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -10000,9 +10596,10 @@ int main(){
 ```
 
 ## [P2461  算术.cpp](./P2461  算术.cpp):
-```cpp
 ![](./P2461  算术.cpp.png)
-//Created in Fri Nov 11 14:19:00 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:08 2022
 #include<iostream>
 using namespace std;
 int n, m, a[99999], opt, l, r, add;
@@ -10038,9 +10635,10 @@ int main(){
 ```
 
 ## [P1046  变形虫.cpp](./P1046  变形虫.cpp):
-```cpp
 ![](./P1046  变形虫.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 using namespace std;
 int a, n, w;
@@ -10059,9 +10657,10 @@ int main(){
 ```
 
 ## [P3706  伊藤M诚の伤.cpp](./P3706  伊藤M诚の伤.cpp):
-```cpp
 ![](./P3706  伊藤M诚の伤.cpp.png)
-//Created in Fri Nov 11 14:19:11 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:19 2022
 #include "iostream"
 
 using namespace std;
@@ -10080,9 +10679,10 @@ int main(){
 ```
 
 ## [P2559  排名榜.cpp](./P2559  排名榜.cpp):
-```cpp
 ![](./P2559  排名榜.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include<iostream>
 using namespace std;
 int n, in, a[101], m, ans;
@@ -10110,9 +10710,10 @@ int main(){
 ```
 
 ## [P1598  大象喝水.cpp](./P1598  大象喝水.cpp):
-```cpp
 ![](./P1598  大象喝水.cpp.png)
-//Created in Fri Nov 11 14:18:52 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:59 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -10126,9 +10727,10 @@ int main(){
 ```
 
 ## [P1028  亲密数.cpp](./P1028  亲密数.cpp):
-```cpp
 ![](./P1028  亲密数.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:45 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10154,9 +10756,10 @@ int main(){
 ```
 
 ## [P3382  哥德巴赫猜想.cpp](./P3382  哥德巴赫猜想.cpp):
-```cpp
 ![](./P3382  哥德巴赫猜想.cpp.png)
-//Created in Fri Nov 11 14:19:05 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:12 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10187,9 +10790,10 @@ int main(){
 ```
 
 ## [P1116  拯救花园.cpp](./P1116  拯救花园.cpp):
-```cpp
 ![](./P1116  拯救花园.cpp.png)
-//Created in Fri Nov 11 14:18:45 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:53 2022
 #include<iostream>
 #include<algorithm>
 
@@ -10222,9 +10826,10 @@ int main() {
 ```
 
 ## [P1036  验证角谷猜想.cpp](./P1036  验证角谷猜想.cpp):
-```cpp
 ![](./P1036  验证角谷猜想.cpp.png)
-//Created in Fri Nov 11 14:18:38 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 using namespace std;
 long long n;
@@ -10251,9 +10856,10 @@ int main(){
 ```
 
 ## [P3500  统计成绩.cpp](./P3500  统计成绩.cpp):
-```cpp
 ![](./P3500  统计成绩.cpp.png)
-//Created in Fri Nov 11 14:19:06 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:13 2022
 #include "iostream"
 #include "algorithm"
 
@@ -10275,8 +10881,9 @@ int main() {
 ```
 
 ## [P3710  D 站的表情包.cpp](./P3710  D 站的表情包.cpp):
-```cpp
 ![](./P3710  D.png)
+```cpp
+
 //Created in Fri Nov 11 14:19:12 2022
 #include<iostream>
 #include<algorithm>
@@ -10305,9 +10912,10 @@ int main(){
 ```
 
 ## [P1174  取余运算.cpp](./P1174  取余运算.cpp):
-```cpp
 ![](./P1174  取余运算.cpp.png)
-//Created in Fri Nov 11 14:18:48 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:56 2022
 #include<iostream>
 using namespace std;
 
@@ -10330,9 +10938,10 @@ int main(){
 ```
 
 ## [P1029  阅读训练.cpp](./P1029  阅读训练.cpp):
-```cpp
 ![](./P1029  阅读训练.cpp.png)
-//Created in Fri Nov 11 14:18:37 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:45 2022
 #include "iostream"
 
 using namespace std;
@@ -10359,9 +10968,10 @@ int main() {
 ```
 
 ## [P1643  圆环套圆环.cpp](./P1643  圆环套圆环.cpp):
-```cpp
 ![](./P1643  圆环套圆环.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:01 2022
 #include<iostream>
 using namespace std;
 int g(int n){
@@ -10379,9 +10989,10 @@ int main(){
 ```
 
 ## [P1032  趣味填空.cpp](./P1032  趣味填空.cpp):
-```cpp
 ![](./P1032  趣味填空.cpp.png)
-//Created in Fri Nov 11 14:18:38 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 #include<cmath>
 long long l, r;
@@ -10401,9 +11012,10 @@ int main(){
 ```
 
 ## [P2219  PS4.cpp](./P2219  PS4.cpp):
-```cpp
 ![](./P2219  PS4.cpp.png)
-//Created in Fri Nov 11 14:18:59 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:07 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10418,9 +11030,10 @@ int main(){
 ```
 
 ## [P1623  周期串.cpp](./P1623  周期串.cpp):
-```cpp
 ![](./P1623  周期串.cpp.png)
-//Created in Fri Nov 11 14:18:53 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:00 2022
 #include<iostream>
 using namespace std;
 string str;
@@ -10448,9 +11061,10 @@ int main(){
 ```
 
 ## [P2558  解方程.cpp](./P2558  解方程.cpp):
-```cpp
 ![](./P2558  解方程.cpp.png)
-//Created in Fri Nov 11 14:19:01 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:09 2022
 #include "iostream"
 #include "cmath"
 
@@ -10468,9 +11082,10 @@ int main(){
 ```
 
 ## [P3618  乘车.cpp](./P3618  乘车.cpp):
-```cpp
 ![](./P3618  乘车.cpp.png)
-//Created in Fri Nov 11 14:19:09 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:16 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -10486,9 +11101,10 @@ int main(){
 ```
 
 ## [P1106  车厢重组.cpp](./P1106  车厢重组.cpp):
-```cpp
 ![](./P1106  车厢重组.cpp.png)
-//Created in Fri Nov 11 14:18:44 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:52 2022
 #include "iostream"
 #include "cstring"
 
@@ -10520,9 +11136,10 @@ int main(){
 ```
 
 ## [P3533  帐号解禁.cpp](./P3533  帐号解禁.cpp):
-```cpp
 ![](./P3533  帐号解禁.cpp.png)
-//Created in Fri Nov 11 14:19:07 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:14 2022
 // 代码如下
 #include<iostream>
 using namespace std;
@@ -10543,9 +11160,10 @@ int main(){
 ```
 
 ## [P1015  小明坐车.cpp](./P1015  小明坐车.cpp):
-```cpp
 ![](./P1015  小明坐车.cpp.png)
-//Created in Fri Nov 11 14:18:36 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -10561,9 +11179,10 @@ int main(){
 ```
 
 ## [P1917  级数求和.cpp](./P1917  级数求和.cpp):
-```cpp
 ![](./P1917  级数求和.cpp.png)
-//Created in Fri Nov 11 14:18:56 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:03 2022
 #include "iostream"
 using namespace std;
 int m, sum, cnt;
@@ -10582,9 +11201,10 @@ int main(){
 ```
 
 ## [P1042  统计数字.cpp](./P1042  统计数字.cpp):
-```cpp
 ![](./P1042  统计数字.cpp.png)
-//Created in Fri Nov 11 14:18:40 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:47 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10604,9 +11224,10 @@ int main(){
 ```
 
 ## [P3636  奶牛塔.cpp](./P3636  奶牛塔.cpp):
-```cpp
 ![](./P3636  奶牛塔.cpp.png)
-//Created in Fri Nov 11 14:19:10 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:17 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -10631,9 +11252,10 @@ int main(){
 ```
 
 ## [P1149  母猪的故事.cpp](./P1149  母猪的故事.cpp):
-```cpp
 ![](./P1149  母猪的故事.cpp.png)
-//Created in Fri Nov 11 14:18:47 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 using namespace std;
 int n,a=1,b=1,c=1;
@@ -10649,9 +11271,10 @@ int main(){
 ```
 
 ## [P3731  躲避水滴.cpp](./P3731  躲避水滴.cpp):
-```cpp
 ![](./P3731  躲避水滴.cpp.png)
-//Created in Fri Nov 11 14:19:12 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:20 2022
 #include "iostream"
 #include "iomanip"
 #include "cmath"
@@ -10666,9 +11289,10 @@ int main(){
 ```
 
 ## [P4150  理纱与凯撒加密.cpp](./P4150  理纱与凯撒加密.cpp):
-```cpp
 ![](./P4150  理纱与凯撒加密.cpp.png)
-//Created in Fri Nov 11 14:19:15 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:23 2022
 #include "iostream"
 
 using namespace std;
@@ -10685,9 +11309,10 @@ int main(){
 ```
 
 ## [P1034  可口可乐.cpp](./P1034  可口可乐.cpp):
-```cpp
 ![](./P1034  可口可乐.cpp.png)
-//Created in Fri Nov 11 14:18:38 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:46 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -10704,9 +11329,10 @@ int main(){
 ```
 
 ## [P3275  牛牛的密码.cpp](./P3275  牛牛的密码.cpp):
-```cpp
 ![](./P3275  牛牛的密码.cpp.png)
-//Created in Fri Nov 11 14:18:45 2022
+```cpp
+
+//Created in Fri Nov 11 14:30:53 2022
 #include "iostream"
 
 using namespace std;
@@ -10754,9 +11380,10 @@ int main(){
 ```
 
 ## [P2008  成绩分级.cpp](./P2008  成绩分级.cpp):
-```cpp
 ![](./P2008  成绩分级.cpp.png)
-//Created in Fri Nov 11 14:18:57 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:05 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -10779,8 +11406,9 @@ int main(){
 ```
 
 ## [P3719  小 V 查排名.cpp](./P3719  小 V 查排名.cpp):
-```cpp
 ![](./P3719  小.png)
+```cpp
+
 //Created in Fri Nov 11 14:19:12 2022
 #include "iostream"
 
@@ -10799,9 +11427,10 @@ int main(){
 ```
 
 ## [P2566  小木棍.cpp](./P2566  小木棍.cpp):
-```cpp
 ![](./P2566  小木棍.cpp.png)
-//Created in Fri Nov 11 14:19:02 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:10 2022
 #include "iostream"
 
 using namespace std;
@@ -10825,9 +11454,10 @@ int main() {
 ```
 
 ## [P1831  求天数.cpp](./P1831  求天数.cpp):
-```cpp
 ![](./P1831  求天数.cpp.png)
-//Created in Fri Nov 11 14:18:55 2022
+```cpp
+
+//Created in Fri Nov 11 14:31:02 2022
 #include<iostream>
 using namespace std;
 int main(){

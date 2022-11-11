@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 14:18:47 2022
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 #include<cstring>
 #define sz 3

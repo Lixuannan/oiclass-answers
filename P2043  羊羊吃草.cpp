@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 14:18:57 2022
+//Created in Fri Nov 11 14:31:05 2022
 #include<iostream>
 using namespace std;
 long long n, t, s[9999999], a[9999999], ans[3], maxn;

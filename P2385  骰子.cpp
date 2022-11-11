@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 14:18:51 2022
+//Created in Fri Nov 11 14:30:58 2022
 #include<iostream>
 using namespace std;
 int n[7] = {0, 1, 2, 3, 4, 5, 6};

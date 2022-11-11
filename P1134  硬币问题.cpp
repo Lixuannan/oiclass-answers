@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 14:18:46 2022
+//Created in Fri Nov 11 14:30:55 2022
 #include<iostream>
 using namespace std;
 long long cnt, n, c1, c5, c10, c50, c100, c500;
