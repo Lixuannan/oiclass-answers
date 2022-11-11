@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 15:02:47 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include<iostream>
 using namespace std;
 int n, a, b, xmax, xmin = 99999, ymax, ymin = 99999;

@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:33 2022
 #include<iostream>
 using namespace std;
 int b, g, x, y, n, m, cnt, xl[5002], yl[5002]; 

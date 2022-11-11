@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 n = int(input())
 if n % 3 == 0:
     print(n // 3)

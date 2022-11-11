@@ -1,11 +1,11 @@
 # All the answer I write from [oiclass](http://oiclass.com)
 # [Oiclass](http://oiclass.com)上的所有我写的题解
 
-## [P1954.cpp](./P1954.cpp):
+## [P1954](./P1954.cpp):
 ![](./P1954.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:34 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include<iostream>
 using namespace std;
 unsigned int n, x, y;
@@ -18,11 +18,11 @@ int main(){
 }
 ```
 
-## [P1798.cpp](./P1798.cpp):
+## [P1798](./P1798.cpp):
 ![](./P1798.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 //#include <iostream>
 //
 //using namespace std;
@@ -196,11 +196,11 @@ int main() {
 }
 ```
 
-## [P1940.cpp](./P1940.cpp):
+## [P1940](./P1940.cpp):
 ![](./P1940.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:34 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include<iostream>
 #include<cmath>
 #include<algorithm>
@@ -244,11 +244,11 @@ int main(){
 }
 ```
 
-## [P1029.cpp](./P1029.cpp):
+## [P1029](./P1029.cpp):
 ![](./P1029.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include "iostream"
 
 using namespace std;
@@ -274,11 +274,11 @@ int main() {
 }
 ```
 
-## [P1997.cpp](./P1997.cpp):
+## [P1997](./P1997.cpp):
 ![](./P1997.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:35 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include "iostream"
 
 using namespace std;
@@ -294,11 +294,11 @@ int main() {
 }
 ```
 
-## [P4145.cpp](./P4145.cpp):
+## [P4145](./P4145.cpp):
 ![](./P4145.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -308,11 +308,11 @@ int main(){
 }
 ```
 
-## [P1015.cpp](./P1015.cpp):
+## [P1015](./P1015.cpp):
 ![](./P1015.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -327,11 +327,11 @@ int main(){
 }
 ```
 
-## [P1001.cpp](./P1001.cpp):
+## [P1001](./P1001.cpp):
 ![](./P1001.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:13 2022
+//Created in Fri Nov 11 15:12:27 2022
 n = int(input())
 a = 8
 b = (n - 2) * 12
@@ -339,11 +339,11 @@ c = (n - 2) ** 2 * 6
 print(str(a) + "\n" + str(b) + "\n" + str(c))
 ```
 
-## [P1149.cpp](./P1149.cpp):
+## [P1149](./P1149.cpp):
 ![](./P1149.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:25 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 using namespace std;
 int n,a=1,b=1,c=1;
@@ -358,11 +358,11 @@ int main(){
 }
 ```
 
-## [P2468.cpp](./P2468.cpp):
+## [P2468](./P2468.cpp):
 ![](./P2468.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 using namespace std;
 int n, l, r, in;
@@ -380,11 +380,11 @@ int main(){
 }
 ```
 
-## [P3776.cpp](./P3776.cpp):
+## [P3776](./P3776.cpp):
 ![](./P3776.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include "iostream"
 using namespace std;
 int n, sum = 1, cnt = 1;
@@ -398,11 +398,11 @@ int main(){
 }
 ```
 
-## [P1607.cpp](./P1607.cpp):
+## [P1607](./P1607.cpp):
 ![](./P1607.png)
 ```cpp
 
-//Created in Fri Nov 11 14:59:59 2022
+//Created in Fri Nov 11 15:10:14 2022
 #include<iostream>
 using namespace std;
 int n, tb, tw;
@@ -416,20 +416,20 @@ int main(){
 }
 ```
 
-## [P1388.cpp](./P1388.cpp):
+## [P1388](./P1388.cpp):
 ![](./P1388.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 using namespace std;int n;string str;string tree(string s){string ans;if(s.length()<=1){if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}else{ans+=tree(s.substr(0,s.length()/2));ans+=tree(s.substr(s.length()/2,s.npos));if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}return ans;}int main(){cin>>n>>str;cout<<tree(str);}
 ```
 
-## [P3574.cpp](./P3574.cpp):
+## [P3574](./P3574.cpp):
 ![](./P3574.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:48 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include "iostream"
 
 using namespace std;
@@ -450,11 +450,11 @@ int main(){
 }
 ```
 
-## [P1612.cpp](./P1612.cpp):
+## [P1612](./P1612.cpp):
 ![](./P1612.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int n,m,sum;
@@ -469,11 +469,11 @@ int main(){
 }
 ```
 
-## [P1174.cpp](./P1174.cpp):
+## [P1174](./P1174.cpp):
 ![](./P1174.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 using namespace std;
 
@@ -495,11 +495,11 @@ int main(){
 }
 ```
 
-## [P3763.cpp](./P3763.cpp):
+## [P3763](./P3763.cpp):
 ![](./P3763.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include "iostream"
 using namespace std;
 int n, sum, in, min_;
@@ -516,11 +516,11 @@ int main(){
 }
 ```
 
-## [P3777.cpp](./P3777.cpp):
+## [P3777](./P3777.cpp):
 ![](./P3777.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -552,11 +552,11 @@ int main(){
 }
 ```
 
-## [P2469.cpp](./P2469.cpp):
+## [P2469](./P2469.cpp):
 ![](./P2469.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include<iostream>
 using namespace std;
 int n, cnt, a[99999];
@@ -582,11 +582,11 @@ int main(){
 }
 ```
 
-## [P1606.cpp](./P1606.cpp):
+## [P1606](./P1606.cpp):
 ![](./P1606.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -596,11 +596,11 @@ int main(){
 }
 ```
 
-## [P1148.cpp](./P1148.cpp):
+## [P1148](./P1148.cpp):
 ![](./P1148.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:25 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 using namespace std;
 long long a=1,b=1,c=1,in;
@@ -615,11 +615,11 @@ int main(){
 }
 ```
 
-## [P1000.cpp](./P1000.cpp):
+## [P1000](./P1000.cpp):
 ![](./P1000.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:13 2022
+//Created in Fri Nov 11 15:12:27 2022
 #include<iostream>
 
 using namespace std;
@@ -635,11 +635,11 @@ int main(){
 }
 ```
 
-## [P1014.cpp](./P1014.cpp):
+## [P1014](./P1014.cpp):
 ![](./P1014.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -655,11 +655,11 @@ int main(){
 }
 ```
 
-## [P2253.cpp](./P2253.cpp):
+## [P2253](./P2253.cpp):
 ![](./P2253.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -697,11 +697,11 @@ int main(){
 }
 ```
 
-## [P1028.cpp](./P1028.cpp):
+## [P1028](./P1028.cpp):
 ![](./P1028.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -726,11 +726,11 @@ int main(){
 }
 ```
 
-## [P4150.cpp](./P4150.cpp):
+## [P4150](./P4150.cpp):
 ![](./P4150.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include "iostream"
 
 using namespace std;
@@ -746,11 +746,11 @@ int main(){
 }
 ```
 
-## [P2051.cpp](./P2051.cpp):
+## [P2051](./P2051.cpp):
 ![](./P2051.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -773,11 +773,11 @@ int main() {
 }
 ```
 
-## [P1599.cpp](./P1599.cpp):
+## [P1599](./P1599.cpp):
 ![](./P1599.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int n,sum,max_,min_ = 999999;
@@ -792,11 +792,11 @@ int main(){
 }
 ```
 
-## [P4146.cpp](./P4146.cpp):
+## [P4146](./P4146.cpp):
 ![](./P4146.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include "iostream"
 using namespace std;
 int n, jg, yx, in;
@@ -815,11 +815,11 @@ int main(){
 }
 ```
 
-## [P2251.cpp](./P2251.cpp):
+## [P2251](./P2251.cpp):
 ![](./P2251.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -846,11 +846,11 @@ int main(){
 }
 ```
 
-## [P1002.cpp](./P1002.cpp):
+## [P1002](./P1002.cpp):
 ![](./P1002.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:13 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 
 using namespace std;
@@ -863,11 +863,11 @@ int main(){
 }
 ```
 
-## [P1016.cpp](./P1016.cpp):
+## [P1016](./P1016.cpp):
 ![](./P1016.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -877,11 +877,11 @@ int main(){
 }
 ```
 
-## [P1837.cpp](./P1837.cpp):
+## [P1837](./P1837.cpp):
 ![](./P1837.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:45 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -905,11 +905,11 @@ int main(){
 }
 ```
 
-## [P3761.cpp](./P3761.cpp):
+## [P3761](./P3761.cpp):
 ![](./P3761.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include "iostream"
 
 using namespace std;
@@ -922,11 +922,11 @@ int main() {
 }
 ```
 
-## [P1604.cpp](./P1604.cpp):
+## [P1604](./P1604.cpp):
 ![](./P1604.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 unsigned long long n,m;
@@ -936,11 +936,11 @@ int main(){
 }
 ```
 
-## [P3775.cpp](./P3775.cpp):
+## [P3775](./P3775.cpp):
 ![](./P3775.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 n = int(input())
 if n % 3 == 0:
     print(n // 3)
@@ -948,11 +948,11 @@ else:
     print(n // 3 + 1)
 ```
 
-## [P1605.cpp](./P1605.cpp):
+## [P1605](./P1605.cpp):
 ![](./P1605.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -965,11 +965,11 @@ int main(){
 }
 ```
 
-## [P1163.cpp](./P1163.cpp):
+## [P1163](./P1163.cpp):
 ![](./P1163.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 using namespace std;
 bool p[101][101][101];
@@ -1009,11 +1009,11 @@ int main(){
 }
 ```
 
-## [P1611.cpp](./P1611.cpp):
+## [P1611](./P1611.cpp):
 ![](./P1611.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int n,m,sum;
@@ -1037,11 +1037,11 @@ int main(){
 }
 ```
 
-## [P2330.cpp](./P2330.cpp):
+## [P2330](./P2330.cpp):
 ![](./P2330.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 using namespace std;
 int n, a[99999];
@@ -1066,11 +1066,11 @@ int main(){
 }
 ```
 
-## [P1017.cpp](./P1017.cpp):
+## [P1017](./P1017.cpp):
 ![](./P1017.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -1087,11 +1087,11 @@ int main(){
 }
 ```
 
-## [P1003.cpp](./P1003.cpp):
+## [P1003](./P1003.cpp):
 ![](./P1003.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:13 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 
 using namespace std;
@@ -1104,11 +1104,11 @@ int main(){
 }
 ```
 
-## [P1995.cpp](./P1995.cpp):
+## [P1995](./P1995.cpp):
 ![](./P1995.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:35 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include "iostream"
 using namespace std;
 int n,minn,maxn;
@@ -1130,11 +1130,11 @@ int main(){
 }
 ```
 
-## [P4153.cpp](./P4153.cpp):
+## [P4153](./P4153.cpp):
 ![](./P4153.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -1146,11 +1146,11 @@ int main(){
 }
 ```
 
-## [P3628.cpp](./P3628.cpp):
+## [P3628](./P3628.cpp):
 ![](./P3628.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include<iostream>
 using namespace std;
 int n,ans;
@@ -1170,11 +1170,11 @@ int main(){
 }
 ```
 
-## [P1598.cpp](./P1598.cpp):
+## [P1598](./P1598.cpp):
 ![](./P1598.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -1187,11 +1187,11 @@ int main(){
 }
 ```
 
-## [P3610.cpp](./P3610.cpp):
+## [P3610](./P3610.cpp):
 ![](./P3610.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:58 2022
 #include "iostream"
 #include "cmath"
 
@@ -1224,11 +1224,11 @@ int main(){
 }
 ```
 
-## [P1007.cpp](./P1007.cpp):
+## [P1007](./P1007.cpp):
 ![](./P1007.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -1243,11 +1243,11 @@ int main(){
 }
 ```
 
-## [P1013.cpp](./P1013.cpp):
+## [P1013](./P1013.cpp):
 ![](./P1013.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -1263,11 +1263,11 @@ int main(){
 }
 ```
 
-## [P3604.cpp](./P3604.cpp):
+## [P3604](./P3604.cpp):
 ![](./P3604.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:48 2022
+//Created in Fri Nov 11 15:12:58 2022
 #include "iostream"
 #include "iomanip"
 
@@ -1298,11 +1298,11 @@ int main(){
 }
 ```
 
-## [P1601.cpp](./P1601.cpp):
+## [P1601](./P1601.cpp):
 ![](./P1601.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -1313,11 +1313,11 @@ int main(){
 }
 ```
 
-## [P3567.cpp](./P3567.cpp):
+## [P3567](./P3567.cpp):
 ![](./P3567.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:47 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include "iostream"
 #include "cmath"
 
@@ -1342,11 +1342,11 @@ int main(){
 }
 ```
 
-## [P3759.cpp](./P3759.cpp):
+## [P3759](./P3759.cpp):
 ![](./P3759.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include<iostream>
 using namespace std;
 long long cnt, a, b;
@@ -1365,11 +1365,11 @@ int main(){
 }
 ```
 
-## [P1166.cpp](./P1166.cpp):
+## [P1166](./P1166.cpp):
 ![](./P1166.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 #include<cmath>
 #include<cstring>
@@ -1413,11 +1413,11 @@ int main(){
 }
 ```
 
-## [P1600.cpp](./P1600.cpp):
+## [P1600](./P1600.cpp):
 ![](./P1600.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int n,t,cnt;
@@ -1436,11 +1436,11 @@ int main(){
 }
 ```
 
-## [P1990.cpp](./P1990.cpp):
+## [P1990](./P1990.cpp):
 ![](./P1990.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:35 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include "iostream"
 
 using namespace std;
@@ -1459,11 +1459,11 @@ int main(){
 }
 ```
 
-## [P1012.cpp](./P1012.cpp):
+## [P1012](./P1012.cpp):
 ![](./P1012.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -1483,11 +1483,11 @@ int main(){
 }
 ```
 
-## [P1006.cpp](./P1006.cpp):
+## [P1006](./P1006.cpp):
 ![](./P1006.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 
 using namespace std;
@@ -1504,11 +1504,11 @@ int main(){
 }
 ```
 
-## [P2043.cpp](./P2043.cpp):
+## [P2043](./P2043.cpp):
 ![](./P2043.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 using namespace std;
 long long n, t, s[9999999], a[9999999], ans[3], maxn;
@@ -1536,11 +1536,11 @@ int main(){
 }
 ```
 
-## [P1562.cpp](./P1562.cpp):
+## [P1562](./P1562.cpp):
 ![](./P1562.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 using namespace std;
 int n, s[1001][1001], a[1001];
@@ -1561,11 +1561,11 @@ int main(){
 }
 ```
 
-## [P1010.cpp](./P1010.cpp):
+## [P1010](./P1010.cpp):
 ![](./P1010.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -1580,11 +1580,11 @@ int main(){
 }
 ```
 
-## [P1004.cpp](./P1004.cpp):
+## [P1004](./P1004.cpp):
 ![](./P1004.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:13 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 
 using namespace std;
@@ -1597,11 +1597,11 @@ int main(){
 }
 ```
 
-## [P1038.cpp](./P1038.cpp):
+## [P1038](./P1038.cpp):
 ![](./P1038.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 using namespace std;
 int n, m, a;
@@ -1616,11 +1616,11 @@ int main(){
 }
 ```
 
-## [P1831.cpp](./P1831.cpp):
+## [P1831](./P1831.cpp):
 ![](./P1831.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -1650,11 +1650,11 @@ int main(){
 }
 ```
 
-## [P1602.cpp](./P1602.cpp):
+## [P1602](./P1602.cpp):
 ![](./P1602.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 using namespace std;
 int t,a,b,c,d,e,f;
@@ -1667,11 +1667,11 @@ int main(){
 }
 ```
 
-## [P1164.cpp](./P1164.cpp):
+## [P1164](./P1164.cpp):
 ![](./P1164.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 using namespace std;
 int n, s;
@@ -1692,11 +1692,11 @@ int main(){
 }
 ```
 
-## [P3767.cpp](./P3767.cpp):
+## [P3767](./P3767.cpp):
 ![](./P3767.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include<iostream>
 using namespace std;
 int a, b, c, d, e, f;
@@ -1726,11 +1726,11 @@ int main(){
 }
 ```
 
-## [P1170.cpp](./P1170.cpp):
+## [P1170](./P1170.cpp):
 ![](./P1170.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 using namespace std;
 int v, n, a[99999999];
@@ -1751,11 +1751,11 @@ int main(){
 }
 ```
 
-## [P1158.cpp](./P1158.cpp):
+## [P1158](./P1158.cpp):
 ![](./P1158.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:38 2022
 #pragma GCC optimize(3)
 #pragma GCC target("avx")
 #pragma GCC optimize("Ofast")
@@ -1824,11 +1824,11 @@ int main(){
 }
 ```
 
-## [P3571.cpp](./P3571.cpp):
+## [P3571](./P3571.cpp):
 ![](./P3571.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:47 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include<iostream>
 using namespace std;
 int red, idx, in, ans;
@@ -1847,11 +1847,11 @@ int main()
 }
 ```
 
-## [P2109.cpp](./P2109.cpp):
+## [P2109](./P2109.cpp):
 ![](./P2109.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 #include<cmath>
 #include<algorithm>
@@ -1940,11 +1940,11 @@ int main(){
 }
 ```
 
-## [P3570.cpp](./P3570.cpp):
+## [P3570](./P3570.cpp):
 ![](./P3570.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:47 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include<iostream>
 using namespace std;
 int n, a, b, xmax, xmin = 99999, ymax, ymin = 99999;
@@ -1969,11 +1969,11 @@ int main(){
 }
 ```
 
-## [P2108.cpp](./P2108.cpp):
+## [P2108](./P2108.cpp):
 ![](./P2108.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2005,11 +2005,11 @@ int main(){
 }
 ```
 
-## [P1603.cpp](./P1603.cpp):
+## [P1603](./P1603.cpp):
 ![](./P1603.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2034,11 +2034,11 @@ int main(){
 }
 ```
 
-## [P1165.cpp](./P1165.cpp):
+## [P1165](./P1165.cpp):
 ![](./P1165.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2068,11 +2068,11 @@ int main(){
 }
 ```
 
-## [P3941.cpp](./P3941.cpp):
+## [P3941](./P3941.cpp):
 ![](./P3941.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include<iostream>
 using namespace std;
 int in, minA = 999999, minB = 999999;
@@ -2089,11 +2089,11 @@ int main(){
 }
 ```
 
-## [P1039.cpp](./P1039.cpp):
+## [P1039](./P1039.cpp):
 ![](./P1039.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 using namespace std;
 int a, b, c, d, e, f;
@@ -2124,11 +2124,11 @@ int main(){
 }
 ```
 
-## [P1005.cpp](./P1005.cpp):
+## [P1005](./P1005.cpp):
 ![](./P1005.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 
 using namespace std;
@@ -2142,11 +2142,11 @@ int main(){
 }
 ```
 
-## [P1011.cpp](./P1011.cpp):
+## [P1011](./P1011.cpp):
 ![](./P1011.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -2161,11 +2161,11 @@ int main(){
 }
 ```
 
-## [P1561.cpp](./P1561.cpp):
+## [P1561](./P1561.cpp):
 ![](./P1561.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 using namespace std;
 long long a, b;
@@ -2180,11 +2180,11 @@ int main(){
 }
 ```
 
-## [P3463.cpp](./P3463.cpp):
+## [P3463](./P3463.cpp):
 ![](./P3463.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include "iostream"
 
 using namespace std;
@@ -2199,11 +2199,11 @@ int main(){
 }
 ```
 
-## [P1937.cpp](./P1937.cpp):
+## [P1937](./P1937.cpp):
 ![](./P1937.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:34 2022
+//Created in Fri Nov 11 15:12:47 2022
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
@@ -2284,11 +2284,11 @@ int main(){
 }
 ```
 
-## [P2580.cpp](./P2580.cpp):
+## [P2580](./P2580.cpp):
 ![](./P2580.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include<iostream>
 using namespace std;
 int n, a1, cnt, a2, b1, b2;
@@ -2307,11 +2307,11 @@ int main(){
 }
 ```
 
-## [P1089.cpp](./P1089.cpp):
+## [P1089](./P1089.cpp):
 ![](./P1089.png)
 ```cpp
 
-//Created in Fri Nov 11 14:58:53 2022
+//Created in Fri Nov 11 15:09:28 2022
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -2380,11 +2380,11 @@ int main(){
 }
 ```
 
-## [P2594.cpp](./P2594.cpp):
+## [P2594](./P2594.cpp):
 ![](./P2594.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -2412,11 +2412,11 @@ int main() {
 }
 ```
 
-## [P2219.cpp](./P2219.cpp):
+## [P2219](./P2219.cpp):
 ![](./P2219.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2430,11 +2430,11 @@ int main(){
 }
 ```
 
-## [P1076.cpp](./P1076.cpp):
+## [P1076](./P1076.cpp):
 ![](./P1076.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include<iostream>
 using namespace std;
 
@@ -2457,11 +2457,11 @@ int main(){
 }
 ```
 
-## [P1062.cpp](./P1062.cpp):
+## [P1062](./P1062.cpp):
 ![](./P1062.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:33 2022
 #include<iostream>
 using namespace std;
 int r, c, n, in, a[102][102], cnt = 1;
@@ -2500,11 +2500,11 @@ int main(){
 }
 ```
 
-## [P4046.cpp](./P4046.cpp):
+## [P4046](./P4046.cpp):
 ![](./P4046.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include<iostream>
 using namespace std;
 long long t, n, a[120];
@@ -2537,11 +2537,11 @@ int main(){
 }
 ```
 
-## [P3715.cpp](./P3715.cpp):
+## [P3715](./P3715.cpp):
 ![](./P3715.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include "iostream"
 #include "cmath"
 
@@ -2569,11 +2569,11 @@ int main() {
 }
 ```
 
-## [P1116.cpp](./P1116.cpp):
+## [P1116](./P1116.cpp):
 ![](./P1116.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:22 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include<iostream>
 #include<algorithm>
 
@@ -2605,11 +2605,11 @@ int main() {
 }
 ```
 
-## [P3701.cpp](./P3701.cpp):
+## [P3701](./P3701.cpp):
 ![](./P3701.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 
 using namespace std;
@@ -2624,11 +2624,11 @@ int main() {
 }
 ```
 
-## [P2379.cpp](./P2379.cpp):
+## [P2379](./P2379.cpp):
 ![](./P2379.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include "iostream"
 #include "cmath"
 using namespace std;
@@ -2648,11 +2648,11 @@ int main(){
 }
 ```
 
-## [P2184.cpp](./P2184.cpp):
+## [P2184](./P2184.cpp):
 ![](./P2184.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -2680,11 +2680,11 @@ int main(){
 }
 ```
 
-## [P3700.cpp](./P3700.cpp):
+## [P3700](./P3700.cpp):
 ![](./P3700.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 #include "cstring"
 #include "algorithm"
@@ -2710,11 +2710,11 @@ int main(){
 }
 ```
 
-## [P2378.cpp](./P2378.cpp):
+## [P2378](./P2378.cpp):
 ![](./P2378.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 using namespace std;
 int n, a[300001], maxn;
@@ -2745,11 +2745,11 @@ int main(){
 }
 ```
 
-## [P1881.cpp](./P1881.cpp):
+## [P1881](./P1881.cpp):
 ![](./P1881.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:46 2022
 #include<iostream>
 using namespace std;
 int x, y, i, cnt, xll, xur, yll, yur;
@@ -2775,11 +2775,11 @@ int main(){
 }
 ```
 
-## [P1063.cpp](./P1063.cpp):
+## [P1063](./P1063.cpp):
 ![](./P1063.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:34 2022
 #include<iostream>
 using namespace std;
 int n, m, k, cnt, maxn;
@@ -2811,11 +2811,11 @@ int main(){
 }
 ```
 
-## [P2218.cpp](./P2218.cpp):
+## [P2218](./P2218.cpp):
 ![](./P2218.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -2837,11 +2837,11 @@ int main(){
 }
 ```
 
-## [P1077.cpp](./P1077.cpp):
+## [P1077](./P1077.cpp):
 ![](./P1077.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include<iostream>
 using namespace std;
 int cnt, ind, strLen, striInd, striLen;
@@ -2876,11 +2876,11 @@ int main(){
 }
 ```
 
-## [P3648.cpp](./P3648.cpp):
+## [P3648](./P3648.cpp):
 ![](./P3648.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include<iostream>
 using namespace std;
 int ans,n,m;
@@ -2893,11 +2893,11 @@ int main(){
 }
 ```
 
-## [P1288.cpp](./P1288.cpp):
+## [P1288](./P1288.cpp):
 ![](./P1288.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -2939,11 +2939,11 @@ int main(){
 }
 ```
 
-## [P1277.cpp](./P1277.cpp):
+## [P1277](./P1277.cpp):
 ![](./P1277.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 #include<queue>
 using namespace std;
@@ -2968,11 +2968,11 @@ int main(){
 }
 ```
 
-## [P2583.cpp](./P2583.cpp):
+## [P2583](./P2583.cpp):
 ![](./P2583.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include "iostream"
 
 using namespace std;
@@ -2994,11 +2994,11 @@ int main(){
 }
 ```
 
-## [P1049.cpp](./P1049.cpp):
+## [P1049](./P1049.cpp):
 ![](./P1049.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:32 2022
 #include "iostream"
 
 using namespace std;
@@ -3078,11 +3078,11 @@ int main() {
 //}
 ```
 
-## [P3138.cpp](./P3138.cpp):
+## [P3138](./P3138.cpp):
 ![](./P3138.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include "iostream"
 using namespace  std;
 int n, ans, i1 = 1, i2 = 2, i3;
@@ -3100,11 +3100,11 @@ int main(){
 }
 ```
 
-## [P1061.cpp](./P1061.cpp):
+## [P1061](./P1061.cpp):
 ![](./P1061.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:33 2022
 #include<iostream>
 using namespace std;
 int b, g, x, y, n, m, cnt, xl[5002], yl[5002]; 
@@ -3148,11 +3148,11 @@ int main(){
 }
 ```
 
-## [P1075.cpp](./P1075.cpp):
+## [P1075](./P1075.cpp):
 ![](./P1075.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include<iostream>
 using namespace std;
 char a[102][102];
@@ -3205,11 +3205,11 @@ int main(){
 }
 ```
 
-## [P2385.cpp](./P2385.cpp):
+## [P2385](./P2385.cpp):
 ![](./P2385.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 using namespace std;
 int n[7] = {0, 1, 2, 3, 4, 5, 6};
@@ -3284,11 +3284,11 @@ int main(){
 }
 ```
 
-## [P1115.cpp](./P1115.cpp):
+## [P1115](./P1115.cpp):
 ![](./P1115.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:22 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3307,11 +3307,11 @@ int main(){
 }
 ```
 
-## [P3702.cpp](./P3702.cpp):
+## [P3702](./P3702.cpp):
 ![](./P3702.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 
 using namespace std;
@@ -3324,11 +3324,11 @@ int main() {
 }
 ```
 
-## [P3716.cpp](./P3716.cpp):
+## [P3716](./P3716.cpp):
 ![](./P3716.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include "iostream"
 
 using namespace std;
@@ -3348,11 +3348,11 @@ int main(){
 }
 ```
 
-## [P3528.cpp](./P3528.cpp):
+## [P3528](./P3528.cpp):
 ![](./P3528.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:45 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include "iostream"
 
 using namespace std;
@@ -3372,11 +3372,11 @@ int main(){
 }
 ```
 
-## [P3500.cpp](./P3500.cpp):
+## [P3500](./P3500.cpp):
 ![](./P3500.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include "iostream"
 #include "algorithm"
 
@@ -3397,11 +3397,11 @@ int main() {
 }
 ```
 
-## [P3514.cpp](./P3514.cpp):
+## [P3514](./P3514.cpp):
 ![](./P3514.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:44 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include<iostream>
 using namespace std;
 int n,score,target,timein,rtime;
@@ -3419,11 +3419,11 @@ int main(){
 }
 ```
 
-## [P3515.cpp](./P3515.cpp):
+## [P3515](./P3515.cpp):
 ![](./P3515.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:44 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include<iostream>
 using namespace std;
 long long x,ans=1;
@@ -3438,11 +3438,11 @@ int main(){
 }
 ```
 
-## [P3501.cpp](./P3501.cpp):
+## [P3501](./P3501.cpp):
 ![](./P3501.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include<iostream>
 using namespace std;
 long long x,y,z;
@@ -3457,11 +3457,11 @@ int main(){
 }
 ```
 
-## [P3529.cpp](./P3529.cpp):
+## [P3529](./P3529.cpp):
 ![](./P3529.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:45 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include<iostream>
 using namespace std;
 string f(int n){
@@ -3477,11 +3477,11 @@ int main(){
 }
 ```
 
-## [P3717.cpp](./P3717.cpp):
+## [P3717](./P3717.cpp):
 ![](./P3717.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -3491,11 +3491,11 @@ int main(){
 }
 ```
 
-## [P3703.cpp](./P3703.cpp):
+## [P3703](./P3703.cpp):
 ![](./P3703.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 using namespace std;
 int n,xin,score;
@@ -3512,11 +3512,11 @@ int main(){
 }
 ```
 
-## [P4044.cpp](./P4044.cpp):
+## [P4044](./P4044.cpp):
 ![](./P4044.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include<iostream>
 using namespace std;
 int n, a[999999], b[999999];
@@ -3540,11 +3540,11 @@ int main(){
 }
 ```
 
-## [P2569.cpp](./P2569.cpp):
+## [P2569](./P2569.cpp):
 ![](./P2569.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include<iostream>
 using namespace std;
 int n,k,power=1;
@@ -3558,11 +3558,11 @@ int main(){
 }
 ```
 
-## [P1060.cpp](./P1060.cpp):
+## [P1060](./P1060.cpp):
 ![](./P1060.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:33 2022
 #include<iostream>
 using namespace std;
 int n, m, a[1000][1000];
@@ -3582,11 +3582,11 @@ int main(){
 }
 ```
 
-## [P1048.cpp](./P1048.cpp):
+## [P1048](./P1048.cpp):
 ![](./P1048.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:32 2022
 #include "iostream"
 #include "cstring"
 #include "cmath"
@@ -3622,11 +3622,11 @@ int main() {
 }
 ```
 
-## [P3139.cpp](./P3139.cpp):
+## [P3139](./P3139.cpp):
 ![](./P3139.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include<iostream>
 
 using namespace std;
@@ -3674,11 +3674,11 @@ int main() {
 }
 ```
 
-## [P3688.cpp](./P3688.cpp):
+## [P3688](./P3688.cpp):
 ![](./P3688.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include "iostream"
 
 using namespace std;
@@ -3697,11 +3697,11 @@ int main(){
 }
 ```
 
-## [P1276.cpp](./P1276.cpp):
+## [P1276](./P1276.cpp):
 ![](./P1276.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3721,11 +3721,11 @@ int main(){
 }
 ```
 
-## [P2757.cpp](./P2757.cpp):
+## [P2757](./P2757.cpp):
 ![](./P2757.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include <iostream>
 
 using namespace std;
@@ -3742,11 +3742,11 @@ int main(){
 }
 ```
 
-## [P1500.cpp](./P1500.cpp):
+## [P1500](./P1500.cpp):
 ![](./P1500.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -3775,11 +3775,11 @@ int main(){
 }
 ```
 
-## [P2586.cpp](./P2586.cpp):
+## [P2586](./P2586.cpp):
 ![](./P2586.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include<iostream>
 using namespace std;
 int a[5][5], n, m;
@@ -3810,11 +3810,11 @@ int main(){
 }
 ```
 
-## [P3698.cpp](./P3698.cpp):
+## [P3698](./P3698.cpp):
 ![](./P3698.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 
 using namespace std;
@@ -3831,11 +3831,11 @@ int main(){
 }
 ```
 
-## [P1064.cpp](./P1064.cpp):
+## [P1064](./P1064.cpp):
 ![](./P1064.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:34 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3885,11 +3885,11 @@ int main(){
 }
 ```
 
-## [P2579.cpp](./P2579.cpp):
+## [P2579](./P2579.cpp):
 ![](./P2579.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include "iostream"
 #include "iomanip"
 
@@ -3915,11 +3915,11 @@ int main() {
 }
 ```
 
-## [P1070.cpp](./P1070.cpp):
+## [P1070](./P1070.cpp):
 ![](./P1070.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include<iostream>
 using namespace std;
 int n, inde;
@@ -3944,11 +3944,11 @@ int main(){
 }
 ```
 
-## [P1058.cpp](./P1058.cpp):
+## [P1058](./P1058.cpp):
 ![](./P1058.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:33 2022
 #include<iostream>
 using namespace std;
 int n, k, cnt, a[999999];
@@ -3966,11 +3966,11 @@ int main(){
 }
 ```
 
-## [P3707.cpp](./P3707.cpp):
+## [P3707](./P3707.cpp):
 ![](./P3707.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 
 using namespace std;
@@ -3988,11 +3988,11 @@ int main(){
 }
 ```
 
-## [P7004.cpp](./P7004.cpp):
+## [P7004](./P7004.cpp):
 ![](./P7004.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
@@ -4058,11 +4058,11 @@ int main(){
 }
 ```
 
-## [P3504.cpp](./P3504.cpp):
+## [P3504](./P3504.cpp):
 ![](./P3504.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include "iostream"
 
 using namespace std;
@@ -4083,11 +4083,11 @@ int main() {
 }
 ```
 
-## [P2356.cpp](./P2356.cpp):
+## [P2356](./P2356.cpp):
 ![](./P2356.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 using namespace std;
 int n, in, ans;
@@ -4101,11 +4101,11 @@ int main(){
 }
 ```
 
-## [P2430.cpp](./P2430.cpp):
+## [P2430](./P2430.cpp):
 ![](./P2430.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 #include<stack>
 #include<iomanip>
@@ -4140,11 +4140,11 @@ int main(){
 }
 ```
 
-## [P1139.cpp](./P1139.cpp):
+## [P1139](./P1139.cpp):
 ![](./P1139.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:25 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4171,11 +4171,11 @@ int main(){
 }
 ```
 
-## [P1663.cpp](./P1663.cpp):
+## [P1663](./P1663.cpp):
 ![](./P1663.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -4216,11 +4216,11 @@ int main(){
 }
 ```
 
-## [P1105.cpp](./P1105.cpp):
+## [P1105](./P1105.cpp):
 ![](./P1105.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include "iostream"
 #include "cstring"
 
@@ -4249,11 +4249,11 @@ int main(){
 }
 ```
 
-## [P3706.cpp](./P3706.cpp):
+## [P3706](./P3706.cpp):
 ![](./P3706.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 
 using namespace std;
@@ -4271,11 +4271,11 @@ int main(){
 }
 ```
 
-## [P1850.cpp](./P1850.cpp):
+## [P1850](./P1850.cpp):
 ![](./P1850.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:45 2022
 #include<iostream>
 #include<cstring>
 
@@ -4307,11 +4307,11 @@ int main() {
 }
 ```
 
-## [P2381.cpp](./P2381.cpp):
+## [P2381](./P2381.cpp):
 ![](./P2381.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -4343,11 +4343,11 @@ int main(){
 }
 ```
 
-## [P1878.cpp](./P1878.cpp):
+## [P1878](./P1878.cpp):
 ![](./P1878.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:46 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -4368,11 +4368,11 @@ int main(){
 }
 ```
 
-## [P1059.cpp](./P1059.cpp):
+## [P1059](./P1059.cpp):
 ![](./P1059.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:33 2022
 #include<iostream>
 #include<cmath>
 #include<cstring>
@@ -4423,11 +4423,11 @@ int main(){
 }
 ```
 
-## [P1071.cpp](./P1071.cpp):
+## [P1071](./P1071.cpp):
 ![](./P1071.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include <iostream>
 
 using namespace std;
@@ -4458,11 +4458,11 @@ int main(){
 }
 ```
 
-## [P1065.cpp](./P1065.cpp):
+## [P1065](./P1065.cpp):
 ![](./P1065.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:34 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -4489,11 +4489,11 @@ int main(){
 }
 ```
 
-## [P3458.cpp](./P3458.cpp):
+## [P3458](./P3458.cpp):
 ![](./P3458.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include<iostream>
 using namespace std;
 long long x;
@@ -4503,11 +4503,11 @@ int main(){
 }
 ```
 
-## [P2752.cpp](./P2752.cpp):
+## [P2752](./P2752.cpp):
 ![](./P2752.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include "iostream"
 
 using namespace std;
@@ -4528,11 +4528,11 @@ int main(){
 }
 ```
 
-## [P3464.cpp](./P3464.cpp):
+## [P3464](./P3464.cpp):
 ![](./P3464.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include "iostream"
 
 using namespace std;
@@ -4547,11 +4547,11 @@ int main(){
 }
 ```
 
-## [P2008.cpp](./P2008.cpp):
+## [P2008](./P2008.cpp):
 ![](./P2008.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -4573,11 +4573,11 @@ int main(){
 }
 ```
 
-## [P1501.cpp](./P1501.cpp):
+## [P1501](./P1501.cpp):
 ![](./P1501.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -4597,11 +4597,11 @@ int main(){
 }
 ```
 
-## [P5001.cpp](./P5001.cpp):
+## [P5001](./P5001.cpp):
 ![](./P5001.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include "iostream"
 #include "cstring"
 
@@ -4614,11 +4614,11 @@ int main() {
 }
 ```
 
-## [P1073.cpp](./P1073.cpp):
+## [P1073](./P1073.cpp):
 ![](./P1073.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -4652,11 +4652,11 @@ int main(){
 }
 ```
 
-## [P1067.cpp](./P1067.cpp):
+## [P1067](./P1067.cpp):
 ![](./P1067.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:34 2022
 #include "iostream"
 
 using namespace std;
@@ -4687,11 +4687,11 @@ int main(){
 }
 ```
 
-## [P2220.cpp](./P2220.cpp):
+## [P2220](./P2220.cpp):
 ![](./P2220.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 using namespace std;
 int n, n0, n5;
@@ -4723,11 +4723,11 @@ int main(){
 }
 ```
 
-## [P3710.cpp](./P3710.cpp):
+## [P3710](./P3710.cpp):
 ![](./P3710.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4754,11 +4754,11 @@ int main(){
 }
 ```
 
-## [P1107.cpp](./P1107.cpp):
+## [P1107](./P1107.cpp):
 ![](./P1107.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4786,11 +4786,11 @@ int main(){
 }
 ```
 
-## [P1113.cpp](./P1113.cpp):
+## [P1113](./P1113.cpp):
 ![](./P1113.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:22 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4813,11 +4813,11 @@ int main(){
 }
 ```
 
-## [P3704.cpp](./P3704.cpp):
+## [P3704](./P3704.cpp):
 ![](./P3704.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 
 using namespace std;
@@ -4833,11 +4833,11 @@ int main() {
 }
 ```
 
-## [P2340.cpp](./P2340.cpp):
+## [P2340](./P2340.cpp):
 ![](./P2340.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;
@@ -4856,11 +4856,11 @@ int main(){
 }
 ```
 
-## [P3506.cpp](./P3506.cpp):
+## [P3506](./P3506.cpp):
 ![](./P3506.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:44 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include<iostream>
 using namespace std;
 int n, k, in, sum, maxn;
@@ -4882,11 +4882,11 @@ int main(){
 }
 ```
 
-## [P3275.cpp](./P3275.cpp):
+## [P3275](./P3275.cpp):
 ![](./P3275.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:22 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include "iostream"
 
 using namespace std;
@@ -4933,11 +4933,11 @@ int main(){
 }
 ```
 
-## [P3513.cpp](./P3513.cpp):
+## [P3513](./P3513.cpp):
 ![](./P3513.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:44 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -4947,11 +4947,11 @@ int main(){
 }
 ```
 
-## [P4056.cpp](./P4056.cpp):
+## [P4056](./P4056.cpp):
 ![](./P4056.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:54 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -4971,11 +4971,11 @@ int main(){
 }
 ```
 
-## [P1112.cpp](./P1112.cpp):
+## [P1112](./P1112.cpp):
 ![](./P1112.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4999,11 +4999,11 @@ int main(){
 }
 ```
 
-## [P1106.cpp](./P1106.cpp):
+## [P1106](./P1106.cpp):
 ![](./P1106.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include "iostream"
 #include "cstring"
 
@@ -5034,11 +5034,11 @@ int main(){
 }
 ```
 
-## [P1847.cpp](./P1847.cpp):
+## [P1847](./P1847.cpp):
 ![](./P1847.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:45 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5059,11 +5059,11 @@ int main(){
 }
 ```
 
-## [P3881.cpp](./P3881.cpp):
+## [P3881](./P3881.cpp):
 ![](./P3881.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include<iostream>
 #include<cmath>
 #include<sstream>
@@ -5101,11 +5101,11 @@ int main(){
 }
 ```
 
-## [P2221.cpp](./P2221.cpp):
+## [P2221](./P2221.cpp):
 ![](./P2221.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include "iostream"
 using namespace std;
 int a,b,c;
@@ -5125,11 +5125,11 @@ int main(){
 }
 ```
 
-## [P1933.cpp](./P1933.cpp):
+## [P1933](./P1933.cpp):
 ![](./P1933.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:34 2022
+//Created in Fri Nov 11 15:12:46 2022
 #include "iostream"
 
 using namespace std;
@@ -5143,11 +5143,11 @@ int main(){
 }
 ```
 
-## [P3498.cpp](./P3498.cpp):
+## [P3498](./P3498.cpp):
 ![](./P3498.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -5167,11 +5167,11 @@ int main(){
 }
 ```
 
-## [P2204.cpp](./P2204.cpp):
+## [P2204](./P2204.cpp):
 ![](./P2204.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 using namespace std;
 int n, a[9999][9999], s[9999][9999], cnt[252];
@@ -5210,11 +5210,11 @@ int main(){
 }
 ```
 
-## [P2562.cpp](./P2562.cpp):
+## [P2562](./P2562.cpp):
 ![](./P2562.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include "iostream"
 
 using namespace std;
@@ -5243,11 +5243,11 @@ int main(){
 }
 ```
 
-## [P2576.cpp](./P2576.cpp):
+## [P2576](./P2576.cpp):
 ![](./P2576.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5284,11 +5284,11 @@ int main(){
 }
 ```
 
-## [P1057.cpp](./P1057.cpp):
+## [P1057](./P1057.cpp):
 ![](./P1057.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:33 2022
 #include<iostream>
 using namespace std;
 int n, a[121], in, cnt;
@@ -5306,11 +5306,11 @@ int main(){
 }
 ```
 
-## [P1043.cpp](./P1043.cpp):
+## [P1043](./P1043.cpp):
 ![](./P1043.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5333,11 +5333,11 @@ int main(){
 }
 ```
 
-## [P1725.cpp](./P1725.cpp):
+## [P1725](./P1725.cpp):
 ![](./P1725.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 //#include <iostream>
 //
 //using namespace std;
@@ -5510,11 +5510,11 @@ int main(){
 //}
 ```
 
-## [P3708.cpp](./P3708.cpp):
+## [P3708](./P3708.cpp):
 ![](./P3708.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:51 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include<iostream>
 using namespace std;
 int m,t,u,f,d,in,time_,lengh;
@@ -5551,11 +5551,11 @@ int main(){
 }
 ```
 
-## [P2172.cpp](./P2172.cpp):
+## [P2172](./P2172.cpp):
 ![](./P2172.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include "iostream"
 #include "iomanip"
 
@@ -5569,11 +5569,11 @@ int main() {
 }
 ```
 
-## [P3537.cpp](./P3537.cpp):
+## [P3537](./P3537.cpp):
 ![](./P3537.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:46 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -5584,11 +5584,11 @@ int main(){
 }
 ```
 
-## [P1136.cpp](./P1136.cpp):
+## [P1136](./P1136.cpp):
 ![](./P1136.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:24 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5609,11 +5609,11 @@ int main(){
 }
 ```
 
-## [P3709.cpp](./P3709.cpp):
+## [P3709](./P3709.cpp):
 ![](./P3709.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include<iostream>
 using namespace std;
 int x, a[9999], b[9999], n;
@@ -5635,11 +5635,11 @@ int main(){
 }
 ```
 
-## [P1042.cpp](./P1042.cpp):
+## [P1042](./P1042.cpp):
 ![](./P1042.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5658,11 +5658,11 @@ int main(){
 }
 ```
 
-## [P3133.cpp](./P3133.cpp):
+## [P3133](./P3133.cpp):
 ![](./P3133.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include<iostream>
 using namespace std;
 long long a,b,k,w,ans;
@@ -5680,11 +5680,11 @@ int main(){
 }
 ```
 
-## [P1724.cpp](./P1724.cpp):
+## [P1724](./P1724.cpp):
 ![](./P1724.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include<iostream>
 using namespace std;
 long long in;
@@ -5718,11 +5718,11 @@ int main(){
 }
 ```
 
-## [P3641.cpp](./P3641.cpp):
+## [P3641](./P3641.cpp):
 ![](./P3641.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include "iostream"
 #include "algorithm"
 
@@ -5748,11 +5748,11 @@ int main(){
 }
 ```
 
-## [P1056.cpp](./P1056.cpp):
+## [P1056](./P1056.cpp):
 ![](./P1056.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:33 2022
 #include<iostream>
 using namespace std;
 int n, a[121], in[200001], cnt[200001], cntn;
@@ -5775,11 +5775,11 @@ int main(){
 }
 ```
 
-## [P2563.cpp](./P2563.cpp):
+## [P2563](./P2563.cpp):
 ![](./P2563.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include "iostream"
 using namespace std;
 bool p;
@@ -5806,11 +5806,11 @@ int main(){
 }
 ```
 
-## [P1081.cpp](./P1081.cpp):
+## [P1081](./P1081.cpp):
 ![](./P1081.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include "iostream"
 
 using namespace std;
@@ -5841,11 +5841,11 @@ int main(){
 }
 ```
 
-## [P1095.cpp](./P1095.cpp):
+## [P1095](./P1095.cpp):
 ![](./P1095.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include<iostream>
 using namespace std;
 string ain, bin;
@@ -5879,11 +5879,11 @@ int main(){
 }
 ```
 
-## [P1917.cpp](./P1917.cpp):
+## [P1917](./P1917.cpp):
 ![](./P1917.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:46 2022
 #include "iostream"
 using namespace std;
 int m, sum, cnt;
@@ -5901,11 +5901,11 @@ int main(){
 }
 ```
 
-## [P2749.cpp](./P2749.cpp):
+## [P2749](./P2749.cpp):
 ![](./P2749.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5924,11 +5924,11 @@ int main(){
 }
 ```
 
-## [P3496.cpp](./P3496.cpp):
+## [P3496](./P3496.cpp):
 ![](./P3496.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include "iostream"
 
 using namespace std;
@@ -5943,11 +5943,11 @@ int main() {
 }
 ```
 
-## [P1281.cpp](./P1281.cpp):
+## [P1281](./P1281.cpp):
 ![](./P1281.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 #include<stack>
 #include<vector>
@@ -5983,11 +5983,11 @@ int main(){
 }
 ```
 
-## [P2561.cpp](./P2561.cpp):
+## [P2561](./P2561.cpp):
 ![](./P2561.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include "iostream"
 using namespace std;
 int n,cnt,h,in;
@@ -6003,11 +6003,11 @@ int main() {
 }
 ```
 
-## [P1068.cpp](./P1068.cpp):
+## [P1068](./P1068.cpp):
 ![](./P1068.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:19 2022
+//Created in Fri Nov 11 15:12:34 2022
 #include "iostream"
 #include "cmath"
 
@@ -6043,11 +6043,11 @@ int main(){
 }
 ```
 
-## [P1040.cpp](./P1040.cpp):
+## [P1040](./P1040.cpp):
 ![](./P1040.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6069,11 +6069,11 @@ int main(){
 }
 ```
 
-## [P1054.cpp](./P1054.cpp):
+## [P1054](./P1054.cpp):
 ![](./P1054.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:32 2022
 #include "iostream"
 #include "cstring"
 #include "algorithm"
@@ -6100,11 +6100,11 @@ int main(){
 }
 ```
 
-## [P1849.cpp](./P1849.cpp):
+## [P1849](./P1849.cpp):
 ![](./P1849.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:45 2022
 #include<iostream>
 using namespace std;
 int n, maxRp;
@@ -6144,11 +6144,11 @@ int main(){
 }
 ```
 
-## [P1685.cpp](./P1685.cpp):
+## [P1685](./P1685.cpp):
 ![](./P1685.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -6162,11 +6162,11 @@ int main(){
 }
 ```
 
-## [P1108.cpp](./P1108.cpp):
+## [P1108](./P1108.cpp):
 ![](./P1108.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -6206,11 +6206,11 @@ int main(){
 }
 ```
 
-## [P1134.cpp](./P1134.cpp):
+## [P1134](./P1134.cpp):
 ![](./P1134.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:24 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 using namespace std;
 long long cnt, n, c1, c5, c10, c50, c100, c500;
@@ -6242,11 +6242,11 @@ int main(){
 }
 ```
 
-## [P1120.cpp](./P1120.cpp):
+## [P1120](./P1120.cpp):
 ![](./P1120.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:23 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include<iostream>
 using namespace std;
 int t, x, y, cnt;
@@ -6314,11 +6314,11 @@ int main(){
 }
 ```
 
-## [P2429.cpp](./P2429.cpp):
+## [P2429](./P2429.cpp):
 ![](./P2429.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include "iostream"
 using namespace std;
 int n, ans = 1;
@@ -6331,11 +6331,11 @@ int main(){
 }
 ```
 
-## [P2171.cpp](./P2171.cpp):
+## [P2171](./P2171.cpp):
 ![](./P2171.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -6348,11 +6348,11 @@ int main(){
 }
 ```
 
-## [P3509.cpp](./P3509.cpp):
+## [P3509](./P3509.cpp):
 ![](./P3509.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:44 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include "iostream"
 using namespace  std;
 int n, m, t, ans;
@@ -6367,11 +6367,11 @@ int main(){
 }
 ```
 
-## [P3534.cpp](./P3534.cpp):
+## [P3534](./P3534.cpp):
 ![](./P3534.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:45 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include "iostream"
 #include "cmath"
 
@@ -6419,11 +6419,11 @@ int main() {
 }
 ```
 
-## [P3722.cpp](./P3722.cpp):
+## [P3722](./P3722.cpp):
 ![](./P3722.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include "iostream"
 
 using namespace std;
@@ -6495,11 +6495,11 @@ int main(){
 //   ********
 ```
 
-## [P1109.cpp](./P1109.cpp):
+## [P1109](./P1109.cpp):
 ![](./P1109.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -6521,11 +6521,11 @@ int main(){
 }
 ```
 
-## [P3093.cpp](./P3093.cpp):
+## [P3093](./P3093.cpp):
 ![](./P3093.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include<iostream>
 
 using namespace std;
@@ -6547,11 +6547,11 @@ int main() {
 }
 ```
 
-## [P1848.cpp](./P1848.cpp):
+## [P1848](./P1848.cpp):
 ![](./P1848.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:45 2022
 #include<iostream>
 using namespace std;
 int ans;
@@ -6571,11 +6571,11 @@ int main(){
 }
 ```
 
-## [P1860.cpp](./P1860.cpp):
+## [P1860](./P1860.cpp):
 ![](./P1860.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:45 2022
 #include "iostream"
 
 using namespace std;
@@ -6593,11 +6593,11 @@ int main(){
 }
 ```
 
-## [P3642.cpp](./P3642.cpp):
+## [P3642](./P3642.cpp):
 ![](./P3642.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include "iostream"
 #include "cmath"
 
@@ -6613,11 +6613,11 @@ int main(){
 }
 ```
 
-## [P1055.cpp](./P1055.cpp):
+## [P1055](./P1055.cpp):
 ![](./P1055.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:32 2022
 #include "iostream"
 using namespace std;
 int a[9999999];
@@ -6636,11 +6636,11 @@ int main(){
 }
 ```
 
-## [P1041.cpp](./P1041.cpp):
+## [P1041](./P1041.cpp):
 ![](./P1041.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 #include<cmath>
 
@@ -6668,11 +6668,11 @@ int main(){
 }
 ```
 
-## [P1069.cpp](./P1069.cpp):
+## [P1069](./P1069.cpp):
 ![](./P1069.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include "iostream"
 
 using namespace std;
@@ -6709,11 +6709,11 @@ int main(){
 }
 ```
 
-## [P2574.cpp](./P2574.cpp):
+## [P2574](./P2574.cpp):
 ![](./P2574.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include <iostream>
 #include <cmath>
 
@@ -6750,11 +6750,11 @@ int main(){
 }
 ```
 
-## [P1082.cpp](./P1082.cpp):
+## [P1082](./P1082.cpp):
 ![](./P1082.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include<iostream>
 using namespace std;
 int maxl;
@@ -6779,11 +6779,11 @@ int main(){
 }
 ```
 
-## [P1900.cpp](./P1900.cpp):
+## [P1900](./P1900.cpp):
 ![](./P1900.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:46 2022
 #include<iostream>
 using namespace std;
 int in, n, r;
@@ -6802,11 +6802,11 @@ int  main(){
 }
 ```
 
-## [P3497.cpp](./P3497.cpp):
+## [P3497](./P3497.cpp):
 ![](./P3497.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include "iostream"
 
 using namespace std;
@@ -6823,11 +6823,11 @@ int main() {
 }
 ```
 
-## [P3493.cpp](./P3493.cpp):
+## [P3493](./P3493.cpp):
 ![](./P3493.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include "iostream"
 
 using namespace std;
@@ -6849,11 +6849,11 @@ int main(){
 }
 ```
 
-## [P3487.cpp](./P3487.cpp):
+## [P3487](./P3487.cpp):
 ![](./P3487.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -6861,11 +6861,11 @@ int main(){
 }
 ```
 
-## [P1509.cpp](./P1509.cpp):
+## [P1509](./P1509.cpp):
 ![](./P1509.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 using namespace std;
 int a[10],in,cnt;
@@ -6882,11 +6882,11 @@ int main(){
 }
 ```
 
-## [P3691.cpp](./P3691.cpp):
+## [P3691](./P3691.cpp):
 ![](./P3691.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 #include "cstring"
 
@@ -6907,11 +6907,11 @@ int main(){
 }
 ```
 
-## [P1938.cpp](./P1938.cpp):
+## [P1938](./P1938.cpp):
 ![](./P1938.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:34 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include "iostream"
 
 using namespace std;
@@ -6930,11 +6930,11 @@ int main() {
 }
 ```
 
-## [P1092.cpp](./P1092.cpp):
+## [P1092](./P1092.cpp):
 ![](./P1092.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6956,11 +6956,11 @@ int main(){
 }
 ```
 
-## [P1045.cpp](./P1045.cpp):
+## [P1045](./P1045.cpp):
 ![](./P1045.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -6970,11 +6970,11 @@ int main(){
 }
 ```
 
-## [P3134.cpp](./P3134.cpp):
+## [P3134](./P3134.cpp):
 ![](./P3134.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include "iostream"
 #include "iomanip"
 
@@ -7013,11 +7013,11 @@ int main(){
 }
 ```
 
-## [P3120.cpp](./P3120.cpp):
+## [P3120](./P3120.cpp):
 ![](./P3120.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include<iostream>
 #include<cmath>
 
@@ -7034,11 +7034,11 @@ int main(){
 }
 ```
 
-## [P1051.cpp](./P1051.cpp):
+## [P1051](./P1051.cpp):
 ![](./P1051.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:32 2022
 #include<iostream>
 
 using namespace std;
@@ -7061,11 +7061,11 @@ int main() {
 }
 ```
 
-## [P3646.cpp](./P3646.cpp):
+## [P3646](./P3646.cpp):
 ![](./P3646.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -7075,11 +7075,11 @@ int main(){
 }
 ```
 
-## [P2558.cpp](./P2558.cpp):
+## [P2558](./P2558.cpp):
 ![](./P2558.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include "iostream"
 #include "cmath"
 
@@ -7096,11 +7096,11 @@ int main(){
 }
 ```
 
-## [P2570.cpp](./P2570.cpp):
+## [P2570](./P2570.cpp):
 ![](./P2570.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include<iostream>
 using namespace std;
 int n,sum;
@@ -7121,11 +7121,11 @@ int main(){
 }
 ```
 
-## [P2564.cpp](./P2564.cpp):
+## [P2564](./P2564.cpp):
 ![](./P2564.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include<iostream>
 using namespace std;
 int n, cnt, m, in, a[101], b[101];
@@ -7155,11 +7155,11 @@ int main(){
 }
 ```
 
-## [P1694.cpp](./P1694.cpp):
+## [P1694](./P1694.cpp):
 ![](./P1694.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -7210,11 +7210,11 @@ int main(){
 }
 ```
 
-## [P3901.cpp](./P3901.cpp):
+## [P3901](./P3901.cpp):
 ![](./P3901.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include "iostream"
 
 using namespace std;
@@ -7247,11 +7247,11 @@ int main() {
 }
 ```
 
-## [P1131.cpp](./P1131.cpp):
+## [P1131](./P1131.cpp):
 ![](./P1131.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:24 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include <iostream>
 using namespace std;
 int k, n, t;
@@ -7268,11 +7268,11 @@ int main(){
 }
 ```
 
-## [P1643.cpp](./P1643.cpp):
+## [P1643](./P1643.cpp):
 ![](./P1643.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 using namespace std;
 int g(int n){
@@ -7289,11 +7289,11 @@ int main(){
 }
 ```
 
-## [P1125.cpp](./P1125.cpp):
+## [P1125](./P1125.cpp):
 ![](./P1125.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:23 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include "iostream"
 #include "cstring"
 
@@ -7322,11 +7322,11 @@ int main(){
 }
 ```
 
-## [P1119.cpp](./P1119.cpp):
+## [P1119](./P1119.cpp):
 ![](./P1119.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:23 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include<iostream>
 using namespace std;
 int n, ans[8], days[13] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}, day = 0;
@@ -7355,11 +7355,11 @@ int main(){
 }
 ```
 
-## [P3518.cpp](./P3518.cpp):
+## [P3518](./P3518.cpp):
 ![](./P3518.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:44 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include "iostream"
 
 using namespace std;
@@ -7375,11 +7375,11 @@ int main(){
 }
 ```
 
-## [P2175.cpp](./P2175.cpp):
+## [P2175](./P2175.cpp):
 ![](./P2175.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7404,11 +7404,11 @@ int main(){
 }
 ```
 
-## [P3519.cpp](./P3519.cpp):
+## [P3519](./P3519.cpp):
 ![](./P3519.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:44 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include "iostream"
 
 using namespace std;
@@ -7437,11 +7437,11 @@ int main() {
 }
 ```
 
-## [P3525.cpp](./P3525.cpp):
+## [P3525](./P3525.cpp):
 ![](./P3525.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:44 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -7451,11 +7451,11 @@ int main(){
 }
 ```
 
-## [P1118.cpp](./P1118.cpp):
+## [P1118](./P1118.cpp):
 ![](./P1118.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:22 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7536,11 +7536,11 @@ int main(){
 }
 ```
 
-## [P1124.cpp](./P1124.cpp):
+## [P1124](./P1124.cpp):
 ![](./P1124.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:23 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include "iostream"
 #include "cstring"
 
@@ -7577,11 +7577,11 @@ int main(){
 }
 ```
 
-## [P2565.cpp](./P2565.cpp):
+## [P2565](./P2565.cpp):
 ![](./P2565.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include<iostream>
 using namespace std;
 int maxLength(int n){
@@ -7606,11 +7606,11 @@ int main(){
 }
 ```
 
-## [P1078.cpp](./P1078.cpp):
+## [P1078](./P1078.cpp):
 ![](./P1078.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include<iostream>
 using namespace std;
 char str[257];
@@ -7626,11 +7626,11 @@ int main(){
 }
 ```
 
-## [P2559.cpp](./P2559.cpp):
+## [P2559](./P2559.cpp):
 ![](./P2559.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include<iostream>
 using namespace std;
 int n, in, a[101], m, ans;
@@ -7657,11 +7657,11 @@ int main(){
 }
 ```
 
-## [P1044.cpp](./P1044.cpp):
+## [P1044](./P1044.cpp):
 ![](./P1044.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 using namespace std;
 int n, in, in2, gcd;
@@ -7688,11 +7688,11 @@ int main(){
 }
 ```
 
-## [P3690.cpp](./P3690.cpp):
+## [P3690](./P3690.cpp):
 ![](./P3690.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include "iostream"
 
 using namespace std;
@@ -7712,11 +7712,11 @@ int main() {
 }
 ```
 
-## [P1087.cpp](./P1087.cpp):
+## [P1087](./P1087.cpp):
 ![](./P1087.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -7755,11 +7755,11 @@ int main(){
 }
 ```
 
-## [P1508.cpp](./P1508.cpp):
+## [P1508](./P1508.cpp):
 ![](./P1508.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:28 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 using namespace std;
 int l,m,in1,in2,cnt,sum;
@@ -7781,11 +7781,11 @@ int main(){
 }
 ```
 
-## [P2001.cpp](./P2001.cpp):
+## [P2001](./P2001.cpp):
 ![](./P2001.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:35 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include <iostream>
 #include <cmath>
 
@@ -7831,11 +7831,11 @@ int main(){
 }
 ```
 
-## [P3492.cpp](./P3492.cpp):
+## [P3492](./P3492.cpp):
 ![](./P3492.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include "iostream"
 
 using namespace std;
@@ -7865,11 +7865,11 @@ int main() {
 }
 ```
 
-## [P3490.cpp](./P3490.cpp):
+## [P3490](./P3490.cpp):
 ![](./P3490.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:43 2022
+//Created in Fri Nov 11 15:12:54 2022
 #include <iostream>
 
 using namespace std;
@@ -7893,11 +7893,11 @@ int main(){
 }
 ```
 
-## [P1278.cpp](./P1278.cpp):
+## [P1278](./P1278.cpp):
 ![](./P1278.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 using namespace std;
 bool a[1001];
@@ -7925,11 +7925,11 @@ int main(){
 }
 ```
 
-## [P1091.cpp](./P1091.cpp):
+## [P1091](./P1091.cpp):
 ![](./P1091.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include <iostream>
 #include <cmath>
 
@@ -7987,11 +7987,11 @@ int main() {
 }
 ```
 
-## [P1052.cpp](./P1052.cpp):
+## [P1052](./P1052.cpp):
 ![](./P1052.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:32 2022
 #include<iostream>
 #include<cstring>
 
@@ -8026,11 +8026,11 @@ int main() {
 }
 ```
 
-## [P3137.cpp](./P3137.cpp):
+## [P3137](./P3137.cpp):
 ![](./P3137.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;
@@ -8041,11 +8041,11 @@ int main(){
 }
 ```
 
-## [P1046.cpp](./P1046.cpp):
+## [P1046](./P1046.cpp):
 ![](./P1046.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 using namespace std;
 int a, n, w;
@@ -8063,11 +8063,11 @@ int main(){
 }
 ```
 
-## [P1708.cpp](./P1708.cpp):
+## [P1708](./P1708.cpp):
 ![](./P1708.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 using namespace std;
 int a,b,h,t,p;
@@ -8086,11 +8086,11 @@ int main(){
 }
 ```
 
-## [P2573.cpp](./P2573.cpp):
+## [P2573](./P2573.cpp):
 ![](./P2573.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include<iostream>
 
 using namespace std;
@@ -8115,11 +8115,11 @@ int main() {
 }
 ```
 
-## [P1697.cpp](./P1697.cpp):
+## [P1697](./P1697.cpp):
 ![](./P1697.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8138,11 +8138,11 @@ int main(){
 }
 ```
 
-## [P1126.cpp](./P1126.cpp):
+## [P1126](./P1126.cpp):
 ![](./P1126.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:23 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include<iostream>
 using namespace std;
 int n, a[9999999], cnt;
@@ -8168,11 +8168,11 @@ int main(){
 }
 ```
 
-## [P3731.cpp](./P3731.cpp):
+## [P3731](./P3731.cpp):
 ![](./P3731.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include "iostream"
 #include "iomanip"
 #include "cmath"
@@ -8186,11 +8186,11 @@ int main(){
 }
 ```
 
-## [P1654.cpp](./P1654.cpp):
+## [P1654](./P1654.cpp):
 ![](./P1654.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include <iostream>
 #include <cstring>
 
@@ -8266,11 +8266,11 @@ int main() {
 //}
 ```
 
-## [P3719.cpp](./P3719.cpp):
+## [P3719](./P3719.cpp):
 ![](./P3719.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include "iostream"
 
 using namespace std;
@@ -8287,11 +8287,11 @@ int main(){
 }
 ```
 
-## [P3533.cpp](./P3533.cpp):
+## [P3533](./P3533.cpp):
 ![](./P3533.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:45 2022
+//Created in Fri Nov 11 15:12:56 2022
 // 代码如下
 #include<iostream>
 using namespace std;
@@ -8311,11 +8311,11 @@ int main(){
 }
 ```
 
-## [P3527.cpp](./P3527.cpp):
+## [P3527](./P3527.cpp):
 ![](./P3527.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:45 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -8343,11 +8343,11 @@ int main(){
 }
 ```
 
-## [P2177.cpp](./P2177.cpp):
+## [P2177](./P2177.cpp):
 ![](./P2177.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:37 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 #include<queue>
 #define int long long
@@ -8384,11 +8384,11 @@ signed main() {
 }
 ```
 
-## [P3526.cpp](./P3526.cpp):
+## [P3526](./P3526.cpp):
 ![](./P3526.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:45 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8427,11 +8427,11 @@ int main(){
 }
 ```
 
-## [P3532.cpp](./P3532.cpp):
+## [P3532](./P3532.cpp):
 ![](./P3532.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:45 2022
+//Created in Fri Nov 11 15:12:55 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -8444,11 +8444,11 @@ int main(){
 }
 ```
 
-## [P3718.cpp](./P3718.cpp):
+## [P3718](./P3718.cpp):
 ![](./P3718.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include "iostream"
 
 using namespace std;
@@ -8473,11 +8473,11 @@ int main(){
 }
 ```
 
-## [P1133.cpp](./P1133.cpp):
+## [P1133](./P1133.cpp):
 ![](./P1133.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:24 2022
+//Created in Fri Nov 11 15:12:37 2022
 #include<iostream>
 using namespace std;
 long long n, a[9999999], ans;
@@ -8493,11 +8493,11 @@ int main(){
 }
 ```
 
-## [P1866.cpp](./P1866.cpp):
+## [P1866](./P1866.cpp):
 ![](./P1866.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:33 2022
+//Created in Fri Nov 11 15:12:46 2022
 #include<iostream>
 using namespace std;
 unsigned short p, q, n, cnt;
@@ -8521,11 +8521,11 @@ int main(){
 }
 ```
 
-## [P1696.cpp](./P1696.cpp):
+## [P1696](./P1696.cpp):
 ![](./P1696.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -8541,11 +8541,11 @@ int main(){
 }
 ```
 
-## [P2572.cpp](./P2572.cpp):
+## [P2572](./P2572.cpp):
 ![](./P2572.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include "iostream"
 using namespace std;
 int n,sum,in;
@@ -8559,11 +8559,11 @@ int main() {
 }
 ```
 
-## [P2566.cpp](./P2566.cpp):
+## [P2566](./P2566.cpp):
 ![](./P2566.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:40 2022
+//Created in Fri Nov 11 15:12:51 2022
 #include "iostream"
 
 using namespace std;
@@ -8586,11 +8586,11 @@ int main() {
 }
 ```
 
-## [P1709.cpp](./P1709.cpp):
+## [P1709](./P1709.cpp):
 ![](./P1709.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 using namespace std;
 int exp, exp1;
@@ -8606,11 +8606,11 @@ int main(){
 }
 ```
 
-## [P1721.cpp](./P1721.cpp):
+## [P1721](./P1721.cpp):
 ![](./P1721.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -8636,11 +8636,11 @@ int main(){
 }
 ```
 
-## [P1047.cpp](./P1047.cpp):
+## [P1047](./P1047.cpp):
 ![](./P1047.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:32 2022
 #include<iostream>
 using namespace std;
 long long d,sum;
@@ -8663,11 +8663,11 @@ int main(){
 }
 ```
 
-## [P1053.cpp](./P1053.cpp):
+## [P1053](./P1053.cpp):
 ![](./P1053.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:18 2022
+//Created in Fri Nov 11 15:12:32 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -8705,11 +8705,11 @@ int main(){
 }
 ```
 
-## [P3693.cpp](./P3693.cpp):
+## [P3693](./P3693.cpp):
 ![](./P3693.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:50 2022
+//Created in Fri Nov 11 15:13:00 2022
 #include "iostream"
 #include "cmath"
 
@@ -8746,11 +8746,11 @@ int main(){
 }
 ```
 
-## [P1084.cpp](./P1084.cpp):
+## [P1084](./P1084.cpp):
 ![](./P1084.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -8779,11 +8779,11 @@ int main(){
 }
 ```
 
-## [P1090.cpp](./P1090.cpp):
+## [P1090](./P1090.cpp):
 ![](./P1090.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:21 2022
+//Created in Fri Nov 11 15:12:36 2022
 #include <iostream>
 
 using namespace std;
@@ -8816,11 +8816,11 @@ int main(){
 }
 ```
 
-## [P1279.cpp](./P1279.cpp):
+## [P1279](./P1279.cpp):
 ![](./P1279.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -8853,11 +8853,11 @@ int main(){
 }
 ```
 
-## [P2016.cpp](./P2016.cpp):
+## [P2016](./P2016.cpp):
 ![](./P2016.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include <iostream>
 #include <sstream>
 
@@ -8910,11 +8910,11 @@ int main(){
 }
 ```
 
-## [P2059.cpp](./P2059.cpp):
+## [P2059](./P2059.cpp):
 ![](./P2059.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 using namespace std;
 int n, cnt;
@@ -8933,11 +8933,11 @@ int main(){
 }
 ```
 
-## [P1949.cpp](./P1949.cpp):
+## [P1949](./P1949.cpp):
 ![](./P1949.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:34 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include "iostream"
 #include "iomanip"
 using namespace std;
@@ -8952,11 +8952,11 @@ int main(){
 }
 ```
 
-## [P1008.cpp](./P1008.cpp):
+## [P1008](./P1008.cpp):
 ![](./P1008.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -8983,11 +8983,11 @@ int main(){
 }
 ```
 
-## [P1034.cpp](./P1034.cpp):
+## [P1034](./P1034.cpp):
 ![](./P1034.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -9003,11 +9003,11 @@ int main(){
 }
 ```
 
-## [P1020.cpp](./P1020.cpp):
+## [P1020](./P1020.cpp):
 ![](./P1020.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -9019,11 +9019,11 @@ int main(){
 }
 ```
 
-## [P3970.cpp](./P3970.cpp):
+## [P3970](./P3970.cpp):
 ![](./P3970.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:03 2022
 #include "iostream"
 using namespace std;
 int a,b,c;
@@ -9041,11 +9041,11 @@ int main(){
 }
 ```
 
-## [P2461.cpp](./P2461.cpp):
+## [P2461](./P2461.cpp):
 ![](./P2461.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 using namespace std;
 int n, m, a[99999], opt, l, r, add;
@@ -9080,11 +9080,11 @@ int main(){
 }
 ```
 
-## [P1626.cpp](./P1626.cpp):
+## [P1626](./P1626.cpp):
 ![](./P1626.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include "iostream"
 #include "algorithm"
 
@@ -9105,11 +9105,11 @@ int main() {
 }
 ```
 
-## [P3582.cpp](./P3582.cpp):
+## [P3582](./P3582.cpp):
 ![](./P3582.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:48 2022
+//Created in Fri Nov 11 15:12:57 2022
 #include<iostream>
 using namespace std;
 int n,x,y,in,sum,max_=-999999,min_=999999;
@@ -9138,11 +9138,11 @@ int main(){
 }
 ```
 
-## [P3568.cpp](./P3568.cpp):
+## [P3568](./P3568.cpp):
 ![](./P3568.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:47 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include<iostream>
 using namespace std;
 long long n,ans,ans1;
@@ -9158,11 +9158,11 @@ int main(){
 }
 ```
 
-## [P1155.cpp](./P1155.cpp):
+## [P1155](./P1155.cpp):
 ![](./P1155.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 using namespace std;
 long long n, a[999999];
@@ -9177,11 +9177,11 @@ int main(){
 }
 ```
 
-## [P1627.cpp](./P1627.cpp):
+## [P1627](./P1627.cpp):
 ![](./P1627.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 using namespace std;
 int k, cnt, ans;
@@ -9199,11 +9199,11 @@ int main(){
 }
 ```
 
-## [P1169.cpp](./P1169.cpp):
+## [P1169](./P1169.cpp):
 ![](./P1169.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:39 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -9218,11 +9218,11 @@ int main(){
 }
 ```
 
-## [P2460.cpp](./P2460.cpp):
+## [P2460](./P2460.cpp):
 ![](./P2460.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -9301,11 +9301,11 @@ int main(){
 }
 ```
 
-## [P3781.cpp](./P3781.cpp):
+## [P3781](./P3781.cpp):
 ![](./P3781.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include "iostream"
 using namespace std;
 long long n,ans;
@@ -9318,11 +9318,11 @@ int main(){
 }
 ```
 
-## [P3795.cpp](./P3795.cpp):
+## [P3795](./P3795.cpp):
 ![](./P3795.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include<iostream>
 using namespace std;
 int a,b;
@@ -9348,11 +9348,11 @@ int main(){
 }
 ```
 
-## [P1814.cpp](./P1814.cpp):
+## [P1814](./P1814.cpp):
 ![](./P1814.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include "iostream"
 
 using namespace std;
@@ -9399,11 +9399,11 @@ int main() {
 }
 ```
 
-## [P1800.cpp](./P1800.cpp):
+## [P1800](./P1800.cpp):
 ![](./P1800.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -9438,11 +9438,11 @@ int main(){
 }
 ```
 
-## [P3636.cpp](./P3636.cpp):
+## [P3636](./P3636.cpp):
 ![](./P3636.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -9466,11 +9466,11 @@ int main(){
 }
 ```
 
-## [P1021.cpp](./P1021.cpp):
+## [P1021](./P1021.cpp):
 ![](./P1021.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -9483,11 +9483,11 @@ int main(){
 }
 ```
 
-## [P1035.cpp](./P1035.cpp):
+## [P1035](./P1035.cpp):
 ![](./P1035.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9506,11 +9506,11 @@ int main(){
 }
 ```
 
-## [P1009.cpp](./P1009.cpp):
+## [P1009](./P1009.cpp):
 ![](./P1009.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:14 2022
+//Created in Fri Nov 11 15:12:28 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -9525,11 +9525,11 @@ int main(){
 }
 ```
 
-## [P2702.cpp](./P2702.cpp):
+## [P2702](./P2702.cpp):
 ![](./P2702.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include<iostream>
 #include<iomanip>
 #include<cmath>
@@ -9560,11 +9560,11 @@ int main(){
 }
 ```
 
-## [P1590.cpp](./P1590.cpp):
+## [P1590](./P1590.cpp):
 ![](./P1590.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9581,11 +9581,11 @@ int main(){
 }
 ```
 
-## [P3608.cpp](./P3608.cpp):
+## [P3608](./P3608.cpp):
 ![](./P3608.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:58 2022
 #include "iostream"
 
 using namespace std;
@@ -9614,11 +9614,11 @@ int main() {
 }
 ```
 
-## [P1023.cpp](./P1023.cpp):
+## [P1023](./P1023.cpp):
 ![](./P1023.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int in, act, time123, ans;
@@ -9634,11 +9634,11 @@ int main(){
 }
 ```
 
-## [P3620.cpp](./P3620.cpp):
+## [P3620](./P3620.cpp):
 ![](./P3620.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include<iostream>
 using namespace std;
 int n, x, ans[10];
@@ -9657,11 +9657,11 @@ int main(){
 }
 ```
 
-## [P1037.cpp](./P1037.cpp):
+## [P1037](./P1037.cpp):
 ![](./P1037.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9695,11 +9695,11 @@ int main(){
 }
 ```
 
-## [P3783.cpp](./P3783.cpp):
+## [P3783](./P3783.cpp):
 ![](./P3783.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:53 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -9723,11 +9723,11 @@ int main(){
 }
 ```
 
-## [P1194.cpp](./P1194.cpp):
+## [P1194](./P1194.cpp):
 ![](./P1194.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:39 2022
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #include "iostream"
@@ -9755,11 +9755,11 @@ int main(){
 }
 ```
 
-## [P3768.cpp](./P3768.cpp):
+## [P3768](./P3768.cpp):
 ![](./P3768.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:02 2022
 #include "iostream"
 #include "cmath"
 
@@ -9791,11 +9791,11 @@ int main(){
 }
 ```
 
-## [P1157.cpp](./P1157.cpp):
+## [P1157](./P1157.cpp):
 ![](./P1157.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:26 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -9810,11 +9810,11 @@ int main(){
 }
 ```
 
-## [P1631.cpp](./P1631.cpp):
+## [P1631](./P1631.cpp):
 ![](./P1631.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:31 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9844,11 +9844,11 @@ int main(){
 }
 ```
 
-## [P3595.cpp](./P3595.cpp):
+## [P3595](./P3595.cpp):
 ![](./P3595.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:48 2022
+//Created in Fri Nov 11 15:12:57 2022
 #include "iostream"
 using namespace std;
 int n,m;
@@ -9858,11 +9858,11 @@ int main(){
 }
 ```
 
-## [P3543.cpp](./P3543.cpp):
+## [P3543](./P3543.cpp):
 ![](./P3543.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:46 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include<iostream>
 using namespace std;
 int n=0,in=0;
@@ -9878,11 +9878,11 @@ int main(){
 }
 ```
 
-## [P3755.cpp](./P3755.cpp):
+## [P3755](./P3755.cpp):
 ![](./P3755.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:52 2022
+//Created in Fri Nov 11 15:13:01 2022
 #include "iostream"
 
 using namespace std;
@@ -9896,11 +9896,11 @@ int main() {
 }
 ```
 
-## [P2339.cpp](./P2339.cpp):
+## [P2339](./P2339.cpp):
 ![](./P2339.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 using namespace std;
 long long n, k;
@@ -9918,11 +9918,11 @@ int main(){
 }
 ```
 
-## [P2463.cpp](./P2463.cpp):
+## [P2463](./P2463.cpp):
 ![](./P2463.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include "iostream"
 using namespace std;
 bool p,t;
@@ -9956,11 +9956,11 @@ int main() {
 }
 ```
 
-## [P1036.cpp](./P1036.cpp):
+## [P1036](./P1036.cpp):
 ![](./P1036.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:17 2022
+//Created in Fri Nov 11 15:12:31 2022
 #include<iostream>
 using namespace std;
 long long n;
@@ -9986,11 +9986,11 @@ int main(){
 }
 ```
 
-## [P1022.cpp](./P1022.cpp):
+## [P1022](./P1022.cpp):
 ![](./P1022.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -10004,11 +10004,11 @@ int main(){
 }
 ```
 
-## [P3609.cpp](./P3609.cpp):
+## [P3609](./P3609.cpp):
 ![](./P3609.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:58 2022
 #include<iostream>
 using namespace std;
 long long a,b;
@@ -10029,11 +10029,11 @@ int main(){
 }
 ```
 
-## [P2271.cpp](./P2271.cpp):
+## [P2271](./P2271.cpp):
 ![](./P2271.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:49 2022
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -10061,11 +10061,11 @@ int main(){
 }
 ```
 
-## [P1963.cpp](./P1963.cpp):
+## [P1963](./P1963.cpp):
 ![](./P1963.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:35 2022
+//Created in Fri Nov 11 15:12:47 2022
 #include <iostream>
 using namespace std;
 int x, y, k, a, b, xi, yi;
@@ -10090,11 +10090,11 @@ int main(){
 }
 ```
 
-## [P1595.cpp](./P1595.cpp):
+## [P1595](./P1595.cpp):
 ![](./P1595.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include "iostream"
 using namespace std;
 int n,x,y;
@@ -10108,11 +10108,11 @@ int main(){
 }
 ```
 
-## [P3382.cpp](./P3382.cpp):
+## [P3382](./P3382.cpp):
 ![](./P3382.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:42 2022
+//Created in Fri Nov 11 15:12:53 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10142,11 +10142,11 @@ int main(){
 }
 ```
 
-## [P1026.cpp](./P1026.cpp):
+## [P1026](./P1026.cpp):
 ![](./P1026.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10169,11 +10169,11 @@ int main(){
 }
 ```
 
-## [P1032.cpp](./P1032.cpp):
+## [P1032](./P1032.cpp):
 ![](./P1032.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 #include<cmath>
 long long l, r;
@@ -10192,11 +10192,11 @@ int main(){
 }
 ```
 
-## [P3619.cpp](./P3619.cpp):
+## [P3619](./P3619.cpp):
 ![](./P3619.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include "iostream"
 
 using namespace std;
@@ -10223,11 +10223,11 @@ int main() {
 }
 ```
 
-## [P2467.cpp](./P2467.cpp):
+## [P2467](./P2467.cpp):
 ![](./P2467.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 using namespace std;
 int x, y, cnt;
@@ -10241,11 +10241,11 @@ int main(){
 }
 ```
 
-## [P3584.cpp](./P3584.cpp):
+## [P3584](./P3584.cpp):
 ![](./P3584.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:48 2022
+//Created in Fri Nov 11 15:12:57 2022
 #include<iostream>
 using namespace std;
 unsigned long long n, p, ans = 0, jc = 1;
@@ -10264,11 +10264,11 @@ int main(){
 }
 ```
 
-## [P1387.cpp](./P1387.cpp):
+## [P1387](./P1387.cpp):
 ![](./P1387.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 using namespace std;
 int n, x, y;
@@ -10302,11 +10302,11 @@ int main(){
 }
 ```
 
-## [P2116.cpp](./P2116.cpp):
+## [P2116](./P2116.cpp):
 ![](./P2116.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:36 2022
+//Created in Fri Nov 11 15:12:48 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10333,11 +10333,11 @@ int main(){
 }
 ```
 
-## [P3552.cpp](./P3552.cpp):
+## [P3552](./P3552.cpp):
 ![](./P3552.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:46 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -10368,11 +10368,11 @@ int main(){
 }
 ```
 
-## [P1386.cpp](./P1386.cpp):
+## [P1386](./P1386.cpp):
 ![](./P1386.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:27 2022
+//Created in Fri Nov 11 15:12:40 2022
 #include<iostream>
 using namespace std;
 string f(string a, string b){
@@ -10396,11 +10396,11 @@ int main(){
 }
 ```
 
-## [P1609.cpp](./P1609.cpp):
+## [P1609](./P1609.cpp):
 ![](./P1609.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:42 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -10413,11 +10413,11 @@ int main(){
 }
 ```
 
-## [P2466.cpp](./P2466.cpp):
+## [P2466](./P2466.cpp):
 ![](./P2466.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 using namespace std;
 int n, in, len;
@@ -10433,11 +10433,11 @@ int main(){
 }
 ```
 
-## [P1153.cpp](./P1153.cpp):
+## [P1153](./P1153.cpp):
 ![](./P1153.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:25 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 using namespace std;
 long long n, m, a=1, b=1, c=1;
@@ -10453,11 +10453,11 @@ int main(){
 }
 ```
 
-## [P1806.cpp](./P1806.cpp):
+## [P1806](./P1806.cpp):
 ![](./P1806.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10487,11 +10487,11 @@ int main(){
 }
 ```
 
-## [P3618.cpp](./P3618.cpp):
+## [P3618](./P3618.cpp):
 ![](./P3618.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:58 2022
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -10506,11 +10506,11 @@ int main(){
 }
 ```
 
-## [P1033.cpp](./P1033.cpp):
+## [P1033](./P1033.cpp):
 ![](./P1033.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 using namespace std;
 int k;
@@ -10530,11 +10530,11 @@ int main(){
 }
 ```
 
-## [P1027.cpp](./P1027.cpp):
+## [P1027](./P1027.cpp):
 ![](./P1027.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 using namespace std;
 int n, all[10085];
@@ -10553,11 +10553,11 @@ int main(){
 }
 ```
 
-## [P2710.cpp](./P2710.cpp):
+## [P2710](./P2710.cpp):
 ![](./P2710.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -10567,11 +10567,11 @@ int main(){
 }
 ```
 
-## [P1596.cpp](./P1596.cpp):
+## [P1596](./P1596.cpp):
 ![](./P1596.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 using namespace std;
 int x,y,n,price,ans;
@@ -10585,11 +10585,11 @@ int main(){
 }
 ```
 
-## [P2706.cpp](./P2706.cpp):
+## [P2706](./P2706.cpp):
 ![](./P2706.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:41 2022
+//Created in Fri Nov 11 15:12:52 2022
 #include "iostream"
 
 using namespace std;
@@ -10619,11 +10619,11 @@ int main(){
 }
 ```
 
-## [P1794.cpp](./P1794.cpp):
+## [P1794](./P1794.cpp):
 ![](./P1794.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include<iostream>
 using namespace std;
 int n,m,cnt;
@@ -10642,11 +10642,11 @@ int main(){
 }
 ```
 
-## [P1757.cpp](./P1757.cpp):
+## [P1757](./P1757.cpp):
 ![](./P1757.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include<iostream>
 #include<cmath>
 #pragma GCC optimize(2)//火车头
@@ -10716,11 +10716,11 @@ int main(){
 }
 ```
 
-## [P1031.cpp](./P1031.cpp):
+## [P1031](./P1031.cpp):
 ![](./P1031.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -10732,11 +10732,11 @@ int main(){
 }
 ```
 
-## [P1025.cpp](./P1025.cpp):
+## [P1025](./P1025.cpp):
 ![](./P1025.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10755,11 +10755,11 @@ int main(){
 }
 ```
 
-## [P1019.cpp](./P1019.cpp):
+## [P1019](./P1019.cpp):
 ![](./P1019.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -10777,11 +10777,11 @@ int main(){
 }
 ```
 
-## [P1804.cpp](./P1804.cpp):
+## [P1804](./P1804.cpp):
 ![](./P1804.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include "iostream"
 
 using namespace std;
@@ -10804,11 +10804,11 @@ int main() {
 }
 ```
 
-## [P1623.cpp](./P1623.cpp):
+## [P1623](./P1623.cpp):
 ![](./P1623.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:30 2022
+//Created in Fri Nov 11 15:12:43 2022
 #include<iostream>
 using namespace std;
 string str;
@@ -10835,11 +10835,11 @@ int main(){
 }
 ```
 
-## [P1145.cpp](./P1145.cpp):
+## [P1145](./P1145.cpp):
 ![](./P1145.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:25 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 using namespace std;
 int n, k, tmp, cnt, a;
@@ -10861,11 +10861,11 @@ int main(){
 }
 ```
 
-## [P2464.cpp](./P2464.cpp):
+## [P2464](./P2464.cpp):
 ![](./P2464.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include "iostream"
 #include "cmath"
 
@@ -10881,11 +10881,11 @@ int main(){
 }
 ```
 
-## [P3578.cpp](./P3578.cpp):
+## [P3578](./P3578.cpp):
 ![](./P3578.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:48 2022
+//Created in Fri Nov 11 15:12:57 2022
 #include<iostream>
 using namespace std;
 #define int long long
@@ -10923,11 +10923,11 @@ signed main(){
 }
 ```
 
-## [P3545.cpp](./P3545.cpp):
+## [P3545](./P3545.cpp):
 ![](./P3545.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:46 2022
+//Created in Fri Nov 11 15:12:56 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -10945,11 +10945,11 @@ int main(){
 }
 ```
 
-## [P2465.cpp](./P2465.cpp):
+## [P2465](./P2465.cpp):
 ![](./P2465.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:39 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 using namespace std;
 long long n, in, x, y, cnt;
@@ -10965,11 +10965,11 @@ int main(){
 }
 ```
 
-## [P2459.cpp](./P2459.cpp):
+## [P2459](./P2459.cpp):
 ![](./P2459.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:38 2022
+//Created in Fri Nov 11 15:12:50 2022
 #include<iostream>
 using namespace std;
 string in;
@@ -10990,11 +10990,11 @@ int main(){
 }
 ```
 
-## [P1150.cpp](./P1150.cpp):
+## [P1150](./P1150.cpp):
 ![](./P1150.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:25 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include<iostream>
 #include<cstring>
 #define sz 3
@@ -11048,11 +11048,11 @@ int main() {
 }
 ```
 
-## [P1144.cpp](./P1144.cpp):
+## [P1144](./P1144.cpp):
 ![](./P1144.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:25 2022
+//Created in Fri Nov 11 15:12:38 2022
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -11092,11 +11092,11 @@ int main(){
 }
 ```
 
-## [P1018.cpp](./P1018.cpp):
+## [P1018](./P1018.cpp):
 ![](./P1018.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:29 2022
 #include<iostream>
 using namespace std;
 int main(){
@@ -11108,11 +11108,11 @@ int main(){
 }
 ```
 
-## [P3633.cpp](./P3633.cpp):
+## [P3633](./P3633.cpp):
 ![](./P3633.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:49 2022
+//Created in Fri Nov 11 15:12:59 2022
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -11145,11 +11145,11 @@ int main(){
 }
 ```
 
-## [P1024.cpp](./P1024.cpp):
+## [P1024](./P1024.cpp):
 ![](./P1024.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:15 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 using namespace std;
 int sum, sum2;
@@ -11171,11 +11171,11 @@ int main(){
 }
 ```
 
-## [P1030.cpp](./P1030.cpp):
+## [P1030](./P1030.cpp):
 ![](./P1030.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:16 2022
+//Created in Fri Nov 11 15:12:30 2022
 #include<iostream>
 using namespace std;
 int n;
@@ -11185,11 +11185,11 @@ int main(){
 }
 ```
 
-## [P1795.cpp](./P1795.cpp):
+## [P1795](./P1795.cpp):
 ![](./P1795.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:32 2022
+//Created in Fri Nov 11 15:12:44 2022
 #include<iostream>
 using namespace std;
 bool p=false;
@@ -11210,11 +11210,11 @@ int main(){
 }
 ```
 
-## [P1597.cpp](./P1597.cpp):
+## [P1597](./P1597.cpp):
 ![](./P1597.png)
 ```cpp
 
-//Created in Fri Nov 11 15:02:29 2022
+//Created in Fri Nov 11 15:12:41 2022
 #include<iostream>
 #include<cmath>
 using namespace std;

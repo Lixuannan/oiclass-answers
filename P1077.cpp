@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 15:02:20 2022
+//Created in Fri Nov 11 15:12:35 2022
 #include<iostream>
 using namespace std;
 int cnt, ind, strLen, striInd, striLen;
