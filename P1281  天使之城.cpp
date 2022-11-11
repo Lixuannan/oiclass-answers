@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 10:51:10 2022
+//Created in Fri Nov 11 11:49:27 2022
 #include<iostream>
 #include<stack>
 #include<vector>
@@ -27,7 +27,7 @@ int main(){
 			tmp.pop();
 		}
 	}
-	cout << "Yes\n";
+	cout << "Yes" << endl;
 	for (int i=0; i <= v.size() - 1; i++){
 		cout << v[i] << endl;
 	}

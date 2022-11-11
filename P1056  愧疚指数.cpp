@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 10:52:01 2022
+//Created in Fri Nov 11 11:49:16 2022
 #include<iostream>
 using namespace std;
 int n, a[121], in[200001], cnt[200001], cntn;

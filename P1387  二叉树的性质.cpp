@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 10:51:12 2022
+//Created in Fri Nov 11 11:49:27 2022
 #include<iostream>
 using namespace std;
 int n, x, y;
@@ -8,7 +8,7 @@ int main(){
 		cin >> x >> y;
 		int l, r;
 		l = r = 0;
-		cout << "Scenario #" << i << ":\n";
+		cout << "Scenario #" << i << ":" << endl;
 		while (x != 1 || y != 1){
 			// cout << x << " " << y << endl;
 			if (x < y){
@@ -27,6 +27,6 @@ int main(){
 				}
 			}
 		}
-		cout << l << " " << r << "\n\n";
+		cout << l << " " << r << endl;
 	}
 }

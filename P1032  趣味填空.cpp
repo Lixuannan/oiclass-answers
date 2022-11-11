@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 10:51:59 2022
+//Created in Fri Nov 11 11:49:14 2022
 #include<iostream>
 #include<cmath>
 long long l, r;

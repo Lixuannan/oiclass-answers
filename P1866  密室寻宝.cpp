@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 10:51:26 2022
+//Created in Fri Nov 11 11:49:34 2022
 #include<iostream>
 using namespace std;
 unsigned short p, q, n, cnt;
@@ -13,10 +13,10 @@ int main(){
 		n >>= 1;
 	}
 	if (cnt >= 2){
-		cout << "\nYes";
+		cout << endl << "Yes";
 	}else if (cnt == 1){
-		cout << "\nNO";
+		cout << endl << "NO";
 	}else{
-		cout << "0\nNO";
+		cout << "0" << endl << "NO";
 	}
 }

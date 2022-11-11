@@ -1,4 +1,4 @@
-//Created in Fri Nov 11 10:52:23 2022
+//Created in Fri Nov 11 11:49:40 2022
 #include<iostream>
 using namespace std;
 int n,k,power=1;
