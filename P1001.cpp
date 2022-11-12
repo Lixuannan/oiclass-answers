@@ -1,5 +1,5 @@
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:28 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 n = int(input())
 a = 8
 b = (n - 2) * 12

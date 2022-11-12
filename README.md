@@ -5,8 +5,8 @@
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1954.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 unsigned int n, x, y;
@@ -23,8 +23,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1798.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 
@@ -66,8 +66,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1940.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 #include<algorithm>
@@ -115,8 +115,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1029.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -146,8 +146,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1997.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -167,8 +167,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4145.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:56 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:16 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -182,8 +182,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1015.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -202,8 +202,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1001.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:28 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 n = int(input())
 a = 8
 b = (n - 2) * 12
@@ -215,8 +215,8 @@ print(str(a) + "\n" + str(b) + "\n" + str(c))
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1149.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:40 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,a=1,b=1,c=1;
@@ -235,8 +235,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2468.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, l, r, in;
@@ -258,8 +258,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3776.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:14 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n, sum = 1, cnt = 1;
@@ -277,8 +277,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1607.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, tb, tw;
@@ -296,8 +296,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1388.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;int n;string str;string tree(string s){string ans;if(s.length()<=1){if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}else{ans+=tree(s.substr(0,s.length()/2));ans+=tree(s.substr(s.length()/2,s.npos));if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}return ans;}int main(){cin>>n>>str;cout<<tree(str);}
 ```
@@ -306,8 +306,8 @@ using namespace std;int n;string str;string tree(string s){string ans;if(s.lengt
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3574.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:48 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:05 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -332,8 +332,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1612.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,m,sum;
@@ -352,8 +352,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1174.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:42 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 
@@ -379,8 +379,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3763.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:13 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n, sum, in, min_;
@@ -401,8 +401,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3777.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:14 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -438,8 +438,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2469.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, cnt, a[99999];
@@ -469,8 +469,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1606.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -484,8 +484,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1148.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long a=1,b=1,c=1,in;
@@ -504,8 +504,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1000.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:17 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:28 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -525,8 +525,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1014.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -546,8 +546,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2253.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -589,8 +589,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1028.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -619,8 +619,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4150.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:57 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:17 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -640,8 +640,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2051.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:38 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -668,8 +668,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1599.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,sum,max_,min_ = 999999;
@@ -688,8 +688,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4146.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:57 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:16 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n, jg, yx, in;
@@ -712,8 +712,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2251.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -744,8 +744,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1002.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:28 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -762,8 +762,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1016.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -777,8 +777,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1189.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:42 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 string str;
@@ -818,8 +818,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1837.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -847,8 +847,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3761.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:54 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:13 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -865,8 +865,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1604.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 unsigned long long n,m;
@@ -880,8 +880,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3775.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:13 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 n = int(input())
 if n % 3 == 0:
     print(n // 3)
@@ -893,8 +893,8 @@ else:
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1605.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -911,8 +911,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1163.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:41 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 bool p[101][101][101];
@@ -956,8 +956,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1611.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,m,sum;
@@ -985,8 +985,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2330.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a[99999];
@@ -1015,8 +1015,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1017.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1037,8 +1037,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1003.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:28 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -1055,8 +1055,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1995.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n,minn,maxn;
@@ -1082,8 +1082,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4153.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:57 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:17 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -1099,8 +1099,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3628.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:50 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:07 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,ans;
@@ -1124,8 +1124,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1598.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1142,8 +1142,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3610.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:07 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -1180,8 +1180,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1007.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:29 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1200,8 +1200,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1013.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -1221,8 +1221,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3604.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:06 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "iomanip"
 
@@ -1253,12 +1253,57 @@ int main(){
 }
 ```
 
+## P1167:
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1167.png)
+```cpp
+
+//Created in Sat Nov 12 11:58:42 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
+#include <iostream>
+#include <cstring>
+
+using namespace std;
+int h, w, n, m;
+int a[30][30];
+char ch;
+
+int dfs(int x, int y) {
+    if (a[x][y] == 0) {
+        return 0;
+    }
+    a[x][y] = 0;
+    return 1 + dfs(x - 1, y) + dfs(x + 1, y) + dfs(x, y - 1) + dfs(x, y + 1);
+}
+
+int main() {
+    while (cin >> w >> h) {
+        if (h == 0 && w == 0) {
+            return 0;
+        }
+        memset(a, 0, sizeof a);
+        for (int i = 1; i <= h; i++) {
+            for (int j = 1; j <= w; j++) {
+                cin >> ch;
+                if (ch == '.' || ch == '@'){
+                    a[i][j] = 1;
+                    if (ch == '@'){
+                        n = i;
+                        m = j;
+                    }
+                }
+            }
+        }
+        cout << dfs(n, m) << endl;
+    }
+}
+```
+
 ## P1601:
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1601.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1273,8 +1318,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3567.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:48 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:04 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -1303,8 +1348,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3759.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:54 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:13 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long cnt, a, b;
@@ -1327,8 +1372,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1166.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:42 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 #include<cstring>
@@ -1376,8 +1421,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1600.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,t,cnt;
@@ -1400,8 +1445,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1990.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -1424,8 +1469,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1012.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1449,8 +1494,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1006.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:29 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -1471,8 +1516,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2043.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long n, t, s[9999999], a[9999999], ans[3], maxn;
@@ -1504,8 +1549,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1562.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, s[1001][1001], a[1001];
@@ -1530,8 +1575,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1010.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1550,8 +1595,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1004.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:28 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -1568,8 +1613,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1038.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, m, a;
@@ -1588,8 +1633,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1831.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -1623,8 +1668,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1602.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int t,a,b,c,d,e,f;
@@ -1641,8 +1686,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1164.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:41 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, s;
@@ -1667,8 +1712,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3767.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:13 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int a, b, c, d, e, f;
@@ -1702,8 +1747,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1170.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:42 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int v, n, a[99999999];
@@ -1728,8 +1773,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1158.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:41 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #pragma GCC optimize(3)
 #pragma GCC target("avx")
 #pragma GCC optimize("Ofast")
@@ -1802,8 +1847,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3571.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:48 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:04 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int red, idx, in, ans;
@@ -1826,8 +1871,8 @@ int main()
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2109.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:38 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 #include<algorithm>
@@ -1920,8 +1965,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3570.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:48 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:04 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a, b, xmax, xmin = 99999, ymax, ymin = 99999;
@@ -1950,8 +1995,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2108.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:38 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -1987,8 +2032,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1603.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2017,8 +2062,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1165.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:41 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2052,8 +2097,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3941.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:56 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:15 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int in, minA = 999999, minB = 999999;
@@ -2074,8 +2119,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1039.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int a, b, c, d, e, f;
@@ -2110,8 +2155,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1005.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:29 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -2129,8 +2174,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1011.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -2149,8 +2194,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1561.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long a, b;
@@ -2169,8 +2214,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3463.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:59 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -2189,8 +2234,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1937.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
@@ -2275,8 +2320,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2580.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a1, cnt, a2, b1, b2;
@@ -2299,8 +2344,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1089.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -2373,8 +2418,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2594.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -2406,8 +2451,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2219.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:53 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -2425,8 +2470,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1076.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 
@@ -2453,8 +2498,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1062.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int r, c, n, in, a[102][102], cnt = 1;
@@ -2497,8 +2542,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4046.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:56 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:15 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long t, n, a[120];
@@ -2535,8 +2580,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3715.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:53 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:12 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -2568,8 +2613,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1116.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:27 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 
@@ -2605,8 +2650,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3701.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:10 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -2625,8 +2670,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2379.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 using namespace std;
@@ -2650,8 +2695,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2184.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:53 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -2683,8 +2728,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3700.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:10 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 #include "algorithm"
@@ -2714,8 +2759,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2378.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a[300001], maxn;
@@ -2750,8 +2795,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1881.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int x, y, i, cnt, xll, xur, yll, yur;
@@ -2781,8 +2826,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1063.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, m, k, cnt, maxn;
@@ -2818,8 +2863,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2218.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:39 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:52 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -2845,8 +2890,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1077.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int cnt, ind, strLen, striInd, striLen;
@@ -2885,8 +2930,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3648.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:51 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:09 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int ans,n,m;
@@ -2903,8 +2948,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1288.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -2950,8 +2995,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1277.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<queue>
 using namespace std;
@@ -2980,8 +3025,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2583.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -3007,8 +3052,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1049.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -3092,8 +3137,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3138.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:59 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace  std;
 int n, ans, i1 = 1, i2 = 2, i3;
@@ -3115,8 +3160,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1061.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int b, g, x, y, n, m, cnt, xl[5002], yl[5002]; 
@@ -3164,8 +3209,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1075.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 char a[102][102];
@@ -3222,8 +3267,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2385.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n[7] = {0, 1, 2, 3, 4, 5, 6};
@@ -3302,8 +3347,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1115.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:26 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3326,8 +3371,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3702.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:11 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -3344,8 +3389,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3716.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:53 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:12 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -3369,8 +3414,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3528.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -3394,8 +3439,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3500.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:01 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "algorithm"
 
@@ -3420,8 +3465,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3514.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,score,target,timein,rtime;
@@ -3443,8 +3488,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3515.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long x,ans=1;
@@ -3463,8 +3508,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3501.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:01 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long x,y,z;
@@ -3483,8 +3528,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3529.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 string f(int n){
@@ -3504,8 +3549,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3717.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:53 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:12 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -3519,8 +3564,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3703.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:11 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n,xin,score;
@@ -3541,8 +3586,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4044.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:56 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:15 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a[999999], b[999999];
@@ -3570,8 +3615,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2569.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,k,power=1;
@@ -3589,8 +3634,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1060.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, m, a[1000][1000];
@@ -3614,8 +3659,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1048.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 #include "cmath"
@@ -3655,8 +3700,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3139.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:59 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -3708,8 +3753,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3688.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:51 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:09 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -3732,8 +3777,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1276.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:42 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3757,8 +3802,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2757.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 
 using namespace std;
@@ -3779,8 +3824,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1500.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -3813,8 +3858,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2586.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int a[5][5], n, m;
@@ -3849,8 +3894,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3698.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:10 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -3871,8 +3916,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1064.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -3926,8 +3971,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2579.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "iomanip"
 
@@ -3957,8 +4002,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1070.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, inde;
@@ -3987,8 +4032,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1058.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, k, cnt, a[999999];
@@ -4010,8 +4055,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3707.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:53 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:11 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -4033,8 +4078,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P7004.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:57 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:17 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
@@ -4104,8 +4149,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3504.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:01 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -4130,8 +4175,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2356.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, in, ans;
@@ -4149,8 +4194,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2430.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<stack>
 #include<iomanip>
@@ -4189,8 +4234,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1139.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4221,8 +4266,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1663.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -4267,8 +4312,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1105.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 
@@ -4301,8 +4346,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3706.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:53 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:11 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -4324,8 +4369,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1850.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cstring>
 
@@ -4361,8 +4406,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2381.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<deque>
 using namespace std;
@@ -4398,8 +4443,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1878.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -4424,8 +4469,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1059.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 #include<cstring>
@@ -4480,8 +4525,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1071.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 
 using namespace std;
@@ -4516,8 +4561,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1065.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -4548,8 +4593,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3458.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:59 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long x;
@@ -4563,8 +4608,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2752.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -4589,8 +4634,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3464.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:00 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -4609,8 +4654,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2008.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -4636,8 +4681,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1501.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -4661,8 +4706,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P5001.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:57 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:17 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 
@@ -4679,8 +4724,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1073.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -4718,8 +4763,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1067.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -4754,8 +4799,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2220.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, n0, n5;
@@ -4791,8 +4836,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3710.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:53 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:12 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4823,8 +4868,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1107.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4856,8 +4901,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1113.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:26 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -4884,8 +4929,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3704.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:53 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:11 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -4905,8 +4950,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2340.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;
@@ -4929,8 +4974,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3506.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:01 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, k, in, sum, maxn;
@@ -4956,8 +5001,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3275.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:26 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -5008,8 +5053,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3513.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -5023,8 +5068,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4056.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:56 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:16 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -5048,8 +5093,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1112.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:26 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5077,8 +5122,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1106.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 
@@ -5113,8 +5158,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1847.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5139,8 +5184,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3881.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:56 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:15 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 #include<sstream>
@@ -5182,8 +5227,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2221.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int a,b,c;
@@ -5207,8 +5252,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1933.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -5226,8 +5271,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3498.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:00 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -5251,8 +5296,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2204.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:53 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a[9999][9999], s[9999][9999], cnt[252];
@@ -5295,8 +5340,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2562.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -5329,8 +5374,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2576.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5371,8 +5416,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1057.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a[121], in, cnt;
@@ -5394,8 +5439,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1043.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5422,8 +5467,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1725.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 //#include <iostream>
 //
 //using namespace std;
@@ -5600,8 +5645,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3708.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:53 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:12 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int m,t,u,f,d,in,time_,lengh;
@@ -5642,8 +5687,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2172.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:39 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:52 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "iomanip"
 
@@ -5661,8 +5706,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3537.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -5677,8 +5722,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1136.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -5703,8 +5748,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3709.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:09 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int x, a[9999], b[9999], n;
@@ -5730,8 +5775,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1042.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -5754,8 +5799,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3133.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long a,b,k,w,ans;
@@ -5777,8 +5822,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1724.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long in;
@@ -5816,8 +5861,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3641.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:51 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:08 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "algorithm"
 
@@ -5847,8 +5892,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1056.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a[121], in[200001], cnt[200001], cntn;
@@ -5875,8 +5920,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2563.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 bool p;
@@ -5907,8 +5952,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1081.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -5943,8 +5988,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1095.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 string ain, bin;
@@ -5982,8 +6027,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1917.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int m, sum, cnt;
@@ -6005,8 +6050,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2749.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6029,8 +6074,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3496.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:00 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -6049,8 +6094,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1281.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<stack>
 #include<vector>
@@ -6090,8 +6135,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2561.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n,cnt,h,in;
@@ -6111,8 +6156,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1068.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -6152,8 +6197,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1040.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -6179,8 +6224,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1054.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 #include "algorithm"
@@ -6211,8 +6256,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1849.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, maxRp;
@@ -6256,8 +6301,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1685.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -6275,8 +6320,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1108.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:26 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -6320,8 +6365,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1134.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long cnt, n, c1, c5, c10, c50, c100, c500;
@@ -6357,8 +6402,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1120.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:27 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int t, x, y, cnt;
@@ -6430,8 +6475,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2429.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:38 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n, ans = 1;
@@ -6448,8 +6493,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2171.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:39 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:52 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -6466,8 +6511,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3509.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace  std;
 int n, m, t, ans;
@@ -6486,8 +6531,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3534.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -6539,8 +6584,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3722.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:54 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:12 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -6616,8 +6661,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1109.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:26 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -6643,8 +6688,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3093.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -6670,8 +6715,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1848.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int ans;
@@ -6695,8 +6740,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1860.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -6718,8 +6763,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3642.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:51 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:08 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -6739,8 +6784,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1055.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:23 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int a[9999999];
@@ -6763,8 +6808,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1041.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 
@@ -6796,8 +6841,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1069.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:35 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -6838,8 +6883,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2574.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 #include <cmath>
 
@@ -6880,8 +6925,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1082.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int maxl;
@@ -6910,8 +6955,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1900.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int in, n, r;
@@ -6934,8 +6979,8 @@ int  main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3497.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:00 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -6956,8 +7001,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3493.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:00 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -6983,8 +7028,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3487.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -6996,8 +7041,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1509.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int a[10],in,cnt;
@@ -7018,8 +7063,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3691.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:09 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 
@@ -7044,8 +7089,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1938.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -7068,8 +7113,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1092.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7095,8 +7140,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1045.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -7110,8 +7155,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3134.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:59 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "iomanip"
 
@@ -7154,8 +7199,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3120.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 
@@ -7176,8 +7221,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1051.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -7204,8 +7249,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3646.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:51 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:08 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -7219,8 +7264,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2558.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -7241,8 +7286,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2570.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,sum;
@@ -7267,8 +7312,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2564.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, cnt, m, in, a[101], b[101];
@@ -7302,8 +7347,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1694.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -7358,8 +7403,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3901.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:56 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:15 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -7396,8 +7441,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1131.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 using namespace std;
 int k, n, t;
@@ -7418,8 +7463,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1643.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int g(int n){
@@ -7440,8 +7485,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1125.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 
@@ -7474,8 +7519,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1119.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:27 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, ans[8], days[13] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}, day = 0;
@@ -7508,8 +7553,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3518.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -7529,8 +7574,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2175.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:39 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:53 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7559,8 +7604,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3519.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -7593,8 +7638,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3525.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:46 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -7608,8 +7653,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1118.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:27 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -7694,8 +7739,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1124.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:27 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:38 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cstring"
 
@@ -7736,8 +7781,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2565.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int maxLength(int n){
@@ -7766,8 +7811,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1078.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:24 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 char str[257];
@@ -7787,8 +7832,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2559.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, in, a[101], m, ans;
@@ -7819,8 +7864,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1044.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, in, in2, gcd;
@@ -7851,8 +7896,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3690.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:09 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -7876,8 +7921,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1087.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -7920,8 +7965,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1508.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:31 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int l,m,in1,in2,cnt,sum;
@@ -7947,8 +7992,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2001.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 #include <cmath>
 
@@ -7998,8 +8043,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3492.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:00 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -8033,8 +8078,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3490.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:00 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 
 using namespace std;
@@ -8062,8 +8107,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1278.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 bool a[1001];
@@ -8095,8 +8140,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1091.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 #include <cmath>
 
@@ -8158,8 +8203,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1052.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cstring>
 
@@ -8198,8 +8243,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3137.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:59 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 unsigned long long n, ans;
@@ -8214,8 +8259,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1046.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int a, n, w;
@@ -8237,8 +8282,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1708.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int a,b,h,t,p;
@@ -8261,8 +8306,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2573.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 
 using namespace std;
@@ -8291,8 +8336,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1697.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8315,8 +8360,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1126.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, a[9999999], cnt;
@@ -8346,8 +8391,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3731.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:54 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:13 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "iomanip"
 #include "cmath"
@@ -8365,8 +8410,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1654.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 #include <cstring>
 
@@ -8446,8 +8491,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3719.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:54 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:12 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -8468,8 +8513,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3533.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 // 代码如下
 #include<iostream>
 using namespace std;
@@ -8493,8 +8538,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3527.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -8526,8 +8571,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2177.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:53 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<queue>
 #define int long long
@@ -8568,8 +8613,8 @@ signed main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3526.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:02 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -8612,8 +8657,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3532.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -8630,8 +8675,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3718.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:54 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:12 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -8660,8 +8705,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1133.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long n, a[9999999], ans;
@@ -8681,8 +8726,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1866.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:36 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:49 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 unsigned short p, q, n, cnt;
@@ -8710,8 +8755,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1696.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -8731,8 +8776,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2572.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:57 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n,sum,in;
@@ -8750,8 +8795,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2566.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:42 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:56 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -8778,8 +8823,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1709.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int exp, exp1;
@@ -8799,8 +8844,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1721.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -8830,8 +8875,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1047.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:33 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long d,sum;
@@ -8858,8 +8903,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1053.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:22 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:34 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -8901,8 +8946,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3693.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:52 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:09 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -8943,8 +8988,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1084.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:36 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -8977,8 +9022,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1090.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:25 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:37 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 
 using namespace std;
@@ -9015,8 +9060,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1279.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -9053,8 +9098,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2016.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 #include <sstream>
 
@@ -9111,8 +9156,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2059.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:38 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:51 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, cnt;
@@ -9135,8 +9180,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1949.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "iomanip"
 using namespace std;
@@ -9155,8 +9200,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1008.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:29 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -9187,8 +9232,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1034.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -9208,8 +9253,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1020.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -9225,8 +9270,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3970.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:56 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:15 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int a,b,c;
@@ -9248,8 +9293,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2461.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, m, a[99999], opt, l, r, add;
@@ -9288,8 +9333,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1626.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "algorithm"
 
@@ -9314,8 +9359,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3582.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:05 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,x,y,in,sum,max_=-999999,min_=999999;
@@ -9348,8 +9393,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3568.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:48 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:04 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long n,ans,ans1;
@@ -9369,8 +9414,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1155.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:40 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long n, a[999999];
@@ -9389,8 +9434,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1627.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int k, cnt, ans;
@@ -9412,8 +9457,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1169.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:42 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -9432,8 +9477,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2460.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -9516,8 +9561,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3781.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:14 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 long long n,ans;
@@ -9534,8 +9579,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3795.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:14 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int a,b;
@@ -9565,8 +9610,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1814.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -9617,8 +9662,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1800.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -9657,8 +9702,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3636.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:50 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:08 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -9686,8 +9731,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1021.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -9704,8 +9749,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1035.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9728,8 +9773,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1009.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:18 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:30 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -9748,8 +9793,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2702.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<iomanip>
 #include<cmath>
@@ -9784,8 +9829,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1590.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:44 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9806,8 +9851,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3608.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:06 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -9840,8 +9885,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1023.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int in, act, time123, ans;
@@ -9861,8 +9906,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3620.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:50 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:07 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, x, ans[10];
@@ -9885,8 +9930,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1037.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -9924,8 +9969,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3783.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:14 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #define ll long long
 using namespace std;
@@ -9953,8 +9998,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1194.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:42 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #include "iostream"
@@ -9986,8 +10031,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3768.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:55 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:13 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -10023,8 +10068,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1157.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:40 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -10043,8 +10088,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1631.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:47 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10078,8 +10123,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3595.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:06 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n,m;
@@ -10093,8 +10138,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3543.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n=0,in=0;
@@ -10114,8 +10159,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3755.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:54 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:13 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -10133,8 +10178,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2339.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long n, k;
@@ -10156,8 +10201,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2463.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 bool p,t;
@@ -10195,8 +10240,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1036.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long n;
@@ -10226,8 +10271,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1022.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -10245,8 +10290,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3609.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:06 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long a,b;
@@ -10271,8 +10316,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2271.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:40 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:54 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<stack>
 using namespace std;
@@ -10304,8 +10349,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1963.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:37 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:50 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 using namespace std;
 int x, y, k, a, b, xi, yi;
@@ -10334,8 +10379,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1595.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 using namespace std;
 int n,x,y;
@@ -10353,8 +10398,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3382.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:45 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:59 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10388,8 +10433,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1026.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10416,8 +10461,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1032.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 long long l, r;
@@ -10440,8 +10485,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3619.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:07 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -10472,8 +10517,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2467.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int x, y, cnt;
@@ -10491,8 +10536,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3584.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:05 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 unsigned long long n, p, ans = 0, jc = 1;
@@ -10515,8 +10560,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1387.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, x, y;
@@ -10554,8 +10599,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2116.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:39 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:52 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10586,8 +10631,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3552.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<sstream>
 using namespace std;
@@ -10622,8 +10667,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1386.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:30 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:43 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 string f(string a, string b){
@@ -10651,8 +10696,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1609.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -10669,8 +10714,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2466.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, in, len;
@@ -10690,8 +10735,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1153.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:40 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long n, m, a=1, b=1, c=1;
@@ -10711,8 +10756,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1806.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -10746,8 +10791,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3618.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:49 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:07 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -10766,8 +10811,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1033.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:21 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int k;
@@ -10791,8 +10836,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1027.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, all[10085];
@@ -10815,8 +10860,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2710.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:44 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -10830,8 +10875,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1596.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int x,y,n,price,ans;
@@ -10849,8 +10894,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2706.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:43 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:58 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -10884,8 +10929,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1794.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n,m,cnt;
@@ -10908,8 +10953,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1757.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:34 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 #pragma GCC optimize(2)//火车头
@@ -10983,8 +11028,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1031.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -11000,8 +11045,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1025.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -11024,8 +11069,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1019.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -11047,8 +11092,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1804.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 
 using namespace std;
@@ -11075,8 +11120,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1623.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:33 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:46 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 string str;
@@ -11107,8 +11152,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1145.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n, k, tmp, cnt, a;
@@ -11134,8 +11179,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2464.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include "iostream"
 #include "cmath"
 
@@ -11155,8 +11200,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3578.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:48 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:05 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 #define int long long
@@ -11198,8 +11243,8 @@ signed main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3545.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:47 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:03 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -11221,8 +11266,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2465.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 long long n, in, x, y, cnt;
@@ -11242,8 +11287,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2459.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:41 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:55 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 string in;
@@ -11268,8 +11313,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1150.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:29 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:40 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cstring>
 #define sz 3
@@ -11327,8 +11372,8 @@ int main() {
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1144.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:28 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:39 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -11372,8 +11417,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1018.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:19 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int main(){
@@ -11389,8 +11434,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3633.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:50 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:59:08 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -11427,8 +11472,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1024.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:31 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int sum, sum2;
@@ -11454,8 +11499,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1030.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:20 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:32 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 int n;
@@ -11469,8 +11514,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1795.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:35 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:48 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 using namespace std;
 bool p=false;
@@ -11495,8 +11540,8 @@ int main(){
 ![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1597.png)
 ```cpp
 
-//Created in Sat Nov 12 09:25:32 2022
- //System: Darwin 22.1.0
+//Created in Sat Nov 12 11:58:45 2022
+//System: macOS-13.0.1-x86_64-i386-64bit	Python Version: 3.11.0
 #include<iostream>
 #include<cmath>
 using namespace std;
