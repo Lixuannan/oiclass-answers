@@ -2,10 +2,10 @@
 # [Oiclass](http://oiclass.com)上的所有我写的题解
 
 ## P1954:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1954.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1954.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:12 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -20,10 +20,10 @@ int main(){
 ```
 
 ## P1798:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1798.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1798.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:06 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -63,10 +63,10 @@ int main() {
 ```
 
 ## P1940:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1940.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1940.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:11 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -112,10 +112,10 @@ int main(){
 ```
 
 ## P1029:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1029.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1029.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:15 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -143,10 +143,10 @@ int main() {
 ```
 
 ## P1997:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1997.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1997.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:13 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -164,10 +164,10 @@ int main() {
 ```
 
 ## P4145:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P4145.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4145.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:53 2022
+//Created in Sat Nov 12 09:25:56 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -179,10 +179,10 @@ int main(){
 ```
 
 ## P1015:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1015.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1015.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:12 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -199,10 +199,10 @@ int main(){
 ```
 
 ## P1001:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1001.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1001.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:09 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 n = int(input())
 a = 8
@@ -212,10 +212,10 @@ print(str(a) + "\n" + str(b) + "\n" + str(c))
 ```
 
 ## P1149:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1149.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1149.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:31 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -232,10 +232,10 @@ int main(){
 ```
 
 ## P2468:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2468.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2468.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:24 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -255,10 +255,10 @@ int main(){
 ```
 
 ## P3776:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3776.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3776.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:50 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -274,10 +274,10 @@ int main(){
 ```
 
 ## P1607:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1607.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1607.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:54 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -293,20 +293,20 @@ int main(){
 ```
 
 ## P1388:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1388.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1388.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:42 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;int n;string str;string tree(string s){string ans;if(s.length()<=1){if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}else{ans+=tree(s.substr(0,s.length()/2));ans+=tree(s.substr(s.length()/2,s.npos));if(s.find('0')!=s.npos&&s.find('1')!=s.npos){ans+='F';}else if(s.find('0')!=s.npos){ans+='B';}else if(s.find('1')!=s.npos){ans+='I';}}return ans;}int main(){cin>>n>>str;cout<<tree(str);}
 ```
 
 ## P3574:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3574.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3574.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:40 2022
+//Created in Sat Nov 12 09:25:48 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -329,10 +329,10 @@ int main(){
 ```
 
 ## P1612:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1612.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1612.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:56 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -349,10 +349,10 @@ int main(){
 ```
 
 ## P1174:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1174.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1174.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:37 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -376,10 +376,10 @@ int main(){
 ```
 
 ## P3763:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3763.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3763.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:49 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -398,10 +398,10 @@ int main(){
 ```
 
 ## P3777:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3777.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3777.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:50 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -435,10 +435,10 @@ int main(){
 ```
 
 ## P2469:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2469.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2469.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:24 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -466,10 +466,10 @@ int main(){
 ```
 
 ## P1606:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1606.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1606.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:54 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -481,10 +481,10 @@ int main(){
 ```
 
 ## P1148:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1148.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1148.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:31 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -501,10 +501,10 @@ int main(){
 ```
 
 ## P1000:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1000.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1000.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:09 2022
+//Created in Sat Nov 12 09:25:17 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -522,10 +522,10 @@ int main(){
 ```
 
 ## P1014:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1014.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1014.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:11 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
@@ -543,10 +543,10 @@ int main(){
 ```
 
 ## P2253:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2253.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2253.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:20 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<deque>
@@ -586,10 +586,10 @@ int main(){
 ```
 
 ## P1028:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1028.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1028.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:15 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -616,10 +616,10 @@ int main(){
 ```
 
 ## P4150:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P4150.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4150.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:53 2022
+//Created in Sat Nov 12 09:25:57 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -637,10 +637,10 @@ int main(){
 ```
 
 ## P2051:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2051.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2051.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:14 2022
+//Created in Sat Nov 12 09:25:38 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -665,10 +665,10 @@ int main() {
 ```
 
 ## P1599:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1599.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1599.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:51 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -685,10 +685,10 @@ int main(){
 ```
 
 ## P4146:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P4146.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4146.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:53 2022
+//Created in Sat Nov 12 09:25:57 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -709,10 +709,10 @@ int main(){
 ```
 
 ## P2251:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2251.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2251.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:20 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #define ll long long
@@ -741,10 +741,10 @@ int main(){
 ```
 
 ## P1002:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1002.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1002.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:10 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -759,10 +759,10 @@ int main(){
 ```
 
 ## P1016:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1016.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1016.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:12 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -773,11 +773,52 @@ int main(){
 }
 ```
 
-## P1837:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1837.png)
+## P1189:
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1189.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:08 2022
+//Created in Sat Nov 12 09:25:30 2022
+ //System: Darwin 22.1.0
+#include<iostream>
+using namespace std;
+string str;
+int m, n, a[100][100], cnt;
+void dfs(int x, int y){
+    if (a[x][y] == 0){
+        return ;
+    }
+    a[x][y] = 0;
+    dfs(x - 1, y);
+    dfs(x  + 1, y);
+    dfs(x, y - 1);
+    dfs(x, y + 1);
+}
+int main(){
+    cin >> m >> n;
+    for (int i=1; i <= m; i++){
+        cin >> str;
+        str = " " + str;
+        for (int j=1; j <= str.length() - 1; j++){
+            a[i][j] = str[j] - '0';
+        }
+    }
+    for (int i=1; i <= m; i++){
+        for (int j = 1; j <= n; j++){
+            if (a[i][j] != 0){
+                dfs(i, j);
+                cnt += 1;
+            }
+        }
+    }
+    cout << cnt << endl;
+}
+```
+
+## P1837:
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1837.png)
+```cpp
+
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -803,10 +844,10 @@ int main(){
 ```
 
 ## P3761:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3761.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3761.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:49 2022
+//Created in Sat Nov 12 09:25:54 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -821,10 +862,10 @@ int main() {
 ```
 
 ## P1604:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1604.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1604.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:53 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -836,10 +877,10 @@ int main(){
 ```
 
 ## P3775:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3775.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3775.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:50 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 n = int(input())
 if n % 3 == 0:
@@ -849,10 +890,10 @@ else:
 ```
 
 ## P1605:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1605.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1605.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:54 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -867,10 +908,10 @@ int main(){
 ```
 
 ## P1163:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1163.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1163.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:33 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -912,10 +953,10 @@ int main(){
 ```
 
 ## P1611:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1611.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1611.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:55 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -941,10 +982,10 @@ int main(){
 ```
 
 ## P2330:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2330.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2330.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:21 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -971,10 +1012,10 @@ int main(){
 ```
 
 ## P1017:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1017.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1017.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:12 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -993,10 +1034,10 @@ int main(){
 ```
 
 ## P1003:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1003.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1003.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:10 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -1011,10 +1052,10 @@ int main(){
 ```
 
 ## P1995:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1995.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1995.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:12 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -1038,10 +1079,10 @@ int main(){
 ```
 
 ## P4153:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P4153.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4153.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:54 2022
+//Created in Sat Nov 12 09:25:57 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -1055,10 +1096,10 @@ int main(){
 ```
 
 ## P3628:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3628.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3628.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:44 2022
+//Created in Sat Nov 12 09:25:50 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1080,10 +1121,10 @@ int main(){
 ```
 
 ## P1598:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1598.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1598.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:51 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1098,10 +1139,10 @@ int main(){
 ```
 
 ## P3610:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3610.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3610.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:42 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -1136,10 +1177,10 @@ int main(){
 ```
 
 ## P1007:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1007.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1007.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:10 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1156,10 +1197,10 @@ int main(){
 ```
 
 ## P1013:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1013.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1013.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:11 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
@@ -1177,10 +1218,10 @@ int main(){
 ```
 
 ## P3604:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3604.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3604.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:41 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
@@ -1213,10 +1254,10 @@ int main(){
 ```
 
 ## P1601:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1601.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1601.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:52 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1229,10 +1270,10 @@ int main(){
 ```
 
 ## P3567:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3567.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3567.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:39 2022
+//Created in Sat Nov 12 09:25:48 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -1259,10 +1300,10 @@ int main(){
 ```
 
 ## P3759:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3759.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3759.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:49 2022
+//Created in Sat Nov 12 09:25:54 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1283,10 +1324,10 @@ int main(){
 ```
 
 ## P1166:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1166.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1166.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:35 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -1332,10 +1373,10 @@ int main(){
 ```
 
 ## P1600:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1600.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1600.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:52 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1356,10 +1397,10 @@ int main(){
 ```
 
 ## P1990:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1990.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1990.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:12 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -1380,10 +1421,10 @@ int main(){
 ```
 
 ## P1012:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1012.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1012.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:11 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1405,10 +1446,10 @@ int main(){
 ```
 
 ## P1006:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1006.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1006.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:10 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -1427,10 +1468,10 @@ int main(){
 ```
 
 ## P2043:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2043.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2043.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:14 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1460,10 +1501,10 @@ int main(){
 ```
 
 ## P1562:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1562.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1562.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:50 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1486,10 +1527,10 @@ int main(){
 ```
 
 ## P1010:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1010.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1010.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:11 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1506,10 +1547,10 @@ int main(){
 ```
 
 ## P1004:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1004.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1004.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:10 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -1524,10 +1565,10 @@ int main(){
 ```
 
 ## P1038:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1038.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1038.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:17 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1544,10 +1585,10 @@ int main(){
 ```
 
 ## P1831:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1831.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1831.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:08 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1579,10 +1620,10 @@ int main(){
 ```
 
 ## P1602:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1602.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1602.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:52 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1597,10 +1638,10 @@ int main(){
 ```
 
 ## P1164:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1164.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1164.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:34 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1623,10 +1664,10 @@ int main(){
 ```
 
 ## P3767:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3767.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3767.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:49 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1658,10 +1699,10 @@ int main(){
 ```
 
 ## P1170:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1170.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1170.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:36 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1684,10 +1725,10 @@ int main(){
 ```
 
 ## P1158:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1158.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1158.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:32 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #pragma GCC optimize(3)
 #pragma GCC target("avx")
@@ -1758,10 +1799,10 @@ int main(){
 ```
 
 ## P3571:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3571.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3571.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:40 2022
+//Created in Sat Nov 12 09:25:48 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1782,10 +1823,10 @@ int main()
 ```
 
 ## P2109:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2109.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2109.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:16 2022
+//Created in Sat Nov 12 09:25:38 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -1876,10 +1917,10 @@ int main(){
 ```
 
 ## P3570:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3570.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3570.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:39 2022
+//Created in Sat Nov 12 09:25:48 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -1906,10 +1947,10 @@ int main(){
 ```
 
 ## P2108:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2108.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2108.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:15 2022
+//Created in Sat Nov 12 09:25:38 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -1943,10 +1984,10 @@ int main(){
 ```
 
 ## P1603:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1603.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1603.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:53 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -1973,10 +2014,10 @@ int main(){
 ```
 
 ## P1165:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1165.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1165.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:34 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -2008,10 +2049,10 @@ int main(){
 ```
 
 ## P3941:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3941.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3941.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:52 2022
+//Created in Sat Nov 12 09:25:56 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2030,10 +2071,10 @@ int main(){
 ```
 
 ## P1039:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1039.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1039.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:17 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2066,10 +2107,10 @@ int main(){
 ```
 
 ## P1005:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1005.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1005.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:10 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -2085,10 +2126,10 @@ int main(){
 ```
 
 ## P1011:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1011.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1011.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:11 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2105,10 +2146,10 @@ int main(){
 ```
 
 ## P1561:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1561.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1561.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:49 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2125,10 +2166,10 @@ int main(){
 ```
 
 ## P3463:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3463.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3463.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:32 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -2145,10 +2186,10 @@ int main(){
 ```
 
 ## P1937:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1937.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1937.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:11 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
@@ -2231,10 +2272,10 @@ int main(){
 ```
 
 ## P2580:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2580.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2580.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:27 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2255,10 +2296,10 @@ int main(){
 ```
 
 ## P1089:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1089.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1089.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:23 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<sstream>
@@ -2329,10 +2370,10 @@ int main(){
 ```
 
 ## P2594:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2594.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2594.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:47 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cstring>
@@ -2362,10 +2403,10 @@ int main() {
 ```
 
 ## P2219:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2219.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2219.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:19 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -2381,10 +2422,10 @@ int main(){
 ```
 
 ## P1076:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1076.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1076.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:22 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2409,10 +2450,10 @@ int main(){
 ```
 
 ## P1062:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1062.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1062.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:20 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2453,10 +2494,10 @@ int main(){
 ```
 
 ## P4046:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P4046.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4046.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:52 2022
+//Created in Sat Nov 12 09:25:56 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2491,10 +2532,10 @@ int main(){
 ```
 
 ## P3715:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3715.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3715.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:48 2022
+//Created in Sat Nov 12 09:25:53 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -2524,10 +2565,10 @@ int main() {
 ```
 
 ## P1116:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1116.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1116.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:29 2022
+//Created in Sat Nov 12 09:25:27 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -2561,10 +2602,10 @@ int main() {
 ```
 
 ## P3701:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3701.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3701.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:47 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -2581,10 +2622,10 @@ int main() {
 ```
 
 ## P2379:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2379.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2379.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:48 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -2606,10 +2647,10 @@ int main(){
 ```
 
 ## P2184:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2184.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2184.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:18 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -2639,10 +2680,10 @@ int main(){
 ```
 
 ## P3700:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3700.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3700.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:47 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -2670,10 +2711,10 @@ int main(){
 ```
 
 ## P2378:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2378.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2378.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:47 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2706,10 +2747,10 @@ int main(){
 ```
 
 ## P1881:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1881.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1881.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:10 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2737,10 +2778,10 @@ int main(){
 ```
 
 ## P1063:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1063.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1063.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:20 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2774,10 +2815,10 @@ int main(){
 ```
 
 ## P2218:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2218.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2218.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:16 2022
+//Created in Sat Nov 12 09:25:39 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2801,10 +2842,10 @@ int main(){
 ```
 
 ## P1077:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1077.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1077.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:22 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2841,10 +2882,10 @@ int main(){
 ```
 
 ## P3648:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3648.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3648.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:46 2022
+//Created in Sat Nov 12 09:25:51 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -2859,10 +2900,10 @@ int main(){
 ```
 
 ## P1288:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1288.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1288.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:41 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
@@ -2906,10 +2947,10 @@ int main(){
 ```
 
 ## P1277:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1277.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1277.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:38 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<queue>
@@ -2936,10 +2977,10 @@ int main(){
 ```
 
 ## P2583:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2583.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2583.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:28 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -2963,10 +3004,10 @@ int main(){
 ```
 
 ## P1049:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1049.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1049.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:18 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -3048,10 +3089,10 @@ int main() {
 ```
 
 ## P3138:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3138.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3138.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:31 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace  std;
@@ -3071,10 +3112,10 @@ int main(){
 ```
 
 ## P1061:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1061.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1061.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:20 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3120,10 +3161,10 @@ int main(){
 ```
 
 ## P1075:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1075.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1075.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:22 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3178,10 +3219,10 @@ int main(){
 ```
 
 ## P2385:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2385.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2385.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:49 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3258,10 +3299,10 @@ int main(){
 ```
 
 ## P1115:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1115.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1115.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:29 2022
+//Created in Sat Nov 12 09:25:26 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -3282,10 +3323,10 @@ int main(){
 ```
 
 ## P3702:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3702.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3702.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:47 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -3300,10 +3341,10 @@ int main() {
 ```
 
 ## P3716:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3716.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3716.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:48 2022
+//Created in Sat Nov 12 09:25:53 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -3325,10 +3366,10 @@ int main(){
 ```
 
 ## P3528:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3528.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3528.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:37 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -3350,10 +3391,10 @@ int main(){
 ```
 
 ## P3500:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3500.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3500.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:34 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "algorithm"
@@ -3376,10 +3417,10 @@ int main() {
 ```
 
 ## P3514:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3514.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3514.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:35 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3399,10 +3440,10 @@ int main(){
 ```
 
 ## P3515:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3515.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3515.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:36 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3419,10 +3460,10 @@ int main(){
 ```
 
 ## P3501:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3501.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3501.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:34 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3439,10 +3480,10 @@ int main(){
 ```
 
 ## P3529:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3529.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3529.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:37 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3460,10 +3501,10 @@ int main(){
 ```
 
 ## P3717:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3717.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3717.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:48 2022
+//Created in Sat Nov 12 09:25:53 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3475,10 +3516,10 @@ int main(){
 ```
 
 ## P3703:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3703.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3703.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:47 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -3497,10 +3538,10 @@ int main(){
 ```
 
 ## P4044:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P4044.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4044.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:52 2022
+//Created in Sat Nov 12 09:25:56 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3526,10 +3567,10 @@ int main(){
 ```
 
 ## P2569:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2569.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2569.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:26 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3545,10 +3586,10 @@ int main(){
 ```
 
 ## P1060:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1060.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1060.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:20 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3570,10 +3611,10 @@ int main(){
 ```
 
 ## P1048:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1048.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1048.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:18 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -3611,10 +3652,10 @@ int main() {
 ```
 
 ## P3139:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3139.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3139.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:31 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -3664,10 +3705,10 @@ int main() {
 ```
 
 ## P3688:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3688.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3688.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:46 2022
+//Created in Sat Nov 12 09:25:51 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -3688,10 +3729,10 @@ int main(){
 ```
 
 ## P1276:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1276.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1276.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:38 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -3713,10 +3754,10 @@ int main(){
 ```
 
 ## P2757:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2757.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2757.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:47 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include <iostream>
 
@@ -3735,10 +3776,10 @@ int main(){
 ```
 
 ## P1500:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1500.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1500.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:44 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<deque>
@@ -3769,10 +3810,10 @@ int main(){
 ```
 
 ## P2586:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2586.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2586.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:28 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3805,10 +3846,10 @@ int main(){
 ```
 
 ## P3698:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3698.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3698.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:46 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -3827,10 +3868,10 @@ int main(){
 ```
 
 ## P1064:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1064.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1064.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:20 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -3882,10 +3923,10 @@ int main(){
 ```
 
 ## P2579:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2579.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2579.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:27 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
@@ -3913,10 +3954,10 @@ int main() {
 ```
 
 ## P1070:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1070.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1070.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:21 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3943,10 +3984,10 @@ int main(){
 ```
 
 ## P1058:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1058.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1058.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:20 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -3966,10 +4007,10 @@ int main(){
 ```
 
 ## P3707:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3707.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3707.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:47 2022
+//Created in Sat Nov 12 09:25:53 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -3989,10 +4030,10 @@ int main(){
 ```
 
 ## P7004:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P7004.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P7004.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:54 2022
+//Created in Sat Nov 12 09:25:57 2022
  //System: Darwin 22.1.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
@@ -4060,10 +4101,10 @@ int main(){
 ```
 
 ## P3504:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3504.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3504.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:34 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -4086,10 +4127,10 @@ int main() {
 ```
 
 ## P2356:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2356.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2356.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:22 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4105,10 +4146,10 @@ int main(){
 ```
 
 ## P2430:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2430.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2430.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:22 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
@@ -4145,10 +4186,10 @@ int main(){
 ```
 
 ## P1139:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1139.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1139.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:31 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -4177,10 +4218,10 @@ int main(){
 ```
 
 ## P1663:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1663.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1663.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:50 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -4223,10 +4264,10 @@ int main(){
 ```
 
 ## P1105:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1105.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1105.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:24 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -4257,10 +4298,10 @@ int main(){
 ```
 
 ## P3706:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3706.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3706.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:47 2022
+//Created in Sat Nov 12 09:25:53 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -4280,10 +4321,10 @@ int main(){
 ```
 
 ## P1850:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1850.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1850.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:09 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cstring>
@@ -4317,10 +4358,10 @@ int main() {
 ```
 
 ## P2381:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2381.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2381.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:48 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<deque>
@@ -4354,10 +4395,10 @@ int main(){
 ```
 
 ## P1878:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1878.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1878.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:10 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4380,10 +4421,10 @@ int main(){
 ```
 
 ## P1059:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1059.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1059.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:20 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -4436,10 +4477,10 @@ int main(){
 ```
 
 ## P1071:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1071.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1071.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:21 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include <iostream>
 
@@ -4472,10 +4513,10 @@ int main(){
 ```
 
 ## P1065:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1065.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1065.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:21 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
@@ -4504,10 +4545,10 @@ int main(){
 ```
 
 ## P3458:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3458.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3458.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:32 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4519,10 +4560,10 @@ int main(){
 ```
 
 ## P2752:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2752.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2752.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:29 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -4545,10 +4586,10 @@ int main(){
 ```
 
 ## P3464:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3464.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3464.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:32 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -4565,10 +4606,10 @@ int main(){
 ```
 
 ## P2008:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2008.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2008.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:13 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4592,10 +4633,10 @@ int main(){
 ```
 
 ## P1501:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1501.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1501.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:45 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4617,10 +4658,10 @@ int main(){
 ```
 
 ## P5001:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P5001.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P5001.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:54 2022
+//Created in Sat Nov 12 09:25:57 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -4635,10 +4676,10 @@ int main() {
 ```
 
 ## P1073:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1073.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1073.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:22 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include <iostream>
 #include <algorithm>
@@ -4674,10 +4715,10 @@ int main(){
 ```
 
 ## P1067:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1067.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1067.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:21 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -4710,10 +4751,10 @@ int main(){
 ```
 
 ## P2220:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2220.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2220.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:19 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4747,10 +4788,10 @@ int main(){
 ```
 
 ## P3710:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3710.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3710.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:48 2022
+//Created in Sat Nov 12 09:25:53 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -4779,10 +4820,10 @@ int main(){
 ```
 
 ## P1107:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1107.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1107.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:25 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -4812,10 +4853,10 @@ int main(){
 ```
 
 ## P1113:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1113.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1113.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:28 2022
+//Created in Sat Nov 12 09:25:26 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -4840,10 +4881,10 @@ int main(){
 ```
 
 ## P3704:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3704.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3704.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:47 2022
+//Created in Sat Nov 12 09:25:53 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -4861,10 +4902,10 @@ int main() {
 ```
 
 ## P2340:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2340.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2340.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:21 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4885,10 +4926,10 @@ int main(){
 ```
 
 ## P3506:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3506.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3506.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:34 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4912,10 +4953,10 @@ int main(){
 ```
 
 ## P3275:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3275.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3275.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:29 2022
+//Created in Sat Nov 12 09:25:26 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -4964,10 +5005,10 @@ int main(){
 ```
 
 ## P3513:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3513.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3513.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:35 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -4979,10 +5020,10 @@ int main(){
 ```
 
 ## P4056:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P4056.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P4056.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:52 2022
+//Created in Sat Nov 12 09:25:56 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
@@ -5004,10 +5045,10 @@ int main(){
 ```
 
 ## P1112:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1112.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1112.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:28 2022
+//Created in Sat Nov 12 09:25:26 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -5033,10 +5074,10 @@ int main(){
 ```
 
 ## P1106:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1106.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1106.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:24 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -5069,10 +5110,10 @@ int main(){
 ```
 
 ## P1847:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1847.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1847.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:09 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -5095,10 +5136,10 @@ int main(){
 ```
 
 ## P3881:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3881.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3881.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:51 2022
+//Created in Sat Nov 12 09:25:56 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -5138,10 +5179,10 @@ int main(){
 ```
 
 ## P2221:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2221.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2221.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:19 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -5163,10 +5204,10 @@ int main(){
 ```
 
 ## P1933:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1933.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1933.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:11 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -5182,10 +5223,10 @@ int main(){
 ```
 
 ## P3498:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3498.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3498.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:34 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5207,10 +5248,10 @@ int main(){
 ```
 
 ## P2204:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2204.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2204.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:18 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5251,10 +5292,10 @@ int main(){
 ```
 
 ## P2562:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2562.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2562.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:25 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -5285,10 +5326,10 @@ int main(){
 ```
 
 ## P2576:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2576.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2576.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:27 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -5327,10 +5368,10 @@ int main(){
 ```
 
 ## P1057:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1057.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1057.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:19 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5350,10 +5391,10 @@ int main(){
 ```
 
 ## P1043:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1043.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1043.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:17 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -5378,10 +5419,10 @@ int main(){
 ```
 
 ## P1725:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1725.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1725.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:04 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 //#include <iostream>
 //
@@ -5556,10 +5597,10 @@ int main(){
 ```
 
 ## P3708:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3708.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3708.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:48 2022
+//Created in Sat Nov 12 09:25:53 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5598,10 +5639,10 @@ int main(){
 ```
 
 ## P2172:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2172.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2172.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:17 2022
+//Created in Sat Nov 12 09:25:39 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
@@ -5617,10 +5658,10 @@ int main() {
 ```
 
 ## P3537:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3537.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3537.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:38 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5633,10 +5674,10 @@ int main(){
 ```
 
 ## P1136:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1136.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1136.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:31 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -5659,10 +5700,10 @@ int main(){
 ```
 
 ## P3709:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3709.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3709.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:46 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5686,10 +5727,10 @@ int main(){
 ```
 
 ## P1042:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1042.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1042.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:17 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -5710,10 +5751,10 @@ int main(){
 ```
 
 ## P3133:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3133.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3133.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:31 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5733,10 +5774,10 @@ int main(){
 ```
 
 ## P1724:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1724.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1724.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:03 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5772,10 +5813,10 @@ int main(){
 ```
 
 ## P3641:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3641.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3641.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:45 2022
+//Created in Sat Nov 12 09:25:51 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "algorithm"
@@ -5803,10 +5844,10 @@ int main(){
 ```
 
 ## P1056:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1056.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1056.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:19 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5831,10 +5872,10 @@ int main(){
 ```
 
 ## P2563:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2563.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2563.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:25 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -5863,10 +5904,10 @@ int main(){
 ```
 
 ## P1081:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1081.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1081.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:22 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -5899,10 +5940,10 @@ int main(){
 ```
 
 ## P1095:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1095.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1095.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:24 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -5938,10 +5979,10 @@ int main(){
 ```
 
 ## P1917:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1917.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1917.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:10 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -5961,10 +6002,10 @@ int main(){
 ```
 
 ## P2749:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2749.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2749.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:29 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -5985,10 +6026,10 @@ int main(){
 ```
 
 ## P3496:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3496.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3496.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:33 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -6005,10 +6046,10 @@ int main() {
 ```
 
 ## P1281:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1281.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1281.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:40 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
@@ -6046,10 +6087,10 @@ int main(){
 ```
 
 ## P2561:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2561.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2561.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:25 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -6067,10 +6108,10 @@ int main() {
 ```
 
 ## P1068:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1068.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1068.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:21 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -6108,10 +6149,10 @@ int main(){
 ```
 
 ## P1040:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1040.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1040.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:17 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -6135,10 +6176,10 @@ int main(){
 ```
 
 ## P1054:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1054.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1054.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:19 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -6167,10 +6208,10 @@ int main(){
 ```
 
 ## P1849:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1849.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1849.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:09 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6212,10 +6253,10 @@ int main(){
 ```
 
 ## P1685:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1685.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1685.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:00 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6231,10 +6272,10 @@ int main(){
 ```
 
 ## P1108:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1108.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1108.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:26 2022
+//Created in Sat Nov 12 09:25:26 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -6276,10 +6317,10 @@ int main(){
 ```
 
 ## P1134:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1134.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1134.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:30 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6313,10 +6354,10 @@ int main(){
 ```
 
 ## P1120:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1120.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1120.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:29 2022
+//Created in Sat Nov 12 09:25:27 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6386,10 +6427,10 @@ int main(){
 ```
 
 ## P2429:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2429.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2429.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:14 2022
+//Created in Sat Nov 12 09:25:38 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -6404,10 +6445,10 @@ int main(){
 ```
 
 ## P2171:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2171.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2171.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:17 2022
+//Created in Sat Nov 12 09:25:39 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6422,10 +6463,10 @@ int main(){
 ```
 
 ## P3509:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3509.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3509.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:35 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace  std;
@@ -6442,10 +6483,10 @@ int main(){
 ```
 
 ## P3534:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3534.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3534.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:38 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -6495,10 +6536,10 @@ int main() {
 ```
 
 ## P3722:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3722.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3722.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:49 2022
+//Created in Sat Nov 12 09:25:54 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -6572,10 +6613,10 @@ int main(){
 ```
 
 ## P1109:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1109.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1109.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:26 2022
+//Created in Sat Nov 12 09:25:26 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -6599,10 +6640,10 @@ int main(){
 ```
 
 ## P3093:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3093.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3093.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:30 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -6626,10 +6667,10 @@ int main() {
 ```
 
 ## P1848:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1848.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1848.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:09 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6651,10 +6692,10 @@ int main(){
 ```
 
 ## P1860:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1860.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1860.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:09 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -6674,10 +6715,10 @@ int main(){
 ```
 
 ## P3642:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3642.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3642.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:45 2022
+//Created in Sat Nov 12 09:25:51 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -6695,10 +6736,10 @@ int main(){
 ```
 
 ## P1055:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1055.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1055.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:19 2022
+//Created in Sat Nov 12 09:25:23 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -6719,10 +6760,10 @@ int main(){
 ```
 
 ## P1041:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1041.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1041.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:17 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -6752,10 +6793,10 @@ int main(){
 ```
 
 ## P1069:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1069.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1069.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:21 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -6794,10 +6835,10 @@ int main(){
 ```
 
 ## P2574:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2574.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2574.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:27 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include <iostream>
 #include <cmath>
@@ -6836,10 +6877,10 @@ int main(){
 ```
 
 ## P1082:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1082.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1082.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:22 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6866,10 +6907,10 @@ int main(){
 ```
 
 ## P1900:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1900.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1900.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:10 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6890,10 +6931,10 @@ int  main(){
 ```
 
 ## P3497:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3497.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3497.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:33 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -6912,10 +6953,10 @@ int main() {
 ```
 
 ## P3493:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3493.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3493.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:33 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -6939,10 +6980,10 @@ int main(){
 ```
 
 ## P3487:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3487.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3487.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:30 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6952,10 +6993,10 @@ int main(){
 ```
 
 ## P1509:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1509.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1509.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:46 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -6974,10 +7015,10 @@ int main(){
 ```
 
 ## P3691:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3691.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3691.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:46 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -7000,10 +7041,10 @@ int main(){
 ```
 
 ## P1938:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1938.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1938.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:11 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -7024,10 +7065,10 @@ int main() {
 ```
 
 ## P1092:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1092.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1092.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:23 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -7051,10 +7092,10 @@ int main(){
 ```
 
 ## P1045:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1045.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1045.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:18 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7066,10 +7107,10 @@ int main(){
 ```
 
 ## P3134:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3134.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3134.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:31 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
@@ -7110,10 +7151,10 @@ int main(){
 ```
 
 ## P3120:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3120.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3120.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:30 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -7132,10 +7173,10 @@ int main(){
 ```
 
 ## P1051:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1051.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1051.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:19 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -7160,10 +7201,10 @@ int main() {
 ```
 
 ## P3646:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3646.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3646.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:45 2022
+//Created in Sat Nov 12 09:25:51 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7175,10 +7216,10 @@ int main(){
 ```
 
 ## P2558:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2558.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2558.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:24 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -7197,10 +7238,10 @@ int main(){
 ```
 
 ## P2570:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2570.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2570.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:26 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7223,10 +7264,10 @@ int main(){
 ```
 
 ## P2564:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2564.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2564.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:26 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7258,10 +7299,10 @@ int main(){
 ```
 
 ## P1694:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1694.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1694.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:01 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -7314,10 +7355,10 @@ int main(){
 ```
 
 ## P3901:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3901.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3901.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:51 2022
+//Created in Sat Nov 12 09:25:56 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -7352,10 +7393,10 @@ int main() {
 ```
 
 ## P1131:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1131.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1131.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:30 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include <iostream>
 using namespace std;
@@ -7374,10 +7415,10 @@ int main(){
 ```
 
 ## P1643:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1643.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1643.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:59 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7396,10 +7437,10 @@ int main(){
 ```
 
 ## P1125:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1125.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1125.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:30 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -7430,10 +7471,10 @@ int main(){
 ```
 
 ## P1119:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1119.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1119.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:29 2022
+//Created in Sat Nov 12 09:25:27 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7464,10 +7505,10 @@ int main(){
 ```
 
 ## P3518:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3518.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3518.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:36 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -7485,10 +7526,10 @@ int main(){
 ```
 
 ## P2175:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2175.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2175.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:18 2022
+//Created in Sat Nov 12 09:25:39 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -7515,10 +7556,10 @@ int main(){
 ```
 
 ## P3519:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3519.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3519.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:36 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -7549,10 +7590,10 @@ int main() {
 ```
 
 ## P3525:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3525.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3525.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:36 2022
+//Created in Sat Nov 12 09:25:46 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7564,10 +7605,10 @@ int main(){
 ```
 
 ## P1118:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1118.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1118.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:29 2022
+//Created in Sat Nov 12 09:25:27 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -7650,10 +7691,10 @@ int main(){
 ```
 
 ## P1124:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1124.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1124.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:30 2022
+//Created in Sat Nov 12 09:25:27 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cstring"
@@ -7692,10 +7733,10 @@ int main(){
 ```
 
 ## P2565:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2565.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2565.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:26 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7722,10 +7763,10 @@ int main(){
 ```
 
 ## P1078:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1078.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1078.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:22 2022
+//Created in Sat Nov 12 09:25:24 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7743,10 +7784,10 @@ int main(){
 ```
 
 ## P2559:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2559.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2559.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:25 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7775,10 +7816,10 @@ int main(){
 ```
 
 ## P1044:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1044.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1044.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:18 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7807,10 +7848,10 @@ int main(){
 ```
 
 ## P3690:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3690.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3690.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:46 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -7832,10 +7873,10 @@ int main() {
 ```
 
 ## P1087:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1087.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1087.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:23 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<sstream>
@@ -7876,10 +7917,10 @@ int main(){
 ```
 
 ## P1508:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1508.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1508.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:45 2022
+//Created in Sat Nov 12 09:25:31 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -7903,10 +7944,10 @@ int main(){
 ```
 
 ## P2001:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2001.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2001.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:13 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include <iostream>
 #include <cmath>
@@ -7954,10 +7995,10 @@ int main(){
 ```
 
 ## P3492:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3492.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3492.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:33 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -7989,10 +8030,10 @@ int main() {
 ```
 
 ## P3490:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3490.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3490.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:32 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include <iostream>
 
@@ -8018,10 +8059,10 @@ int main(){
 ```
 
 ## P1278:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1278.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1278.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:39 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8051,10 +8092,10 @@ int main(){
 ```
 
 ## P1091:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1091.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1091.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:23 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include <iostream>
 #include <cmath>
@@ -8114,10 +8155,10 @@ int main() {
 ```
 
 ## P1052:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1052.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1052.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:19 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cstring>
@@ -8154,10 +8195,10 @@ int main() {
 ```
 
 ## P3137:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3137.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3137.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:31 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8170,10 +8211,10 @@ int main(){
 ```
 
 ## P1046:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1046.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1046.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:18 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8193,10 +8234,10 @@ int main(){
 ```
 
 ## P1708:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1708.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1708.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:02 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8217,10 +8258,10 @@ int main(){
 ```
 
 ## P2573:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2573.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2573.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:26 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include<iostream>
 
@@ -8247,10 +8288,10 @@ int main() {
 ```
 
 ## P1697:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1697.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1697.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:02 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -8271,10 +8312,10 @@ int main(){
 ```
 
 ## P1126:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1126.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1126.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:30 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8302,10 +8343,10 @@ int main(){
 ```
 
 ## P3731:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3731.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3731.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:49 2022
+//Created in Sat Nov 12 09:25:54 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
@@ -8321,10 +8362,10 @@ int main(){
 ```
 
 ## P1654:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1654.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1654.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:59 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include <iostream>
 #include <cstring>
@@ -8402,10 +8443,10 @@ int main() {
 ```
 
 ## P3719:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3719.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3719.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:48 2022
+//Created in Sat Nov 12 09:25:54 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -8424,10 +8465,10 @@ int main(){
 ```
 
 ## P3533:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3533.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3533.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:38 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 // 代码如下
 #include<iostream>
@@ -8449,10 +8490,10 @@ int main(){
 ```
 
 ## P3527:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3527.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3527.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:37 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8482,10 +8523,10 @@ int main(){
 ```
 
 ## P2177:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2177.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2177.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:18 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<queue>
@@ -8524,10 +8565,10 @@ signed main() {
 ```
 
 ## P3526:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3526.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3526.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:37 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -8568,10 +8609,10 @@ int main(){
 ```
 
 ## P3532:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3532.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3532.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:38 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8586,10 +8627,10 @@ int main(){
 ```
 
 ## P3718:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3718.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3718.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:48 2022
+//Created in Sat Nov 12 09:25:54 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -8616,10 +8657,10 @@ int main(){
 ```
 
 ## P1133:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1133.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1133.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:30 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8637,10 +8678,10 @@ int main(){
 ```
 
 ## P1866:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1866.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1866.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:10 2022
+//Created in Sat Nov 12 09:25:36 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8666,10 +8707,10 @@ int main(){
 ```
 
 ## P1696:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1696.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1696.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:01 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8687,10 +8728,10 @@ int main(){
 ```
 
 ## P2572:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2572.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2572.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:26 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -8706,10 +8747,10 @@ int main() {
 ```
 
 ## P2566:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2566.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2566.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:26 2022
+//Created in Sat Nov 12 09:25:42 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -8734,10 +8775,10 @@ int main() {
 ```
 
 ## P1709:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1709.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1709.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:03 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8755,10 +8796,10 @@ int main(){
 ```
 
 ## P1721:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1721.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1721.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:03 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8786,10 +8827,10 @@ int main(){
 ```
 
 ## P1047:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1047.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1047.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:18 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -8814,10 +8855,10 @@ int main(){
 ```
 
 ## P1053:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1053.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1053.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:19 2022
+//Created in Sat Nov 12 09:25:22 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -8857,10 +8898,10 @@ int main(){
 ```
 
 ## P3693:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3693.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3693.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:46 2022
+//Created in Sat Nov 12 09:25:52 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -8899,10 +8940,10 @@ int main(){
 ```
 
 ## P1084:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1084.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1084.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:23 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<sstream>
@@ -8933,10 +8974,10 @@ int main(){
 ```
 
 ## P1090:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1090.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1090.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:23 2022
+//Created in Sat Nov 12 09:25:25 2022
  //System: Darwin 22.1.0
 #include <iostream>
 
@@ -8971,10 +9012,10 @@ int main(){
 ```
 
 ## P1279:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1279.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1279.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:40 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
@@ -9009,10 +9050,10 @@ int main(){
 ```
 
 ## P2016:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2016.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2016.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:14 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include <iostream>
 #include <sstream>
@@ -9067,10 +9108,10 @@ int main(){
 ```
 
 ## P2059:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2059.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2059.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:15 2022
+//Created in Sat Nov 12 09:25:38 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9091,10 +9132,10 @@ int main(){
 ```
 
 ## P1949:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1949.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1949.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:11 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "iomanip"
@@ -9111,10 +9152,10 @@ int main(){
 ```
 
 ## P1008:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1008.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1008.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:11 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9143,10 +9184,10 @@ int main(){
 ```
 
 ## P1034:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1034.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1034.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:16 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9164,10 +9205,10 @@ int main(){
 ```
 
 ## P1020:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1020.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1020.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:13 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9181,10 +9222,10 @@ int main(){
 ```
 
 ## P3970:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3970.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3970.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:52 2022
+//Created in Sat Nov 12 09:25:56 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -9204,10 +9245,10 @@ int main(){
 ```
 
 ## P2461:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2461.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2461.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:23 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9244,10 +9285,10 @@ int main(){
 ```
 
 ## P1626:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1626.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1626.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:56 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "algorithm"
@@ -9270,10 +9311,10 @@ int main() {
 ```
 
 ## P3582:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3582.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3582.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:41 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9304,10 +9345,10 @@ int main(){
 ```
 
 ## P3568:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3568.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3568.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:39 2022
+//Created in Sat Nov 12 09:25:48 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9325,10 +9366,10 @@ int main(){
 ```
 
 ## P1155:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1155.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1155.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:32 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9345,10 +9386,10 @@ int main(){
 ```
 
 ## P1627:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1627.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1627.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:57 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9368,10 +9409,10 @@ int main(){
 ```
 
 ## P1169:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1169.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1169.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:35 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9388,10 +9429,10 @@ int main(){
 ```
 
 ## P2460:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2460.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2460.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:22 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include <iostream>
 #include <cmath>
@@ -9472,10 +9513,10 @@ int main(){
 ```
 
 ## P3781:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3781.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3781.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:50 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -9490,10 +9531,10 @@ int main(){
 ```
 
 ## P3795:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3795.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3795.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:51 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9521,10 +9562,10 @@ int main(){
 ```
 
 ## P1814:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1814.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1814.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:07 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -9573,10 +9614,10 @@ int main() {
 ```
 
 ## P1800:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1800.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1800.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:06 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -9613,10 +9654,10 @@ int main(){
 ```
 
 ## P3636:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3636.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3636.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:45 2022
+//Created in Sat Nov 12 09:25:50 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -9642,10 +9683,10 @@ int main(){
 ```
 
 ## P1021:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1021.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1021.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:13 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9660,10 +9701,10 @@ int main(){
 ```
 
 ## P1035:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1035.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1035.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:16 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -9684,10 +9725,10 @@ int main(){
 ```
 
 ## P1009:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1009.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1009.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:11 2022
+//Created in Sat Nov 12 09:25:18 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9704,10 +9745,10 @@ int main(){
 ```
 
 ## P2702:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2702.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2702.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:28 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
@@ -9740,10 +9781,10 @@ int main(){
 ```
 
 ## P1590:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1590.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1590.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:50 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -9762,10 +9803,10 @@ int main(){
 ```
 
 ## P3608:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3608.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3608.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:42 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -9796,10 +9837,10 @@ int main() {
 ```
 
 ## P1023:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1023.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1023.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:14 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9817,10 +9858,10 @@ int main(){
 ```
 
 ## P3620:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3620.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3620.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:44 2022
+//Created in Sat Nov 12 09:25:50 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9841,10 +9882,10 @@ int main(){
 ```
 
 ## P1037:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1037.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1037.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:16 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -9880,10 +9921,10 @@ int main(){
 ```
 
 ## P3783:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3783.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3783.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:51 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #define ll long long
@@ -9909,10 +9950,10 @@ int main(){
 ```
 
 ## P1194:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1194.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1194.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:37 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #pragma GCC optimize(2)
 #pragma GCC optimize(3)
@@ -9942,10 +9983,10 @@ int main(){
 ```
 
 ## P3768:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3768.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3768.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:50 2022
+//Created in Sat Nov 12 09:25:55 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -9979,10 +10020,10 @@ int main(){
 ```
 
 ## P1157:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1157.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1157.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:32 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -9999,10 +10040,10 @@ int main(){
 ```
 
 ## P1631:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1631.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1631.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:58 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -10034,10 +10075,10 @@ int main(){
 ```
 
 ## P3595:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3595.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3595.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:41 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -10049,10 +10090,10 @@ int main(){
 ```
 
 ## P3543:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3543.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3543.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:38 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10070,10 +10111,10 @@ int main(){
 ```
 
 ## P3755:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3755.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3755.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:49 2022
+//Created in Sat Nov 12 09:25:54 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -10089,10 +10130,10 @@ int main() {
 ```
 
 ## P2339:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2339.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2339.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:21 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10112,10 +10153,10 @@ int main(){
 ```
 
 ## P2463:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2463.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2463.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:23 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -10151,7 +10192,7 @@ int main() {
 ```
 
 ## P7004  积器息:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P7004  积器息.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P7004  积器息.png)
 ```cpp
 
 //Created in Wed Nov  9 16:22:18 2022
@@ -10221,10 +10262,10 @@ int main(){
 ```
 
 ## P1036:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1036.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1036.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:16 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10252,10 +10293,10 @@ int main(){
 ```
 
 ## P1022:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1022.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1022.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:13 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10271,10 +10312,10 @@ int main(){
 ```
 
 ## P3609:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3609.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3609.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:42 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10297,10 +10338,10 @@ int main(){
 ```
 
 ## P2271:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2271.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2271.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:20 2022
+//Created in Sat Nov 12 09:25:40 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<stack>
@@ -10330,10 +10371,10 @@ int main(){
 ```
 
 ## P1963:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1963.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1963.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:12 2022
+//Created in Sat Nov 12 09:25:37 2022
  //System: Darwin 22.1.0
 #include <iostream>
 using namespace std;
@@ -10360,10 +10401,10 @@ int main(){
 ```
 
 ## P1595:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1595.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1595.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:50 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include "iostream"
 using namespace std;
@@ -10379,10 +10420,10 @@ int main(){
 ```
 
 ## P3382:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3382.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3382.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:32 2022
+//Created in Sat Nov 12 09:25:45 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -10414,10 +10455,10 @@ int main(){
 ```
 
 ## P1026:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1026.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1026.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:14 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -10442,10 +10483,10 @@ int main(){
 ```
 
 ## P1032:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1032.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1032.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:15 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -10466,10 +10507,10 @@ int main(){
 ```
 
 ## P3619:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3619.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3619.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:43 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -10498,10 +10539,10 @@ int main() {
 ```
 
 ## P2467:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2467.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2467.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:24 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10517,10 +10558,10 @@ int main(){
 ```
 
 ## P3584:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3584.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3584.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:41 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10541,10 +10582,10 @@ int main(){
 ```
 
 ## P1387:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1387.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1387.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:42 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10580,10 +10621,10 @@ int main(){
 ```
 
 ## P2116:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2116.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2116.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:17 2022
+//Created in Sat Nov 12 09:25:39 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -10612,10 +10653,10 @@ int main(){
 ```
 
 ## P3552:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3552.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3552.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:39 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<sstream>
@@ -10648,10 +10689,10 @@ int main(){
 ```
 
 ## P1386:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1386.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1386.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:41 2022
+//Created in Sat Nov 12 09:25:30 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10677,10 +10718,10 @@ int main(){
 ```
 
 ## P1609:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1609.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1609.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:55 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
@@ -10695,10 +10736,10 @@ int main(){
 ```
 
 ## P2466:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2466.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2466.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:24 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10716,10 +10757,10 @@ int main(){
 ```
 
 ## P1153:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1153.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1153.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:32 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10737,10 +10778,10 @@ int main(){
 ```
 
 ## P1806:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1806.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1806.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:07 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -10772,10 +10813,10 @@ int main(){
 ```
 
 ## P3618:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3618.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3618.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:43 2022
+//Created in Sat Nov 12 09:25:49 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<iomanip>
@@ -10792,10 +10833,10 @@ int main(){
 ```
 
 ## P1033:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1033.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1033.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:15 2022
+//Created in Sat Nov 12 09:25:21 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10817,10 +10858,10 @@ int main(){
 ```
 
 ## P1027:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1027.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1027.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:14 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10841,10 +10882,10 @@ int main(){
 ```
 
 ## P2710:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2710.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2710.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:29 2022
+//Created in Sat Nov 12 09:25:44 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10856,10 +10897,10 @@ int main(){
 ```
 
 ## P1596:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1596.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1596.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:51 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10875,10 +10916,10 @@ int main(){
 ```
 
 ## P2706:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2706.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2706.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:28 2022
+//Created in Sat Nov 12 09:25:43 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -10910,10 +10951,10 @@ int main(){
 ```
 
 ## P1794:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1794.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1794.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:05 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -10934,10 +10975,10 @@ int main(){
 ```
 
 ## P1757:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1757.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1757.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:04 2022
+//Created in Sat Nov 12 09:25:34 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -11009,10 +11050,10 @@ int main(){
 ```
 
 ## P1031:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1031.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1031.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:15 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11026,10 +11067,10 @@ int main(){
 ```
 
 ## P1025:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1025.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1025.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:14 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
@@ -11050,10 +11091,10 @@ int main(){
 ```
 
 ## P1019:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1019.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1019.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:13 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11073,10 +11114,10 @@ int main(){
 ```
 
 ## P1804:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1804.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1804.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:06 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include "iostream"
 
@@ -11101,10 +11142,10 @@ int main() {
 ```
 
 ## P1623:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1623.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1623.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:56 2022
+//Created in Sat Nov 12 09:25:33 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11133,10 +11174,10 @@ int main(){
 ```
 
 ## P1145:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1145.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1145.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:31 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11160,10 +11201,10 @@ int main(){
 ```
 
 ## P2464:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2464.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2464.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:23 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include "iostream"
 #include "cmath"
@@ -11181,10 +11222,10 @@ int main(){
 ```
 
 ## P3578:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3578.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3578.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:40 2022
+//Created in Sat Nov 12 09:25:48 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11224,10 +11265,10 @@ signed main(){
 ```
 
 ## P3545:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3545.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3545.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:39 2022
+//Created in Sat Nov 12 09:25:47 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -11247,10 +11288,10 @@ int main(){
 ```
 
 ## P2465:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2465.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2465.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:23 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11268,10 +11309,10 @@ int main(){
 ```
 
 ## P2459:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P2459.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P2459.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:22 2022
+//Created in Sat Nov 12 09:25:41 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11294,10 +11335,10 @@ int main(){
 ```
 
 ## P1150:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1150.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1150.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:32 2022
+//Created in Sat Nov 12 09:25:29 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cstring>
@@ -11353,10 +11394,10 @@ int main() {
 ```
 
 ## P1144:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1144.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1144.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:31 2022
+//Created in Sat Nov 12 09:25:28 2022
  //System: Darwin 22.1.0
 #include <iostream>
 #include <algorithm>
@@ -11398,10 +11439,10 @@ int main(){
 ```
 
 ## P1018:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1018.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1018.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:13 2022
+//Created in Sat Nov 12 09:25:19 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11415,10 +11456,10 @@ int main(){
 ```
 
 ## P3633:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P3633.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P3633.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:45 2022
+//Created in Sat Nov 12 09:25:50 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<algorithm>
@@ -11453,10 +11494,10 @@ int main(){
 ```
 
 ## P1024:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1024.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1024.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:14 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11480,10 +11521,10 @@ int main(){
 ```
 
 ## P1030:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1030.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1030.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:15 2022
+//Created in Sat Nov 12 09:25:20 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11495,10 +11536,10 @@ int main(){
 ```
 
 ## P1795:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1795.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1795.png)
 ```cpp
 
-//Created in Sat Nov 12 08:45:05 2022
+//Created in Sat Nov 12 09:25:35 2022
  //System: Darwin 22.1.0
 #include<iostream>
 using namespace std;
@@ -11521,10 +11562,10 @@ int main(){
 ```
 
 ## P1597:
-![](https://github.com/Lixuannan/oiclass-answers/blob/main/P1597.png)
+![](https://github.com/Lixuannan/oiclass-answers/raw/main/P1597.png)
 ```cpp
 
-//Created in Sat Nov 12 08:44:51 2022
+//Created in Sat Nov 12 09:25:32 2022
  //System: Darwin 22.1.0
 #include<iostream>
 #include<cmath>
