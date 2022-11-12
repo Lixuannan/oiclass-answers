@@ -1,8 +1,5 @@
-//Created in Sat Nov 12 08:45:04 2022
- //System: Darwin 22.1.0
-#include<iostream>
-#include<cmath>
-#pragma GCC optimize(2)//火车头
+//Created in Wed Nov  9 16:22:18 2022
+#pragma GCC optimize(2)
 #pragma GCC optimize(3)
 #pragma GCC optimize("Ofast")
 #pragma GCC optimize("inline")
@@ -49,21 +46,19 @@
 #pragma GCC optimize("-funsafe-loop-optimizations")
 #pragma GCC optimize("inline-functions-called-once")
 #pragma GCC optimize("-fdelete-null-pointer-checks")
+#include<iostream>
+#include<algorithm>
 using namespace std;
-int x, cnt;
-bool p[100000000];
+long long n, a[100000000];
 int main(){
-	cin >> x;
-	p[0] = p[1] = true;
-	for (int i = 2; i <= ceilf(sqrt(x)); i++) {
-		if (!p[i]){
-			for (int j = 2; j * i <= x; j++) {
-				p[j * i] = true;
-			}
-		}
+	cin >> n;
+	for (long long i=1; i <= n; i++){
+		cin >> a[i];
 	}
-	for (int i=2; i <= x; i++){
-		cnt += !p[i];
+	sort(a + 1, a + n + 1);
+	if (a[n] * a[n - 1] < a[1] * a[2]){
+		cout << a[1] * a[2];
+	}else {
+		cout << a[n] * a[n - 1];
 	}
-	cout << cnt;
 }
